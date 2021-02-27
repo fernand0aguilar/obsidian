@@ -1,0 +1,19 @@
+# Courage
+
+The good news is that there is no fun like making money, because financial strength affords us all kinds of options in our business and personal lives. 
+
+The path to financial strength begins with facing The Difficult Business Decision. There are some exceptions to the proclamation that we must specialize, but it is unlikely that we are one of them. 
+
+Until we make a brave decision, success will elude us and we will look at the market and complain about the economy or the clients, all the while knowing that it was us. 
+
+The problem has always been us, and our struggle with focus. We are at the root of our free-pitching problem and we alone have the power to free ourselves from the pitch. 
+
+The client will not free us. Our trade associations can do little to help us. Our competition will not cease to give their ideas away for free.
+
+The revolution we must fight is within. There is no enemy. We are victims only of a creative mind that makes choosing a focus more difficult for us than most. 
+
+A lucrative future where our enterprise sustains us and nourishes our creativity is within our control. 
+
+We must simply choose to take control, first by specializing and shifting the power back from the client toward us, and then we can begin to shape our future.
+
+[[The Paradox Of Choice]]

@@ -1,0 +1,12 @@
+
+# Fun and Money
+
+Fun and money have long been the two reasons we go to work in the morning. If we are honest with ourselves we will admit that in the beginning it was mostly about the fun. We were doing the work we loved. Others validated our expertise by actually paying us for it. There were late nights of shared purpose with colleagues, everyone doing what needed to be done to wow the client.
+
+We were kindred spirits all with the same passion for our craft. We celebrated our wins together and commiserated over the losses together. In those early days the studio was more college dorm room or rock ‘n’ roll tour bus than place of commercial enterprise.
+
+Then suddenly, it wasn’t fun anymore. Those that once inspired us became a burden. Employees became overhead. The late nights were too much. Somehow the money and the respect we hoped for never followed. The money, especially. For a long time we were in denial about the money. We didn’t need it; we were having fun. Then, when we faced our reality and decided we did need money, we did so grudgingly. Now, we’re tired of having fun and we’re willing to admit we’re in this, at least in part, for the money.
+
+There are greater causes by which to frame an enterprise, and there are nobler metrics by which to measure the value of effort. But we cannot escape the fact that money is both a necessity in life and the most basic scorecard of success in business. Even if it is not the validation we seek, it is the most basic of tests that we must pass: Is there a need for our efforts great enough to sustain and nurture them?
+
+[[Courage]]

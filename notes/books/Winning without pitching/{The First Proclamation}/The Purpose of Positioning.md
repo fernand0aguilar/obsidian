@@ -1,0 +1,29 @@
+## The Purpose of Positioning
+
+Positioning is an exercise in relativity. Our goal when endeavoring to position ourselves against our competition is to reduce or outright eliminate them. When we drastically reduce the real alternatives to hiring our firm, we shift the power balance away from the client and toward us.
+
+This power shift allows us to affect the buying process and increase our ability to protect ourselves from having to part with our thinking for free, from having to respond to wasteful and inefficient tenders or requests for proposals (RFP), and to otherwise devalue our own offering or increase our cost of sale.
+
+## The Three Steps of Positioning
+
+Positioning is strategy articulated and then proven.
+
+These components of strategy, language and proof are laid out here as the three steps we must take to build deep expertise and meaningfully differentiate ourselves from others:
+
+- We must choose a focus   
+- Then articulate that focus via a consistent claim of expertise
+- And finally, we must work to add the missing skills, capabilities and processes necessary to support our new claim.
+
+What we call positioning, others more serious about the business of their craft call fundamental business strategy. 
+
+The first step – **focus** – is to answer the strategy question of 
+
+**“What business are we in?”**
+
+Choosing the focus for our firm remains The Difficult Business Decision. The avoidance of The Difficult Business Decision remains the root cause of most business development problems.
+
+We can easily complete the second and third steps of positioning once we have summoned the boldness to tackle the first. 
+
+For reasons hardwired into the brain of an artist, however, most of us fail in this vital first step.
+
+[[The Benefits of Positioning]]

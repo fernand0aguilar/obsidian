@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Pages/Page — Weekly Note — Template.md",
+            "file": "notes/orthodoxy/Apollo.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 422.5
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Pages/Page — Weekly Note — Template.md"
+                "file": "notes/orthodoxy/Apollo.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "id": "1c6d265f778cffcf",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templates/Pages/Page — Weekly Note — Template.md",
+                "file": "notes/orthodoxy/Apollo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:reports",
@@ -133,22 +133,69 @@
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "Books",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1.21017543859649,
-                  "lineSizeMultiplier": 3.19842105263158,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "lineSizeMultiplier": 4.02628205128205,
+                  "collapse-forces": false,
+                  "centerStrength": 0.271367521367521,
                   "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0136072508934197,
-                  "close": false
+                  "linkStrength": 0.493589743589744,
+                  "linkDistance": 125,
+                  "scale": 0.535212164432161,
+                  "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "db383957f07d5c7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d24953ace6cecf0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e99bea8ce698ddb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c2ed66ac6382cf0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -157,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Pages/Page — Weekly Note — Template.md",
+                "file": "notes/orthodoxy/Apollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,24 +213,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 514.754638671875,
-    "collapsed": true
+    "width": 514.754638671875
   },
   "lastOpenFiles": [
-    "templates/Pages/Page — Weekly Note — Template.md",
-    "templates/Pages/Page — Project — Template.md",
-    "templates/Pages/Page — Note Zettel — Template.md",
-    "templates/Pages/Page — Meeting Log — Template.md",
-    "templates/Pages/Page — Fitness Log — Template.md",
-    "templates/Pages/Page — Daily Note — Template.md",
-    "templates/Section/Section — Meta Frontmatter — Template.md",
-    "templates/Pages/Page — POD — Template.md",
-    "templates/Pages/Page — People — Template.md",
-    "templates/Pages/Page — Ukulele Practice Entry — Template.md"
+    "notes/orthodoxy/Untitled.md",
+    "notes/books/Winning without pitching/Starting Point  - Winning without pitching.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/Courage.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/Fun And Money.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/The Paradox Of Choice.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/We Will Specialize.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/The Benefits of Positioning.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/Untitled.md",
+    "notes/books/Root.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/We Are the Sum of Our Choices.md"
   ]
 }

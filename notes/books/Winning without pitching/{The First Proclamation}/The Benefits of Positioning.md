@@ -1,0 +1,36 @@
+# The Benefits of Positioning
+
+We can measure the success of our positioning by gauging our ability to command two things simultaneously: **a sales advantage and a price premium.**
+
+**A Sales Advantage** → To possess a sales advantage means that when and where we choose to compete, we win more often than not.
+
+**A Price Premium** → To command a price premium means that when we win, we do so not by cutting price, but while charging more.
+
+Winning while charging more is the ultimate benefit and key indicator of effective positioning, for price elasticity is tied to the availability of substitutes.
+
+The more alternatives to our firm, the less power we have to command a premium over our competition. 
+
+If we do not win while charging more then it is likely we are attempting to run a business of ideas and advice from a position of weakness; or we are trying to compete outside of our area of focus; 
+
+or we have avoided The Difficult Business Decision altogether and have chosen, by not choosing at all, to run a business without a focus or a fundamental business strategy.
+
+Control → Beyond the combined benefits of a sales advantage and a price premium, positioning brings us control in the form of increased ability to guide the engagement. 
+
+We are hired for our expertise and not our service. It is a mistake to believe that the service sector mantra of “The customer is always right” applies to us. 
+
+Like any engagement of expertise, we often enter into ours with the client not truly knowing what he needs, let alone recognizing the route to a solution. 
+	For us to do our best work we need to leverage our outside perspective. We need to be allowed to lead the engagement. 
+
+## We need to take control.
+
+Our ability to control the engagement diminishes with time. Sometimes we lose control slowly and other times quickly, but we always lose it. It is important, therefore, that we enter the engagement with as much control as possible. 
+
+Indeed, business development can be viewed as the polite battle for control. If we do not win it here, before we are hired, there is little point in proceeding.
+
+It does not come easy to us to ask for control when we have little power in the relationship.
+
+To jockey for the power position seems at odds with our belief that we should demonstrate our enthusiasm for winning the business. 
+
+We are optimistic, enthusiastic people, but it is time to admit that our enthusiasm has not always served us well.
+
+[[We Are the Sum of Our Choices]]

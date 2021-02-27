@@ -1,0 +1,35 @@
+# We Are the Sum of Our Choices
+
+We are lucky to do what we love. And we deserve to be able to do it. But as business owners we need to accept that loving our craft is no substitute for making intelligent business decisions. Passion for design does not grant us dispensation from facing The Difficult Business Decision. 
+
+Once we choose to make our passion our business, we take on responsibilities to our clients, families and employees. Among other things, those responsibilities include the need to generate a profit above and beyond the salaries we pay ourselves. 
+
+It is from this profit that we build strength and create many forms of possibilities for ourselves and everyone involved in our enterprise.
+
+Who among us, when faced with the question, “Would you choose to be weak or strong?” would choose to be weak? We face this choice on physical, emotional, spiritual, financial and other fronts. We face it in our personal lives and in business. Some choose to be strong because they wish to rule others. Some choose to be strong because they wish to help others.
+
+Some choose to be strong because they’ve experienced the alternative and never want to be weak again. What we choose to do with our strength is our decision, but as business owners we have an obligation to choose and then to pursue the path we have chosen. No one consciously chooses to be weak. In business, weakness is often a symptom of not making The Difficult Business Decision.
+
+# The Cost Of Creativity
+
+One of the hallmarks of creativity is a fascination with the new and the different.
+
+Properly harnessed, this fascination allows us to bring fresh thinking to old problems and ensure that our offerings to our clients are always evolving. 
+
+Unharnessed, our firm-wide desire for the new and the different can lead us to avoid The Difficult Business Decision. It can serve as a rationale for not having to choose a focus, for not having to eliminate competition.
+
+We can choose to let our fascinations and passions go unbridled. We can choose to remain a “full service” firm doing all things for all people. 
+
+This lack of strategy will make us relevant to everyone with marketing or communication needs. It will indulge our desires to do something different every day, and to make every engagement different from the previous ones.
+
+When we make this choice, however, we invite all kinds of undifferentiated competition as well as some highly differentiated, specialized competition. We invite numerous alternatives to hiring our firm and we place the power squarely with the client. In this competitive environment we will never be the expert firm, we will never command the respect or margin we want, and we will never be free of the pitch.
+
+We must recognize that as individuals we are inclined against the narrow focus that drives deep expertise, but we must also recognize that our business must have this focus if it is to prosper. 
+
+We must see our protestations, rationalizations and justifications for not facing The Difficult Business Decision for what they are: excuses.
+
+While some make business success look easy, we know that the best rewards are the ones for which we've worked hardest. 
+
+As creative people running businesses, the difficulty of deciding what business we are in is made harder by our inclination to preserve our options, to pursue something we've never done before, to reserve the right to do it differently next time.
+
+[[The Paradox Of Choice]]
