@@ -18,4 +18,6 @@ They have gone from order-taker suppliers to expert advisors and have forged a m
 
 		\[pıch\] To attempt to sell or win approval for one’s ideas by giving them away for free, usually within a competitive, buyer-driven process
 
-[[We Will Specialize]]
+[[1. {The First Proclamation} - We Will Specialize]]
+[[1. {The Second Proclamation} - We Will Replace Presentations With Conversations]]
+[[1. {The Third Proclamation} - We Will Diagnose Before We Prescribe]]

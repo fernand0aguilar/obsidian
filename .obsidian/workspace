@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/orthodoxy/Apollo.md",
+            "file": "notes/books/Winning without pitching/{The Third Proclamation}/1. {The Third Proclamation} - We Will Diagnose Before We Prescribe.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Mem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,42 +79,8 @@
     "type": "split",
     "children": [
       {
-        "id": "9534e310d0e8ec16",
-        "type": "tabs",
-        "dimension": 51.79533213644524,
-        "children": [
-          {
-            "id": "8155f0cfb5122d8f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "notes/orthodoxy/Apollo.md"
-              }
-            }
-          },
-          {
-            "id": "3aa2ac9732e4cba0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c6d265f778cffcf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "4769a36c58d6845c",
         "type": "tabs",
-        "dimension": 48.204667863554754,
         "children": [
           {
             "id": "1ba04d1f24ae7365",
@@ -122,7 +88,43 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/orthodoxy/Apollo.md",
+                "file": "notes/books/Winning without pitching/{The Second Proclamation}/6. Step Two - Eliminating Big Reveals in the Buying Cycle.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.15205882352941,
+                  "lineSizeMultiplier": 1.67088235294118,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 11.5882352941176,
+                  "linkStrength": 1,
+                  "linkDistance": 112,
+                  "scale": 0.38564307862721925,
+                  "close": true
+                }
+              }
+            },
+            "group": "603929e2310c3324"
+          },
+          {
+            "id": "0d90e3c05df130f0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/books/Winning without pitching/{The Second Proclamation}/6. Step Two - Eliminating Big Reveals in the Buying Cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:reports",
@@ -164,71 +166,25 @@
                   "close": true
                 }
               }
-            }
-          },
-          {
-            "id": "db383957f07d5c7a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d24953ace6cecf0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e99bea8ce698ddb2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c2ed66ac6382cf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e467f7565d1dbad3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notes/orthodoxy/Apollo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+            },
+            "group": "603929e2310c3324"
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 514.754638671875
+    "width": 490.5
   },
   "lastOpenFiles": [
-    "notes/orthodoxy/Untitled.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/1. {The Third Proclamation} - We Will Diagnose Before We Prescribe.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/4. The Root of Bad Engagements.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/5. The Polite Battle for Control.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/3. The Nature of Successful Clients.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/Untitled.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/2. The Practitioner’s Perspective.md",
+    "notes/books/Winning without pitching/{The Third Proclamation}/{The Third Proclamation}.md",
     "notes/books/Winning without pitching/Starting Point  - Winning without pitching.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/Courage.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/Fun And Money.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/The Paradox Of Choice.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/We Will Specialize.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/The Benefits of Positioning.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/Untitled.md",
     "notes/books/Root.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/We Are the Sum of Our Choices.md"
+    "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md"
   ]
 }
