@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/books/Winning without pitching/{The Third Proclamation}/1. {The Third Proclamation} - We Will Diagnose Before We Prescribe.md",
+            "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CRC",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
                   "repelStrength": 11.5882352941176,
                   "linkStrength": 1,
                   "linkDistance": 112,
-                  "scale": 0.38564307862721925,
+                  "scale": 0.26593074715104675,
                   "close": true
                 }
               }
@@ -168,23 +168,84 @@
               }
             },
             "group": "603929e2310c3324"
+          },
+          {
+            "id": "4c62d5c0117d1b94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c534b8c07e2425c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Bit24/Ray's Ideas/Collaborations.md"
+              }
+            }
+          },
+          {
+            "id": "a9a7e553e2ed4283",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 357.5
   },
   "lastOpenFiles": [
-    "notes/books/Winning without pitching/{The Third Proclamation}/1. {The Third Proclamation} - We Will Diagnose Before We Prescribe.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/4. The Root of Bad Engagements.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/5. The Polite Battle for Control.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/3. The Nature of Successful Clients.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/Untitled.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/2. The Practitioner’s Perspective.md",
-    "notes/books/Winning without pitching/{The Third Proclamation}/{The Third Proclamation}.md",
-    "notes/books/Winning without pitching/Starting Point  - Winning without pitching.md",
+    "notes/Bit24/Ray's Ideas/Collaborations.md",
+    "notes/Bit24/Ray's Ideas/Producer-Consumer with a published interface..md",
+    "notes/Bit24/Ray's Ideas/CRC.md",
+    "notes/Bit24/Ray's Ideas/Untitled.md",
+    "notes/Bit24/Untitled.md",
+    "notes/Bit24/CRC.md",
     "notes/books/Root.md",
+    "notes/CDC.md",
+    "notes/books/Winning without pitching/{The First Proclamation}/2. The Purpose of Positioning.md",
     "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md"
   ]
 }
