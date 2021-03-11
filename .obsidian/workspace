@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "69f1e9b06a1b2a68",
+        "id": "b82953d0ac443d77",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reports/Daily Notes/2021-03-11.md",
+            "file": "templates/Pages/Page — Daily Note — Template.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4b378424dd4426b6"
+      },
+      {
+        "id": "c733a9da6aa34278",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "templates/Pages/Page — Daily Note — Template.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.33012916384970126,
+              "close": true
+            }
+          }
+        },
+        "group": "4b378424dd4426b6"
       }
     ],
     "direction": "vertical"
@@ -40,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CRC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -72,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 229.5
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -83,99 +120,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ba04d1f24ae7365",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "notes/books/Winning without pitching/{The Second Proclamation}/6. Step Two - Eliminating Big Reveals in the Buying Cycle.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.15205882352941,
-                  "lineSizeMultiplier": 1.67088235294118,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 11.5882352941176,
-                  "linkStrength": 1,
-                  "linkDistance": 112,
-                  "scale": 0.26593074715104675,
-                  "close": true
-                }
-              }
-            },
-            "group": "603929e2310c3324"
-          },
-          {
-            "id": "0d90e3c05df130f0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "notes/books/Winning without pitching/{The Second Proclamation}/6. Step Two - Eliminating Big Reveals in the Buying Cycle.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "-path:reports",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "Books",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.21017543859649,
-                  "lineSizeMultiplier": 4.02628205128205,
-                  "collapse-forces": false,
-                  "centerStrength": 0.271367521367521,
-                  "repelStrength": 10,
-                  "linkStrength": 0.493589743589744,
-                  "linkDistance": 125,
-                  "scale": 0.535212164432161,
-                  "close": true
-                }
-              }
-            },
-            "group": "603929e2310c3324"
-          },
-          {
             "id": "4c62d5c0117d1b94",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/Daily Notes/2021-03-11.md",
+                "file": "templates/Pages/Page — Daily Note — Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,62 +140,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/Daily Notes/2021-03-11.md"
-              }
-            }
-          },
-          {
-            "id": "a9a7e553e2ed4283",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "reports/Daily Notes/2021-03-11.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0.7,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 2.92692307692308,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 500,
-                  "scale": 0.8256034672414496,
-                  "close": false
-                }
+                "file": "templates/Pages/Page — Daily Note — Template.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 458.5
   },
   "lastOpenFiles": [
+    "templates/Pages/Page — Daily Note — Template.md",
+    "reports/Daily Notes/11-03-2021.md",
+    "notes/Bit24/Ray's Ideas/CRC.md",
+    "notes/Bit24/Ray's Ideas/Collaborations.md",
+    "notes/Threads/Boss Your Day.md",
+    "templates/Blocks/Block — i drank — Template.md",
+    "templates/Pages/Page — Meeting Log — Template.md",
     "reports/Daily Notes/2021-03-11.md",
     "templates/Blocks/Block — Current Date and Time (tts) — Template.md",
-    "templates/Blocks/Block — Created Date — Template.md",
-    "templates/Sections/Section — Meta Frontmatter — Template.md",
-    "templates/Sections/Section — Meeting — Template.md",
-    "templates/Sections/Section — Logs — Template.md",
-    "templates/Sections/Section — About — Template.md",
-    "templates/Sections/Section — Footer — Template.md",
-    "notes/Daily Journal/Untitled 1.md",
-    "notes/Daily Journal/Page — Daily Note — Template 1.md"
+    "templates/Blocks/Block — Created Date — Template.md"
   ]
 }
