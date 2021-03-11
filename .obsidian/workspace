@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
+            "file": "reports/Daily Notes/2021-03-11.md",
             "mode": "source"
           }
         }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
+                "file": "reports/Daily Notes/2021-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Bit24/Ray's Ideas/Collaborations.md"
+                "file": "reports/Daily Notes/2021-03-11.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Bit24/Ray's Ideas/Collaborations.md",
+                "file": "reports/Daily Notes/2021-03-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,15 +215,15 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": 0.7,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "lineSizeMultiplier": 2.92692307692308,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
+                  "linkDistance": 500,
+                  "scale": 0.8256034672414496,
                   "close": false
                 }
               }
@@ -234,18 +234,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 458.5
   },
   "lastOpenFiles": [
-    "notes/Bit24/Ray's Ideas/Collaborations.md",
-    "notes/Bit24/Ray's Ideas/Producer-Consumer with a published interface..md",
-    "notes/Bit24/Ray's Ideas/CRC.md",
-    "notes/Bit24/Ray's Ideas/Untitled.md",
-    "notes/Bit24/Untitled.md",
-    "notes/Bit24/CRC.md",
-    "notes/books/Root.md",
-    "notes/CDC.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/2. The Purpose of Positioning.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md"
+    "reports/Daily Notes/2021-03-11.md",
+    "templates/Blocks/Block — Current Date and Time (tts) — Template.md",
+    "templates/Blocks/Block — Created Date — Template.md",
+    "templates/Sections/Section — Meta Frontmatter — Template.md",
+    "templates/Sections/Section — Meeting — Template.md",
+    "templates/Sections/Section — Logs — Template.md",
+    "templates/Sections/Section — About — Template.md",
+    "templates/Sections/Section — Footer — Template.md",
+    "notes/Daily Journal/Untitled 1.md",
+    "notes/Daily Journal/Page — Daily Note — Template 1.md"
   ]
 }
