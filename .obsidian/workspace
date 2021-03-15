@@ -6,27 +6,29 @@
       {
         "id": "b82953d0ac443d77",
         "type": "leaf",
+        "dimension": 54.55871626549964,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Pages/Page — Daily Note — Template.md",
+            "file": "notes/Get Radicalized/Architectural Sovereignty.md",
             "mode": "source"
           }
         },
-        "group": "4b378424dd4426b6"
+        "group": "316ba339c0b8006f"
       },
       {
-        "id": "c733a9da6aa34278",
+        "id": "af0980b53eb24253",
         "type": "leaf",
+        "dimension": 45.44128373450037,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "templates/Pages/Page — Daily Note — Template.md",
+            "file": "notes/Get Radicalized/Architectural Sovereignty.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
-              "localJumps": 2,
+              "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -40,17 +42,17 @@
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
+              "collapse-forces": false,
+              "centerStrength": 0.166666666666667,
+              "repelStrength": 8.63247863247863,
               "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.33012916384970126,
+              "linkDistance": 500,
+              "scale": 0.30573694626676373,
               "close": true
             }
           }
         },
-        "group": "4b378424dd4426b6"
+        "group": "316ba339c0b8006f"
       }
     ],
     "direction": "vertical"
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Pages/Page — Daily Note — Template.md",
+                "file": "notes/Get Radicalized/Architectural Sovereignty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Pages/Page — Daily Note — Template.md"
+                "file": "notes/Get Radicalized/Architectural Sovereignty.md"
               }
             }
           }
@@ -149,18 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 458.5,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "templates/Pages/Page — Daily Note — Template.md",
-    "reports/Daily Notes/11-03-2021.md",
-    "notes/Bit24/Ray's Ideas/CRC.md",
-    "notes/Bit24/Ray's Ideas/Collaborations.md",
+    "notes/Get Radicalized/Architectural Sovereignty.md",
+    "notes/Get Radicalized/Start Here.md",
+    "Architectural Sovereignty.md",
     "notes/Threads/Boss Your Day.md",
-    "templates/Blocks/Block — i drank — Template.md",
-    "templates/Pages/Page — Meeting Log — Template.md",
-    "reports/Daily Notes/2021-03-11.md",
-    "templates/Blocks/Block — Current Date and Time (tts) — Template.md",
-    "templates/Blocks/Block — Created Date — Template.md"
+    "notes/orthodoxy/Apollo.md",
+    "notes/Get Radicalized/Untitled.md",
+    "reports/Daily Notes/11-03-2021.md",
+    "reports/Daily Notes/14-03-2021.md",
+    "templates/Pages/Page — Daily Note — Template.md",
+    "notes/Bit24/Ray's Ideas/CRC.md"
   ]
 }
