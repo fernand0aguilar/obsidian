@@ -6,25 +6,23 @@
       {
         "id": "b82953d0ac443d77",
         "type": "leaf",
-        "dimension": 54.55871626549964,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Get Radicalized/Architectural Sovereignty.md",
+            "file": "notes/Get Radicalized/Start Here.md",
             "mode": "source"
           }
         },
-        "group": "316ba339c0b8006f"
+        "group": "e7eb1bbf6cfc6035"
       },
       {
-        "id": "af0980b53eb24253",
+        "id": "11ad1d3d8a068776",
         "type": "leaf",
-        "dimension": 45.44128373450037,
+        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "notes/Get Radicalized/Architectural Sovereignty.md",
+            "file": "notes/Get Radicalized/Start Here.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -42,17 +40,17 @@
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.166666666666667,
-              "repelStrength": 8.63247863247863,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
               "linkStrength": 1,
-              "linkDistance": 500,
-              "scale": 0.30573694626676373,
-              "close": true
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
             }
           }
         },
-        "group": "316ba339c0b8006f"
+        "group": "e7eb1bbf6cfc6035"
       }
     ],
     "direction": "vertical"
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Get Radicalized/Architectural Sovereignty.md",
+                "file": "notes/Get Radicalized/Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Get Radicalized/Architectural Sovereignty.md"
+                "file": "notes/Get Radicalized/Start Here.md"
               }
             }
           }
@@ -155,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes/Get Radicalized/Architectural Sovereignty.md",
     "notes/Get Radicalized/Start Here.md",
-    "Architectural Sovereignty.md",
-    "notes/Threads/Boss Your Day.md",
-    "notes/orthodoxy/Apollo.md",
-    "notes/Get Radicalized/Untitled.md",
-    "reports/Daily Notes/11-03-2021.md",
-    "reports/Daily Notes/14-03-2021.md",
-    "templates/Pages/Page — Daily Note — Template.md",
-    "notes/Bit24/Ray's Ideas/CRC.md"
+    "notes/Get Radicalized/Market Evolution & Key Prospects.md",
+    "notes/Get Radicalized/The 7 Virtues.md",
+    "notes/books/Winning without pitching/{The Second Proclamation}/4. Step One - Improving Collaboration with Existing Clients.md",
+    "notes/books/Winning without pitching/{The Second Proclamation}/1. {The Second Proclamation} - We Will Replace Presentations With Conversations.md",
+    "notes/books/Winning without pitching/Starting Point  - Winning without pitching.md",
+    "notes/books/Root.md",
+    "notes/Get Radicalized/Architectural Sovereignty.md",
+    "Ethnolinguistics & Diplomacy.md",
+    "notes/Get Radicalized/Arithmetic Perusal.md"
   ]
 }
