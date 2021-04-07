@@ -29,7 +29,7 @@
 
 [[13) Create more than you consume. Build systems, create products and leverage consumers. The more you can create in this life the more you can give and the more you give the more you get. Karma is real.]]
 
-1[[4) Stand up for yourself always. Don’t let negativity creep into your life, ever. Defend your beliefs, defend who you are as a person and never hold back.]]
+[[14) Stand up for yourself always. Don’t let negativity creep into your life, ever. Defend your beliefs, defend who you are as a person and never hold back.]]
 
 [[15) Find inspiration. To live life truly inspired is a magical way of living. Find your passions, actively seek them out and pursue them daily. Pursue your passions daily.]]
 

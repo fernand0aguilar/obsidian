@@ -29,5 +29,7 @@
 • [[Hyper-reality]]
 • [[Data Agencies]]
 • [[Interplanetary Markets]]
-• [[Deteriorating Nations]]
+• [[Improving Nations]]
 • [[Burgeoning Ideologies ]]
+• [[Accurate Thinking]]
+• [[Lançamento meteorico]]
