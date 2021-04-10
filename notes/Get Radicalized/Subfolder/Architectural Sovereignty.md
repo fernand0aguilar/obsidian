@@ -2,7 +2,9 @@
 
 iconic architecture plays a leading role in the way in which we form our cultural identity.
 
-Why is it that iconic architecture is still considered to be a source of national pride? And what role does iconic architecture play in the emergence of the new global architecture and in what way?
+Why is it that iconic architecture is still considered to be a source of national pride? 
+
+And what role does iconic architecture play in the emergence of the new global architecture and in what way?
 
 It reflects the uniqueness and historical achievements of nations and also its own design assumptions and aesthetics which, for any culture, have been accumulated over a period of time, and represent the pride of nations
 
