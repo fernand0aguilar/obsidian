@@ -9,47 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Get Radicalized/Subfolder/Arithmetic Perusal.md",
+            "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
             "mode": "source"
           }
-        },
-        "group": "86d1b60afd720241"
-      },
-      {
-        "id": "f12e4280eadcf213",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "notes/Get Radicalized/Subfolder/Arithmetic Perusal.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.011875819256803,
-              "close": true
-            }
-          }
-        },
-        "group": "86d1b60afd720241"
+        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 288
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -124,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Arithmetic Perusal.md",
+                "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Arithmetic Perusal.md"
+                "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md"
               }
             }
           }
@@ -153,17 +116,17 @@
     "width": 458.5,
     "collapsed": true
   },
-  "active": "f12e4280eadcf213",
+  "active": "fd5cb7a890f0e02e",
   "lastOpenFiles": [
-    "notes/Get Radicalized/Subfolder/Arithmetic Perusal.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Introspection.md",
     "notes/Get Radicalized/Start Here.md",
-    "notes/Mathematics/Untitled.md",
-    "Geometric Algebra.md",
-    "notes/Threads/Boss Your Day.md",
-    "notes/Get Radicalized/Market Evolution & Key Prospects.md",
-    "notes/Get Radicalized/The 7 Virtues.md",
-    "notes/books/Winning without pitching/{The Second Proclamation}/4. Step One - Improving Collaboration with Existing Clients.md",
-    "notes/books/Winning without pitching/{The Second Proclamation}/1. {The Second Proclamation} - We Will Replace Presentations With Conversations.md",
-    "notes/books/Winning without pitching/Starting Point  - Winning without pitching.md"
+    "notes/Get Radicalized/Accurate Thinking.md",
+    "notes/Get Radicalized/7-Virtues/The Seven Heavenly Virtues.md",
+    "notes/Get Radicalized/7-Virtues/The Seven Corporal Works of Mercy.md",
+    "notes/Get Radicalized/7-Virtues/The Seven Contrary Virtues.md",
+    "notes/Get Radicalized/7-Virtues/The Seven Bushido Virtues.md",
+    "notes/Get Radicalized/7-Virtues/The four Cardinal Virtues.md",
+    "notes/Get Radicalized/7-Virtues/The common virtues.md"
   ]
 }
