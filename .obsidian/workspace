@@ -6,13 +6,52 @@
       {
         "id": "fd5cb7a890f0e02e",
         "type": "leaf",
+        "dimension": 40.95238095238095,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+            "file": "notes/Fixing my Life/Who You Are.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "3dab132ad5dc6dda"
+      },
+      {
+        "id": "626715e100503600",
+        "type": "leaf",
+        "dimension": 59.04761904761906,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Fixing my Life/Who You Are.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.24394052318345186,
+              "close": true
+            }
+          }
+        },
+        "group": "3dab132ad5dc6dda"
       }
     ],
     "direction": "vertical"
@@ -87,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+                "file": "notes/Fixing my Life/Who You Are.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Accurate Thinking.md"
+                "file": "notes/Fixing my Life/Who You Are.md"
               }
             }
           }
@@ -116,17 +155,17 @@
     "width": 458.5,
     "collapsed": true
   },
-  "active": "fd5cb7a890f0e02e",
+  "active": "626715e100503600",
   "lastOpenFiles": [
-    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
-    "notes/Get Radicalized/Introspection.md",
-    "notes/Get Radicalized/Start Here.md",
-    "notes/Get Radicalized/Accurate Thinking.md",
-    "notes/Get Radicalized/7-Virtues/The Seven Heavenly Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The Seven Corporal Works of Mercy.md",
-    "notes/Get Radicalized/7-Virtues/The Seven Contrary Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The Seven Bushido Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The four Cardinal Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The common virtues.md"
+    "notes/Fixing my Life/Who You Are.md",
+    "What kind of people do I admire?.md",
+    "What kind of person do I want to be around the people I care about?.md",
+    "What kind of relationships do I want with friends, family, colleagues, and romantic partners?.md",
+    "notes/Fixing my Life/What do you want.md",
+    "notes/Fixing my Life/Which People would fit.md",
+    "notes/Fixing my Life/What you need to become.md",
+    "notes/Fixing my Life/Untitled.md",
+    "notes/WhoIAM/Untitled.md",
+    "notes/Get Radicalized/Start Here.md"
   ]
 }
