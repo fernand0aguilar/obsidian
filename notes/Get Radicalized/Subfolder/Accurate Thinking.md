@@ -1,8 +1,9 @@
 [[Right decisions]]
 
+If I know what I want from life, demand it, and back my demand by willingness to pay life's price for what I want and refuse to accept any substitutes, the law of [[Hypnotic Rythm]] helps by natural and logical means to transmute it into its physical counterpart. 
 
 
-# On Failure
+# On Success
 
 
 Use failure as an stepping stone to achievement while others use it as an alibi for not producing results.

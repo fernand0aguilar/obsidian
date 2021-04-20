@@ -16,3 +16,12 @@ Form the habit of reaching definite decisions on all subjects.
  8. When you pray, do not beg. Demand what you want and insist upon getting exactly that with no substitutes.
  9. recognize that life is a cruel taskmaster and either you master it or it masters you. There is no halfway or compromising point. Never accept from life anything which you do not want. If that which you do not want is forced upon you, you can refuse in your own mind to accept it and it will make way for the thing you do want.
  10. Remember that your dominating thoughts attract through a definite law of nature, by the shortest and most convenient route, their physical counterpart. Be careful what thoughts you dwell upon.
+
+
+# God -> 
+Positive thinking and Constructive deeds
+
+Trust and use your own power of thought. This is the direct road to the direct store house of infinite intelligence. Embrace the power to use your mind constructively. 
+
+The churches are being used to plant the seed of fear, uncertainty and indefiniteness in the minds of people. These negative states of mind cause the habit of drifting. 
+

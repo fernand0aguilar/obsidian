@@ -13,3 +13,10 @@ which are specific opposites to the Seven Deadly Sins:
 [[Liberality]] against greed, 
 
 [[ Diligence]] against sloth.
+
+
+# Negative
+greed, lust, avarice, envy, hatred
+
+# Positive
+liberality, chastity, abstinence, patience, 
