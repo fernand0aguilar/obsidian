@@ -7,11 +7,8 @@
         "id": "b5df2a2e6fbb595f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -118,15 +112,15 @@
   },
   "active": "b5df2a2e6fbb595f",
   "lastOpenFiles": [
-    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
-    "notes/Fixing my Life/Which rules and ethics do I live by?.md",
-    "notes/Fixing my Life/Who You Are.md",
-    "notes/books/Untitled.md",
-    "notes/books/Root.md",
-    "notes/Get Radicalized/7-Virtues/Untitled.md",
+    "notes/Get Radicalized/Subfolder/God.md",
+    "notes/Get Radicalized/Subfolder/Right decisions.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/books/Outwitting The Devil.md",
+    "notes/books/Outwitting the devil.md",
+    "notes/Get Radicalized/7-Virtues/Outwitting The Devil.md",
     "notes/Get Radicalized/7-Virtues/The seven Principles to unlock the doors of life.md",
-    "notes/Get Radicalized/7-Virtues/The 7 Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The Theological Virtues.md",
-    "notes/Get Radicalized/Start Here.md"
+    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+    "notes/Fixing my Life/Which rules and ethics do I live by?.md"
   ]
 }
