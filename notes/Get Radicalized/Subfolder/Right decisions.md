@@ -18,10 +18,14 @@ Form the habit of reaching definite decisions on all subjects.
  10. Remember that your dominating thoughts attract through a definite law of nature, by the shortest and most convenient route, their physical counterpart. Be careful what thoughts you dwell upon.
 
 
-# God -> 
-Positive thinking and Constructive deeds
+# [[God]] -> 
+Positive thinking and Constructive deeds.
+
+God is good.
 
 Trust and use your own power of thought. This is the direct road to the direct store house of infinite intelligence. Embrace the power to use your mind constructively. 
 
 The churches are being used to plant the seed of fear, uncertainty and indefiniteness in the minds of people. These negative states of mind cause the habit of drifting. 
 
+
+# [[Outwitting The Devil]]
