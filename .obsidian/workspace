@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "notes/managment/Producer-Consumer with a published interface..md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "notes/managment/Producer-Consumer with a published interface..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "notes/managment/Producer-Consumer with a published interface..md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "dca29dfac081fc6e",
   "lastOpenFiles": [
+    "notes/managment/Producer-Consumer with a published interface..md",
+    "notes/managment/CRC.md",
+    "notes/managment/Collaborations.md",
     "conflict-files-obsidian-git.md",
     "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
     "notes/Get Radicalized/Becoming an Entrepreuner/This is how you win.md",
     "notes/Get Radicalized/Start Here.md",
     "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
     "notes/Get Radicalized/Subfolder/Fortitude.md",
-    "notes/Fixing my Life/Who You Are.md",
-    "notes/Fixing my Life/Which rules and ethics do I live by?.md",
-    "notes/Fixing my Life/Which People would fit.md",
-    "notes/Fixing my Life/What you need to become.md"
+    "notes/Fixing my Life/Who You Are.md"
   ]
 }
