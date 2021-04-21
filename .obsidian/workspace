@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+            "file": "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "162febfa29a41520"
+      },
+      {
+        "id": "f8b5698fc722a36c",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.11042758507437,
+              "close": false
+            }
+          }
+        },
+        "group": "162febfa29a41520"
       }
     ],
     "direction": "vertical"
@@ -71,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458
+    "width": 526
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+                "file": "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md"
+                "file": "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md"
               }
             }
           }
@@ -118,15 +155,15 @@
   },
   "active": "b5df2a2e6fbb595f",
   "lastOpenFiles": [
-    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
-    "notes/Fixing my Life/Which rules and ethics do I live by?.md",
+    "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
+    "notes/Get Radicalized/Becoming an Entrepreuner/This is how you win.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Subfolder/Fortitude.md",
     "notes/Fixing my Life/Who You Are.md",
-    "notes/books/Untitled.md",
-    "notes/books/Root.md",
-    "notes/Get Radicalized/7-Virtues/Untitled.md",
-    "notes/Get Radicalized/7-Virtues/The seven Principles to unlock the doors of life.md",
-    "notes/Get Radicalized/7-Virtues/The 7 Virtues.md",
-    "notes/Get Radicalized/7-Virtues/The Theological Virtues.md",
-    "notes/Get Radicalized/Start Here.md"
+    "notes/Fixing my Life/Which rules and ethics do I live by?.md",
+    "notes/Fixing my Life/Which People would fit.md",
+    "notes/Fixing my Life/What you need to become.md",
+    "notes/Fixing my Life/What would my preferred financial situation look like?.md"
   ]
 }
