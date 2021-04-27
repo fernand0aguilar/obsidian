@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+            "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7193ad47e33d9d21"
+      },
+      {
+        "id": "58119c46990b5635",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "7193ad47e33d9d21"
       }
     ],
     "direction": "vertical"
@@ -49,14 +86,6 @@
             }
           },
           {
-            "id": "baf3a0fb4cf01b6b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "0e317a6be7c3c7d8",
             "type": "leaf",
             "state": {
@@ -65,6 +94,14 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "38ea4e670e49e94d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+                "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Fixing my Life/What kind of person do I aspire to be?.md"
+                "file": "notes/Threads/Apollo, Dionysus, Hermes.md"
               }
             }
           }
@@ -118,15 +155,15 @@
   },
   "active": "5e256471f8a3f5ef",
   "lastOpenFiles": [
-    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
-    "notes/Fixing my Life/Which rules and ethics do I live by?.md",
-    "notes/Fixing my Life/Which People would fit.md",
-    "notes/Fixing my Life/What you need to become.md",
+    "notes/Threads/Apollo, Dionysus, Hermes.md",
+    "notes/MKT/Como funciona.md",
+    "notes/MKT/ETAPAS.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/orthodoxy/Apollo, Dionysus, Hermes.md",
+    "notes/orthodoxy/Untitled.md",
     "notes/orthodoxy/Apollo.md",
-    "notes/orthodoxy/God.md",
-    "notes/books/Untitled.md",
-    "notes/Fixing my Life/What do you want.md",
-    "notes/Get Radicalized/Becoming an Entrepreuner/Becoming an entrepreuner.md",
-    "notes/managment/Producer-Consumer with a published interface..md"
+    "notes/Get Radicalized/Subfolder/Burgeoning Ideologies.md",
+    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
+    "notes/Fixing my Life/Which rules and ethics do I live by?.md"
   ]
 }
