@@ -1,37 +1,49 @@
  # Topics to go deep
-• [[Introspection]]
-• [[Open-source Intelligence (OSINT)]]
-• [[Self-cultivation]]
-• [[Cognition & Didactics]]
-• [[Biohacking & Eugenics]]
-• [[Ethnolinguistics & Diplomacy]]
-• [[Aesthetic Theory]]
-• [[Architectural Sovereignty]]
-• [[Complex systems]]
-• [[Metaphysical Thinking]]
-• [[Religious Syncretism]]
-• [[State Religion]]
-• [[The 7 Virtues]]
-• [[Political Cyclicity]]
-• [[Hierarchical & Social Dynamics]]
-• [[Geopolitical Leverage]]
-• [[Military Science]]
+
+# Economics
+• [[Interplanetary Markets]]
+• [[Market Evolution & Key Prospects]]
 • [[Descentralized Finance]]
-• [[Actuarial Science & Quantitative Analysis]]
-• [[Information Security (InfoSec)]]
 • [[Asset Classes]]
 • [[Macroeconomics & Microeconomics]]
-• [[Market Evolution & Key Prospects]]
-• [[Arithmetic Perusal]]
+• [[Actuarial Science & Quantitative Analysis]]
+
+# Sociology & Politics
+• [[Improving Nations]]
+• [[Ethnolinguistics & Diplomacy]]
+• [[Political Cyclicity]]
+• [[Geopolitical Leverage]]
+• [[Hierarchical & Social Dynamics]]
+• [[Architectural Sovereignty]] ✅🔙
+• [[Data Agencies]]
+
+# Science & Technology
+• [[Open-source Intelligence (OSINT)]]
 • [[Lucrative Vocations]]
 • [[Automation & Artificial Intelligence (AI)]]
 • [[Computer Science & Quantum BIT]]
+• [[Information Security (InfoSec)]]
+• [[Military Science]]
+• [[Biohacking & Eugenics]]
+• [[Arithmetic Perusal]]
 • [[Hyper-reality]]
-• [[Data Agencies]]
-• [[Interplanetary Markets]]
-• [[Improving Nations]]
-• [[Burgeoning Ideologies ]]
+
+
+
+# Spirituality
+• [[Religious Syncretism]]
+• [[State Religion]]
+• [[The 7 Virtues]] ✅
+• [[Burgeoning Ideologies ]] ✅🔙
+
+
+# Philosophy
 • [[Accurate Thinking]]
-• [[Lançamento meteorico]]
-• [[Becoming an entrepreuner]]
-• [[Hypnotic Rythm]]
+• [[Critical Thinking]] ✅
+• [[Metaphysical Thinking]]
+• [[Hypnotic Rythm]] ✅🔙
+• [[Aesthetic Theory]]
+• [[Introspection]]
+• [[Self-cultivation]]
+• [[Cognition & Didactics]]
+• [[Complex systems]]

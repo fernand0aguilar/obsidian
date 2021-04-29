@@ -6,10 +6,11 @@
       {
         "id": "5e256471f8a3f5ef",
         "type": "leaf",
+        "dimension": 54.633204633204635,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
+            "file": "notes/books/The science of being great.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "58119c46990b5635",
         "type": "leaf",
+        "dimension": 45.366795366795365,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
+            "file": "notes/books/The science of being great.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -108,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526
+    "width": 344
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Threads/Apollo, Dionysus, Hermes.md",
+                "file": "notes/books/The science of being great.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Threads/Apollo, Dionysus, Hermes.md"
+                "file": "notes/books/The science of being great.md"
               }
             }
           }
@@ -155,15 +157,15 @@
   },
   "active": "5e256471f8a3f5ef",
   "lastOpenFiles": [
+    "notes/books/The science of being great.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/Get Radicalized/Subfolder/Critical Thinking.md",
+    "notes/Get Radicalized/Critical Thinking.md",
     "notes/Threads/Apollo, Dionysus, Hermes.md",
     "notes/MKT/Como funciona.md",
     "notes/MKT/ETAPAS.md",
-    "notes/Get Radicalized/Start Here.md",
     "notes/orthodoxy/Apollo, Dionysus, Hermes.md",
     "notes/orthodoxy/Untitled.md",
-    "notes/orthodoxy/Apollo.md",
-    "notes/Get Radicalized/Subfolder/Burgeoning Ideologies.md",
-    "notes/Fixing my Life/What kind of person do I aspire to be?.md",
-    "notes/Fixing my Life/Which rules and ethics do I live by?.md"
+    "notes/orthodoxy/Apollo.md"
   ]
 }
