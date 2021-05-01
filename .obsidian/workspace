@@ -4,54 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e256471f8a3f5ef",
+        "id": "36724d772b2ae8aa",
         "type": "leaf",
-        "dimension": 54.633204633204635,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/books/The science of being great.md",
+            "file": "notes/managment/Product Managment Nanodegree.md",
             "mode": "source"
           }
-        },
-        "group": "7193ad47e33d9d21"
-      },
-      {
-        "id": "58119c46990b5635",
-        "type": "leaf",
-        "dimension": 45.366795366795365,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "notes/books/The science of being great.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "7193ad47e33d9d21"
+        }
       }
     ],
     "direction": "vertical"
@@ -79,12 +40,20 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
+            }
+          },
+          {
+            "id": "baf3a0fb4cf01b6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           },
           {
@@ -97,20 +66,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "38ea4e670e49e94d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 273.506872177124,
+    "collapsed": true
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -126,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/The science of being great.md",
+                "file": "notes/managment/Product Managment Nanodegree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/The science of being great.md"
+                "file": "notes/managment/Product Managment Nanodegree.md"
               }
             }
           }
@@ -155,17 +117,17 @@
     "width": 458.5,
     "collapsed": true
   },
-  "active": "5e256471f8a3f5ef",
+  "active": "36724d772b2ae8aa",
   "lastOpenFiles": [
+    "notes/managment/Product Managment Nanodegree.md",
+    "notes/books/The Science of getting Rich.md",
+    "notes/managment/Communication.md",
+    "notes/managment/Untitled.md",
     "notes/books/The science of being great.md",
-    "notes/Get Radicalized/Start Here.md",
-    "notes/Get Radicalized/Subfolder/Critical Thinking.md",
-    "notes/Get Radicalized/Critical Thinking.md",
-    "notes/Threads/Apollo, Dionysus, Hermes.md",
-    "notes/MKT/Como funciona.md",
-    "notes/MKT/ETAPAS.md",
-    "notes/orthodoxy/Apollo, Dionysus, Hermes.md",
-    "notes/orthodoxy/Untitled.md",
-    "notes/orthodoxy/Apollo.md"
+    "notes/books/Untitled.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Subfolder/God.md",
+    "notes/Get Radicalized/Subfolder/Right decisions.md",
+    "notes/Get Radicalized/Start Here.md"
   ]
 }
