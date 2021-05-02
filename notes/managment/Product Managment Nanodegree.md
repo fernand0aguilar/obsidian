@@ -47,8 +47,8 @@ Product Managers spend a lot of their time:
 -   Communicating
 -   Coordinating development
 -   Responding to fires
-
 Which in turn, allows them to strategically answer important questions:
+
 
 -   What are we building?
 -   Who are we building this for?
@@ -57,3 +57,21 @@ Which in turn, allows them to strategically answer important questions:
 
 ***
 
+# Why does it matter:
+Bringing products to market is super complicated task. The PM plays an important role in the leadership.
+
+There is a huge need of someone that focus on understanding the user and the problem so that the team does not loose sight of the important things that matter. 
+
+The pm also plays an important role in aligning all the other team and orchestrating them so that they are moving in the same direction.
+
+One of the most important things to do is identify and define what kinds of problems the team should solve. Its important to make sure to solve the right problems, not all problems.
+
+This means building something that the people want. This means solving a real problem for real users. This means something that is needed and creates value for the user and the company.
+
+Two of the most common types of value exchange are users paying directly for your product, or users being willing to see ads in the product.
+
+People will build things that they themselves want. Often the  problems that is built doesn't solve the problem for enough people to create a viable business. 
+
+PM also plays an important role in connecting various functions and teams across the company. PMs understand the business, advocate for the user,  power design, create stability for the engineering team, and get everyone excited, and at the same time, keep everyone focused and moving in the same direction together to build a product.
+
+Product Management makes sure that the team is spending their time on meaningful, worthwhile problems -- by solving problems that exist for real users by creating products that people want.
