@@ -41,6 +41,7 @@
 • [[Accurate Thinking]]
 • [[Critical Thinking]] ✅
 • [[Metaphysical Thinking]]
+• [[Systems thinking]]
 • [[Hypnotic Rythm]] ✅🔙
 • [[Aesthetic Theory]]
 • [[Introspection]]

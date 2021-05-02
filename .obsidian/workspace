@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "notes/Carreer/CRC/CRC Model.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "8a168d80643106d3"
+      },
+      {
+        "id": "28f735ddfc714869",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Carreer/CRC/CRC Model.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "8a168d80643106d3"
       }
     ],
     "direction": "vertical"
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/Carreer/CRC/CRC Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/Carreer/CRC/CRC Model.md"
               }
             }
           }
@@ -118,15 +155,15 @@
   },
   "active": "36724d772b2ae8aa",
   "lastOpenFiles": [
-    "README.md",
-    "notes/managment/Product Managment Nanodegree.md",
-    "notes/books/The Science of getting Rich.md",
-    "notes/managment/Communication.md",
-    "notes/managment/Untitled.md",
-    "notes/books/The science of being great.md",
-    "notes/books/Untitled.md",
-    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
-    "notes/Get Radicalized/Subfolder/God.md",
-    "notes/Get Radicalized/Subfolder/Right decisions.md"
+    "notes/Carreer/CRC/CRC Model.md",
+    "notes/Carreer/CRC/Collaborations.md",
+    "notes/Carreer/CRC/Classes.md",
+    "notes/Carreer/CRC/Producer-Consumer with a published interface..md",
+    "notes/Carreer/Design.md",
+    "notes/Carreer/CRC/Responsibilities.md",
+    "notes/Carreer/CRC/Communication.md",
+    "notes/Carreer/CRC/CRC.md",
+    "notes/Carreer/Systems thinking.md",
+    "notes/Carreer/Software Engineering/Design.md"
   ]
 }

@@ -1,5 +1,3 @@
-![](https://files.slack.com/files-pri/T01APDQLTAP-F01PXDLATPW/image.png)
-
 # Producer/Consumer with a published interface.
 
 First of all, never be concerned with who needs the information.  Never be concerned with where the information is coming from.  
