@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/managment/Product Managment Nanodegree.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/managment/Product Managment Nanodegree.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/managment/Product Managment Nanodegree.md"
+                "file": "README.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "36724d772b2ae8aa",
   "lastOpenFiles": [
+    "README.md",
     "notes/managment/Product Managment Nanodegree.md",
     "notes/books/The Science of getting Rich.md",
     "notes/managment/Communication.md",
@@ -126,7 +127,6 @@
     "notes/books/Untitled.md",
     "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
     "notes/Get Radicalized/Subfolder/God.md",
-    "notes/Get Radicalized/Subfolder/Right decisions.md",
-    "notes/Get Radicalized/Start Here.md"
+    "notes/Get Radicalized/Subfolder/Right decisions.md"
   ]
 }
