@@ -9,47 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Carreer/Product Management/Role of a PM.md",
+            "file": "notes/orthodoxy/God.md",
             "mode": "source"
           }
-        },
-        "group": "5faba3e73c2afe54"
-      },
-      {
-        "id": "d894cb290a2075dc",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "notes/Carreer/Product Management/Role of a PM.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.8360386601669949,
-              "close": false
-            }
-          }
-        },
-        "group": "5faba3e73c2afe54"
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Carreer/Product Management/Role of a PM.md",
+                "file": "notes/orthodoxy/God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Carreer/Product Management/Role of a PM.md"
+                "file": "notes/orthodoxy/God.md"
               }
             }
           }
@@ -136,15 +99,15 @@
   },
   "active": "28f735ddfc714869",
   "lastOpenFiles": [
-    "notes/Carreer/Product Management/Role of a PM.md",
+    "notes/orthodoxy/God.md",
+    "notes/Get Radicalized/Subfolder/Spiral Dynamics.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/Get Radicalized/Spiral Dynamics.md",
     "notes/Carreer/Product Management/Product Managment Nanodegree.md",
     "notes/Carreer/Product Management/Communication.md",
-    "notes/Get Radicalized/Start Here.md",
+    "notes/Carreer/Product Management/Role of a PM.md",
     "notes/Get Radicalized/7-Virtues/The 7 Virtues.md",
     "notes/Get Radicalized/Subfolder/Architectural Sovereignty.md",
-    "notes/Carreer/Becoming an Entrepreuner/This is how you win.md",
-    "notes/Carreer/CRC/CRC Model.md",
-    "notes/Carreer/CRC/Collaborations.md",
-    "notes/Carreer/CRC/Classes.md"
+    "notes/Carreer/Becoming an Entrepreuner/This is how you win.md"
   ]
 }

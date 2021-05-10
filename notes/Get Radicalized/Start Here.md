@@ -48,3 +48,5 @@
 • [[Self-cultivation]]
 • [[Cognition & Didactics]]
 • [[Complex systems]]
+• [[Spiral Dynamics]]
+
