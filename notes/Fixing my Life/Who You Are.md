@@ -13,3 +13,6 @@
 * [[Which rules and ethics do I live by?]]
 * [[What are my values and what Do I value?]]
 * [[What is my current understanding of the world?]]
+
+# Carrer
+* [[cover letter]]
