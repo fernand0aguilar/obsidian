@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6ba18b913e345482",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -31,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/books/So Good They Can't Ignore You.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/So Good They Can't Ignore You.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/So Good They Can't Ignore You.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,17 +168,17 @@
     "width": 458.5,
     "collapsed": true
   },
-  "active": "5e256471f8a3f5ef",
+  "active": "6ba18b913e345482",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "notes/Get Radicalized/Start Here.md",
     "notes/books/So Good They Can't Ignore You.md",
     "notes/books/Root.md",
     "notes/Get Radicalized/Self-cultivation.md",
-    "notes/Get Radicalized/Start Here.md",
     "notes/books/deliberate practice.md",
     "notes/books/Untitled.md",
     "notes/Fixing my Life/cover letter.md",
     "notes/Fixing my Life/Who You Are.md",
-    "notes/Fixing my Life/TR.md",
-    "notes/managment/Producer-Consumer with a published interface..md"
+    "notes/Fixing my Life/TR.md"
   ]
 }

@@ -41,13 +41,14 @@
 • [[Accurate Thinking]]
 • [[Critical Thinking]] ✅
 • [[Metaphysical Thinking]]
+• [[Systems thinking]]
 • [[Hypnotic Rythm]] ✅🔙
 • [[Aesthetic Theory]]
 • [[Introspection]]
 • [[Self-cultivation]]
 • [[Cognition & Didactics]]
 • [[Complex systems]]
-
+• [[Spiral Dynamics]]
 
 # TODO -> 
 
@@ -77,3 +78,5 @@ Tese - A descriminação social é o julgamento baseado nos esteriótipos e em p
 -   _[Sapere aude](https://en.wikipedia.org/wiki/Sapere_aude "Sapere aude")_
 -   [Source criticism](https://en.wikipedia.org/wiki/Source_criticism "Source criticism")
 -   [World Philosophy Day](https://en.wikipedia.org/wiki/World_Philosophy_Day "World Philosophy Day")
+
+

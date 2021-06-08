@@ -1,87 +1,32 @@
-# Collaborations
+# CRC Model
 
-For collaborations, this means, who does it talk to and how does it talk to them.
-
-So in the case of a Login, the collaboration would be with the end user and how is that accomplished?
-
-It is through a Login response.
-
-In situations like this, the natural inclination is to tell how that collaboration is conducted, but that would be wrong.  
-
-The actual response has to be shielded from the device doing the responding, which could be HTTP, Socket, Websocket, so, the proper response would be to say it responds with a Login Response message.
+* [[Classes]]
+* [[Responsibilities]]
+* [[Collaborations]]
 
 
-These two messages would then have to be defined in a messaging library which both sides understand.
+Go back to every instance, go through every single entity and ask what does it produce, where does it comes from and what are the information we need
 
-In addition, where the login came from is immaterial to the Login class, it doesn't know where the message came from or the medium used to deliver it, we separate these two things in order to allow us to change the underlying medium for transport at any time.
+IDK every entity, step up, go through the thing, make up a list and get things done.
 
-Thus, we have no dependencies on each other.
+Produces or consumes?
+Make a list of what does it produce, or what does it consume.
 
-The responsibility of the login class is to deliver the response back to the entity which requested it and it is the responsibility of the underlying medium to translate that message into the proper structure to be transferred over the medium, be it binary, Json, HTTP or whatever.
 
-These types of designs are essential to ensuring extensibility and scalability.
+When you find yourself doing the same thing over and over, it behooves you to find a way to reuse all that work,
 
-The problems most people have are:
-
-- they closely tie the delivery mechanism to the end user and that means if you want to add another delivery mechanism which could also deliver the same message it is impossible to do.
-
-So, tie the delivery mechanism into a messaging library which any delivery mechanism can translate into incoming/outgoing formats and the end user always gets the same message and doesn't give a hoot about where it came from or where it is going.
-
-It has one job and one job only, respond to logins with a login response and let the delivery mechanism convert it to the wire format that has been defined between those to entities.
-
-When we say collaborations, that could mean the two entities doing the actual wire transfer or the collaboration between the delivery mechanism and the end user. 
-
-Both are collaborating, one with a foreign entity in which a know wire structure has been established and with internal users expecting messages of the language and format it is expecting. 
-
-As can be seen, the delivery mechanism has no idea who is responding to the login, it only knows it got a response and needs to translate the response to a known wire format and then send it.
-
-No, the login is response is to deliver more than that, it must validate the user, return the token and whatever information is required, such as the status of the login, successful or not, etc.
-
-This is how you flush out all the issues, once we know we need the messages, we then ask ourselves, well, what network protocol is the other side using, doing they already have a defined messaging structure we must implement, etc.
+CRC leads to good designs as you don't do the same thing 50 times in 50 different places.
 
 It is an iterative process, you keep going over it and over it until all the issues are resolved and all the pieces are in place, then you make it run and find all the other shit you forgot or screwed up.
 
-So, when we say class, we define the Login class and then we define what it is responsible for, we then add the functionality and the data structures to accomplish that.  Having done that, we now ask ourselves, hmmm, how are we going to receive login requests and how are we going to convey responses.  Knowing logins well in most cases be external, that leads us to creating a class which can accept connections in a certain network protocol.  
 
-But having thought about that, we ask ourselves are we logging or are people logging into us??  In our case, we have both cases, one is cactus but the other is our users.  This suggests that if the two require much the same information, perhaps we can create a messaging structure which can be used internally by both of our connection classes and have both delivery mechanisms convert the incoming wire message into our internal structure. 
+CRC, when you keep doing this you begin to see the commonality in things and thing which can be combined in one structure, 
 
-This is the optimal solution but can't always be done.  But it also pointed out that we are probably going to need to different connection classes since the underlying network protocol is probably going to be different.  
+the natural progression of things will lead you to the proper [[design]] if you just CRC it.
 
-But, in thinking about that, we should probably base all the messaging off of one base class and that way, the internal passing of messages will only require one structure which makes code reuse possible.  
 
-We can probably accomplish actually sending of the messages through a common base class which instantiates the proper socket as well and a common parser which based on the type of message it uses the parser associated with it to do the proper conversion.
+Well, I just want you to see what CRC leads to, when you find yourself doing the same thing over and over, it behooves you to find a way to reuse all that work, which naturally leads you to build a framework which I did which took over 1 year to complete.
 
-CRC, when you keep doing this you begin to see the commonality in things and thing which can be combined in one structure, such as passing messages, it can pass any message and doesn't care about the type.  This leads to good designs as you don't do the same thing 50 times in 50 different places.
-
-If you look at my handler for connections, you will see that it creates through a template parameter the proper socket connection, it can be any time, doesn't matter:
-
-This little bit of innocuous code actually defines the underlying network protocol as well as the parser which will be used
-
-The bit24SpecialFrame actually parses data the StreamHandler passes to it and turns it into a common base message which gets returned to the OEHandler in an onMessageReceived funtion.  
-
-We then look up the protocol enum, then look up the message type off that protocol enum. So, we only need to define which protocols we will be handling in that function and our actions to the messages we receive.
-
-The underlying framework includes the ability to create any type of connection I want and the above code allows me to give it a special parser that understands the protocol of the wire data I received.  This is an example of how to build these types of systems which have reusable components which also allow you to swap out parts with something totally different.
-
-I eliminated the checking of the protocol because I know exactly the type of message this handler gets.
-
-But, the OEHandler also has a publish and subscribe mechanism so we can register on a subject and receive messages which we didn't actually parse.  This allows us to be totally agnostic to delivery mechanisms as we can publish responses the same way, on a subject which someone else is listening to.  We know nothing about them and they know nothing about us.
-
-I hope this helps you.  I know it is a lot of information, but occasionally I use my head for something other than a place to hang my ears.
-
-Well, I just want you to see what CRC leads to, when you find yourself doing the same thing over and over, it behooves you to find a way to reuse all that work, which naturally leads you to build a framework which I did which took over 1 year to complete.  It has gotten old with me and could probably stand an upgrade (as I probably could) but it is battle tested in some of the toughest environments in the world and has never failed me and also leads to rapid development.  No, I never did a paper design, just CRC'ed in my head like I do all designs.  I have never done a paper design of bit24 or BO either, the natural progression of things will lead you to the proper design if you just CRC it.
-
-Not realy all here are Rays having all in mind. Me for example I need some paper design in order to plan everything clearly in mind, just.
-
-Each to his own, I find I spend more time trying to keep the paper design up to date as I am designing it than I do actually working.
-
-But all designs are like trouble shooting, they are like a movie, you see it in your head, you visualize every step of the way and only when you see it all clearly do you code any of it.  That is the way I troubleshoot and the way I design, a movie playing endlessly in my head until I have it all then I sit down and spit it all out.
-
-There is a sister to that onMessageReceived function above, it will pass you a list of messages instead of just one message.
-
-and this makes somehow overflow in my mind ;)
-
-I am not saying my way is the only way, I am only saying what works for me.  I realize not everyone visualizes everything but that is the only way I can do it.  I once had a person work for me, after unsuccessfully troubleshooting problems, they asked me how I always went right to the problem.  I told them, the first thing I do is:  nothing. 
 
 I put my hands under my legs and visualize everything I am seeing.  Going through every step of the process, not touching anything until I see the problem and where it must be happening.
 
@@ -101,11 +46,11 @@ It not necessary to understand the language to find the issue, when you know wha
 
 The movie might be in a different language but the steps must be the same and thus the problem is easily identified.  A design in the same way, the language might be different, but the steps needed to get to the end must be the same.
 
-So, each person must find the way for them, for some it is drawings and for some it is seeing and for some it is understanding.
-
 Find the way which is right for you, but I highly encourage everyone to put down the pen, put their hands under their legs and close your eyes and visualize what must be happening or what must happen, the answer is there for you to see, don't need elaborate drawings as your mind has all the drawings you need.
 
 Just make sure you are in the right movie theater, don't want to think you are on the beach and walk off a cliff in the Grand Canyon, lol.
+
+
 
 There seems to be some questions about CRC so I will give an explanation I hope everyone can understand and how that applies.
 
@@ -134,7 +79,6 @@ So, now we know what we are responsible for delivering and now it only remains f
 We have planned out our trip, which cities we will stop for gas, food and a place to sleep. Now we only need to go.  Once we go, occasionally we will pass a destination on our route and realize we are hungry and turn around and buy some snacks or a meal.
 
 Once we arrive at the border of Mexico we must present our ID and then we are in.  But once in, we realize, we don't speak the language and they only accept peso's, not US dollars.
-
 
 So, in order to buy the beans, we must convert our money into something they understand and will accept.  We do this and then ask where we can buy the beans and are taken there.  We buy the beans and then plan our destination home.
 
