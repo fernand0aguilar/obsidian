@@ -61,3 +61,51 @@ Through some combination of these bribes the devil can enter the mind of any hum
  This is how the devil works
  
  He bribes the victim through the natural desires and bribes them to become drifters if they respond to the lure. If they refuse to respond he plants the seeds to misfortune and hog-tie them while they are down.
+
+
+
+
+
+
+this is also the beauty of being conscious about this, which is that you become aware anc conscious about it. it becomes easy to understand what it means to be in a complex sysstema full of complex obejects each interacting wich his own layer of senses in the world and still doing their best to be fucntional human beings in a functional society, where kindness becomes a norm and the influence and programming that you do in the environment represents the aspects which are also internal to you, it reperesents that your existential being as a thinker is directly tied to your benefits and your truths, lets focus on the word yours, because each person has a different set of understanding and each one of them is perfect, were just living in this society as parts and the whole society is also inside of us as parts, were not going to abstract the viewer for the viewing, nor vice versa, were bothof them ,in a complex system in a strange loop of a hyper reality that is above the dimentions of time, space, and event the world of objects and forms. This is how the collective makes sure that each individual is functional and habitating a harmonious environment, this is making the anonnimicituy present, and the importance that makes everyone be their world, their own personality, and their own inflated egos, because that is generally, how it works, it is a place that ins descentralized, such s finances, and still, unified, in a multiplayer game, in the world, theres many different personas, and each has an uniue set of skills and makes that of living much more pleasant and vivid, it is by the growing and efforting and exercising the impulses of writing and creating and thinking tahat figuring out how to avoid doing t is harder than actually doing it, it fakes unitil you make it also is an erroneous activity that is going to bring many problems down the road, it is okay to be abundant and honenst in your efforts, although it is also better to comprehend that your beliefs are not the others persnons belief and that each individual is a mind of its own, altoghetehr it is really good to experience the saring and pleasurable interactions that we have with eachother, to this point it became much more clear that we were here to   this point the stage green became to become the mian norm here where im living, which is a pretty advanced place for all things matter. and some are still trapped in stages red to orange. Which honestly is the very majority. so in this point of view, the when of being in the place of having a turquoise society is still doable, as long as everyone is getting a positive impression with the acts of living, and making sure that my actions are in alignment with the ecpected out of the turquoise mode, and this requires studying the whole model and being able to point at the divergences and make sense of the behavioral pattern of the turquoise mode, speaking this is actually an effort of becoming turquoise and thus it quickstarts a whole process of research and development to bring forwards with the vision of getting there, and which are the things required to make that happen, is this an easy task, is this going to take 1 or 10 months to accomplish, and what are the resources and methods required to accomplish the acceptance criterias, the facts alone are not enought, we need to have also intuition and tact, and this is close to the subjective and non mensurable perspective ad infinitum, making this an functional argument takes an enormous effort and thus is not required to be done initially, the only required point of contact is dedicating some amount of mental buffer per day to be able to act and execute on it, not only leaving this plane for good buying an enormous mansion in the woods how about that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bye thanks
+
+
+
+
+
+
+
+
+
+

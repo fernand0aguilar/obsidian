@@ -50,7 +50,7 @@ To live life truly inspired is a magical way of living. Find your passions, acti
 You can’t grow or learn anything without changing your way of thinking. Approach change with optimism, always be open minded and always give your best effort.
 
 [[17) Practice gratitude.]] 
-Living in a grateful state of mind allows you to appreciate your life for what it is. This mental clarity gives you the freedom to pursue your passions and attack each day with the right mind of energy.
+Living in a grateful state of mind allows you to appreciate your life for what it is. 	This mental clarity gives you the freedom to pursue your passions and attack each day with the right mind of energy.
 
 [[18) Challenge your mindset.]] Don’t stay stagnate with your beliefs. Actively search for new information and new ideas. Find out for yourself and formulate your own opinions on all topics of interest. Value information as much as you value your money.
 

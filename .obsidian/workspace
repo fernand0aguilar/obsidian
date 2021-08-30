@@ -1,84 +1,29 @@
 {
   "main": {
-    "id": "c6e868ad46e36bad",
+    "id": "5cd51e037aaf4f20",
     "type": "split",
     "children": [
       {
-        "id": "5e256471f8a3f5ef",
+        "id": "20cf0cfb0020f090",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/books/So Good They Can't Ignore You.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6ba18b913e345482",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a8ef4ae0a04052e3",
+    "id": "48c53bdd590c9747",
     "type": "split",
     "children": [
       {
-        "id": "6df9e6e820e64788",
+        "id": "e9227ca91bf11483",
         "type": "tabs",
         "children": [
           {
-            "id": "58119c46990b5635",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 4,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.5050768861052588,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c40b3f61390dbc5d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec1698e7d057ce27",
+            "id": "2cb60a9a1f5e9e18",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,60 +31,40 @@
             }
           },
           {
-            "id": "7f99185fd6d0d4fe",
+            "id": "b60b02ab217070d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "learn",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "0e317a6be7c3c7d8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "38ea4e670e49e94d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 481
+    "width": 437
   },
   "right": {
-    "id": "85ecf5f9629d0b69",
+    "id": "ae22c9ab4b53d57c",
     "type": "split",
     "children": [
       {
-        "id": "4769a36c58d6845c",
+        "id": "987c01c1070b766f",
         "type": "tabs",
         "children": [
           {
-            "id": "4c62d5c0117d1b94",
+            "id": "f49ba97e0ae56caf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,36 +74,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2c534b8c07e2425c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "6ba18b913e345482",
+  "active": "20cf0cfb0020f090",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "notes/Get Radicalized/Start Here.md",
-    "notes/books/So Good They Can't Ignore You.md",
-    "notes/books/Root.md",
-    "notes/Get Radicalized/Self-cultivation.md",
-    "notes/books/deliberate practice.md",
-    "notes/books/Untitled.md",
-    "notes/Fixing my Life/cover letter.md",
-    "notes/Fixing my Life/Who You Are.md",
-    "notes/Fixing my Life/TR.md"
+    "Naval-Ep76 (2).mp3.md",
+    "notes/Naval_s Mind/3. The Beginning Of Infinity/THE_BEGINNING_OF_INFINITY_CONTENTSPAGE.md",
+    "notes/Naval_s Mind/3. The Beginning Of Infinity/Good Explanations Are Acts of Creativity.md",
+    "notes/Naval_s Mind/2. Happiness/Happiness_CONTENTSPAGE.md",
+    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/How To Get Rich (without getting lucky).md",
+    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/CONTENTS PAGE.md",
+    "notes/Naval_s Mind/Tweet Storms/How to Get Rich (without getting lucky).md",
+    "notes/Naval_s Mind/BLOG POSTS/QUOTES/Keynes on the Currency.md",
+    "notes/Naval_s Mind/2. Happiness/CONTENTS PAGE.md",
+    "notes/Naval_s Mind/2. Happiness/Untitled.md"
   ]
 }

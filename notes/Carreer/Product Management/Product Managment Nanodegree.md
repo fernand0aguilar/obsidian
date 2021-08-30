@@ -25,7 +25,7 @@ ple want, what are the users needs for these different types of users
 # Skills of a PM
 * [[Vision and strategy]]
 	* They are focused on building and bringing successful products to market. They need to be hyper aware of the user needs,  have intuition about how the users will respond to new features and changes in the products, and map out the steps that need to be taken in order to get the product to its full potential and vision. Along the way of doing this, PMs need to be able to course correct as they learn new information
-* [[Communication Skills]]
+* [[Communication skills]]
 	* Pms are constantly communicating out and responding the questions. They are the source of truth of the current state of the product. Product shortcomings, opportunities, what the team is working on, and when those projects will be delivered. They need to communicate across a variety of different audiences, like, (design and engineering team, executives, or costumers).
 * 
 	* PMs also act as the glue that hold the company together. They are in the only role that sees the product all the way trough the development process. 
@@ -96,4 +96,4 @@ Product Management makes sure that the team is spending their time on meaningful
 
 # Lesson 4 - [[Vision and strategy]] 
 
-# Lesson 5 - [[Communication Skills]]
+# Lesson 5 - [[Communication skills]]

@@ -16,6 +16,8 @@
 • [[Hierarchical & Social Dynamics]]
 • [[Architectural Sovereignty]] ✅🔙
 • [[Data Agencies]]
+• [[Persuasion]]
+
 
 # Science & Technology
 • [[Open-source Intelligence (OSINT)]]
@@ -49,10 +51,11 @@
 • [[Cognition & Didactics]]
 • [[Complex systems]]
 • [[Spiral Dynamics]]
+• [[Psychology]]
 
 # TODO -> 
 
-Assunto 2 - Ética e Moral
+Assunto 2 - Ética e Moral 
 
 Tema - Descriminação Social
 

@@ -31,6 +31,3 @@
 ## Turquoise
 
 
-
-
-# [[God]]
