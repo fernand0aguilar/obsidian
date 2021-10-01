@@ -22,4 +22,4 @@ this is why most people are stuck.
 
 Although this is exiting. If you can figure out how to integrate deliberate practice into your own life, you have the possibility of blowing past your peers in your value, as you'll likely be alone in your dedication to systematically getting better. 
 
-That is, deliberate practice might provece the key to quickly become [[So Good They Can't Ignore You]]
+That is, deliberate practice might provece the key to quickly become

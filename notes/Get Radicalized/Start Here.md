@@ -35,7 +35,6 @@
 # Spirituality
 • [[Religious Syncretism]]
 • [[State Religion]]
-• [[The 7 Virtues]] ✅
 • [[Burgeoning Ideologies ]] ✅🔙
 
 

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "20cf0cfb0020f090",
+        "id": "3f9afbdd49ceb2aa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "growth hac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437
+    "width": 392
   },
   "right": {
     "id": "ae22c9ab4b53d57c",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20cf0cfb0020f090",
+  "active": "3f9afbdd49ceb2aa",
   "lastOpenFiles": [
-    "Naval-Ep76 (2).mp3.md",
-    "notes/Naval_s Mind/3. The Beginning Of Infinity/THE_BEGINNING_OF_INFINITY_CONTENTSPAGE.md",
-    "notes/Naval_s Mind/3. The Beginning Of Infinity/Good Explanations Are Acts of Creativity.md",
-    "notes/Naval_s Mind/2. Happiness/Happiness_CONTENTSPAGE.md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/How To Get Rich (without getting lucky).md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/CONTENTS PAGE.md",
-    "notes/Naval_s Mind/Tweet Storms/How to Get Rich (without getting lucky).md",
-    "notes/Naval_s Mind/BLOG POSTS/QUOTES/Keynes on the Currency.md",
-    "notes/Naval_s Mind/2. Happiness/CONTENTS PAGE.md",
-    "notes/Naval_s Mind/2. Happiness/Untitled.md"
+    "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
+    "notes/Carreer/Becoming an Entrepreuner/Becoming an entrepreuner.md",
+    "notes/Carreer/Becoming an Entrepreuner/R&D/Growth Hacking.md",
+    "Growth Hacking.md",
+    "Scaling a tech-startup.md",
+    "notes/Carreer/Becoming an Entrepreuner/Untitled.md",
+    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/How to Get Rich (without getting lucky).md",
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Subfolder/Systems thinking.md"
   ]
 }

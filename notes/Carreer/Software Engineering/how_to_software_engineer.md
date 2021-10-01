@@ -8,7 +8,6 @@ Used to solve non satisfying processes, Unsuccessful endeavors, erros and prejud
 
 People don't want to use your software. They want to lose weight, laugh, be entertained, get smarter, spend time with loved ones, go home on time, sleep adequately, eat good food, be happy. Your product is only as good as the experiences it enables people to have.
 
-### [[Systems thinking]]
 
 The life cycle has two different macro phases
 

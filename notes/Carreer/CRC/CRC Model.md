@@ -22,7 +22,7 @@ It is an iterative process, you keep going over it and over it until all the iss
 
 CRC, when you keep doing this you begin to see the commonality in things and thing which can be combined in one structure, 
 
-the natural progression of things will lead you to the proper [[Design]] if you just CRC it.
+the natural progression of things will lead you to the proper if you just CRC it.
 
 
 Well, I just want you to see what CRC leads to, when you find yourself doing the same thing over and over, it behooves you to find a way to reuse all that work, which naturally leads you to build a framework which I did which took over 1 year to complete.

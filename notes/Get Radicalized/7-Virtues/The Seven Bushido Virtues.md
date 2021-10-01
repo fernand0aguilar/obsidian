@@ -1,5 +1,4 @@
  
- [[Right decisions]]
  [[Valor]]
  [[Benevolence]]
  [[Respect]]

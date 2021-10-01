@@ -1,4 +1,4 @@
-# The science of being great
+https://github.com/fernand0aguilar/how_to_software_engineer/blob/master/how_to_software_engineer.md#requirements-engineering# The science of being great
 You are not mentally developed by what you read but by what you think about what you read. 
 
 Thinking is the hardest and most exhaustive of all labor. 
@@ -35,7 +35,7 @@ You are where you are because you think as you do.
 Think about the point of view.
 
 1. The thought that you live in a perfect world. Among perfect people, and that nothing can possibly be wrong with you unless it's your personal attitude. 
-2. Consider that this is gods world and that its the best of all possible worlds. That he has brought thus far into completeness by the process of organic, social and industrial evolution. And that is going on to greater completeness and harmony.
+2. Consider that this is gods w orld and that its the best of all possible worlds. That he has brought thus far into completeness by the process of organic, social and industrial evolution. And that is going on to greater completeness and harmony.
 3. There is one great perfect intelligent process of life causing all the changing phenomena of the cosmos
 
 Think about all this and comprehend how you should live and act as a citizen of such a perfect whole.  

@@ -1,6 +1,8 @@
 ![[Naval-Ep76 (2).mp3]]
 
 Many claim to read, but very few understand
+[[Outwitting The Devil]]
+[[books/]]
 
 **Naval:** _The Beginning of Infinity_ reminds me the most of [_Gödel, Escher, Bach_](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) in that it is very wide-ranging and stitches together ideas from many different disciplines. It’s very difficult to understand and follow completely. Everyone claims to have read it, but, as far as I can tell, very few people understand it.
 

@@ -1,6 +1,5 @@
-[[Right decisions]]
 
-If I know what I want from life, demand it, and back my demand by willingness to pay life's price for what I want and refuse to accept any substitutes, the law of [[Hypnotic Rythm]] helps by natural and logical means to transmute it into its physical counterpart. 
+If I know what I want from life, demand it, and back my demand by willingness to pay life's price for what I want and refuse to accept any substitutes, the law of hypnotic rhytm helps by natural and logical means to transmute it into its physical counterpart. 
 
 
 # On Success
@@ -11,7 +10,7 @@ Use failure as an stepping stone to achievement while others use it as an alibi 
 
 One of the most effective devices to drift in life is failure.
 
-The majority of people begins to drift once they meet opposition. And not one out of 10,000 will keep on trying after failing two or three times. This requires [[Fortitude]]
+The majority of people begins to drift once they meet opposition. And not one out of 10,000 will keep on trying after failing two or three times. This requires Fortitude
 
 Failure breaks down ones morale, destroy self-confidence, subdues  enthusiasm, dulls imagination and drives away definiteness of purpose. 
 
