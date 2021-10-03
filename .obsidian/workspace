@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9afbdd49ceb2aa",
+        "id": "7996e89d63dc950b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
+            "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Anthropology for Entrepreuners.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
+                "file": "notes/Carreer/Becoming an Entrepreuner/R&D/Anthropology for Entrepreuners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f9afbdd49ceb2aa",
+  "active": "7996e89d63dc950b",
   "lastOpenFiles": [
-    "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
+    "notes/Carreer/Becoming an Entrepreuner/R&D/Anthropology for Entrepreuners.md",
     "notes/Carreer/Becoming an Entrepreuner/Becoming an entrepreuner.md",
+    "notes/Carreer/Becoming an Entrepreuner/documents/101 Ways to Grow your Startup - The Book.pdf",
+    "notes/Carreer/Becoming an Entrepreuner/R&D/Scaling a tech-startup.md",
     "notes/Carreer/Becoming an Entrepreuner/R&D/Growth Hacking.md",
     "Growth Hacking.md",
     "Scaling a tech-startup.md",
     "notes/Carreer/Becoming an Entrepreuner/Untitled.md",
     "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/How to Get Rich (without getting lucky).md",
-    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
-    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
-    "notes/Get Radicalized/Subfolder/Systems thinking.md"
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md"
   ]
 }
