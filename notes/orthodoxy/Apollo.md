@@ -1,5 +1,45 @@
 # Apollo
 
+
+## Greek Mitology
+
+THere is an ideal, an utopic to follow. This ideal is Apollo, the greek god. This brings about Nietsche and Apollonian instinc
+
+Apollo is a representation of discipline, strenght, assertivity, vigor and power.
+
+There is a common representation of physical vigor and strenght. Because strength is required for man. In the ancient Greece, you're either going to work, become a warrior, plant or become an Aristocrath. Or music. All activities are related to the physical effort and, how much you can endure in the world defines what is your worth to the world. It is not a matter or social construct, it is better to be strong than weak. Strenght has always been a virtue, meanwhile weakness is a vice.
+
+No matter the ideology of environment, the will to survive and procreate exists. And 
+
+In the 19th century there has beem the victorian period and the victorian masculinity. This is a representation of the pride of being a man, thus, there were all this labor for showing the manhood. 
+
+When a man is not a slave to his sexual passions, he is associated as having high intelligence. 
+
+The ideal of success and strenght, is associated with the masculine. The more distant a man is from the feminine, the higher is their value in masculine virtues. There needed to be a physical vigor because of survival. It is how man used to have abilities to provide for their family. 
+
+The victorian man is man with mustaches, topper, pipes and monoglasses, the physical athletic strength, and the will to compete. Sports like boxing, running, and lifting. The way to walk, sit, communicate, gesticule. Things like, having hair, having a volumious mustache, being elegant, showing richness and purchase power, the line is associated with the masculine and the curve is associated with the feminine. Dark and plain colors, tuxedos.
+
+This is the collective idea to distantiate from the feminine. There counts the association with the heaviness, retitude, emotional control. The psyche there is strenght, courage, rispitude, imperativity, and the will of being a hero. To protect, serve society, and the collective. 
+
+The masculinity was worked and shaped with intent. There was a culture that tells how man should behave. And shape to be strong and self-reliant, mature and cultural.
+
+
+Man should have a work that was dignified by how masculine their labor was. A heavy-machine opperator was more dignified than an artist that stays home paiting. Man were made to work outside of home and come back only after the commercial hours. Meanwhile woman would stay at home caring for the family. 
+
+In the aspects of sports and activities, it was required of man that they had a keen for competition and the movement of the body. Violence, fightings, conflicts. All of these are cultural aspects of how a man should behave..
+
+Another aspect of it is the trophy wife, which is toxic. This is also associated with having a potential to conquer high quality beautiful woman. Having affairs and more than one woman. The more the better. 
+
+This association is both positive and negative. 
+
+This isn't a social construct. There is a difference in the mind and body where culture becomes just a translation of previous behaviors of what it means to be a masculine person.
+
+
+
+
+
+## Tales
+
 There was once a brother who was very eager to seek goodness. 
 
 Being very disturbed by the demon of lust, he came to a hermit and told him about his thoughts. 

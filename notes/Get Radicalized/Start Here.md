@@ -17,8 +17,7 @@
 • [[Architectural Sovereignty]] ✅🔙
 • [[Data Agencies]]
 • [[Persuasion]]
-
-
+• [[DAO]]
 # Science & Technology
 • [[Open-source Intelligence (OSINT)]]
 • [[Lucrative Vocations]]
