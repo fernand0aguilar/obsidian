@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Get Radicalized/Subfolder/Affirmations.md",
+            "file": "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Affirmations.md",
+                "file": "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7996e89d63dc950b",
   "lastOpenFiles": [
+    "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
     "notes/Get Radicalized/Subfolder/Affirmations.md",
     "notes/Get Radicalized/Subfolder/DAO.md",
     "notes/orthodoxy/Apollo.md",
@@ -96,7 +97,6 @@
     "notes/Get Radicalized/DAO.md",
     "notes/Carreer/Product Management/Product Managment Nanodegree.md",
     "notes/Carreer/Product Management/Role of a PM.md",
-    "notes/orthodoxy/God.md",
-    "notes/Carreer/Product Management/Communication.md"
+    "notes/orthodoxy/God.md"
   ]
 }

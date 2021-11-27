@@ -1,6 +1,59 @@
 # Psychology
-
-Psychology is the basics of human understanding and it means that for us to learn psychology means also that we are learning how to tap into the otehrs persons ideans and perspectives and thus by only tapping we are able to interact with them and plant seeds of words that we say. because they become so only emotional and reactive and thus we become able to make others do what we want them to do. this is the art of [[Persuasion]] and charm and charisma to be able to select and determine the life that we live. And only by becoming a prince of peace is when im going to focus on another goal. 
-
-
-* [[Pathos]] - 11 ways to increase your emotional intelligence
+ 
+ * ATTRIBUTION THEORY
+* EMOTION
+* PERSONALITY
+* LEADERSHIP THEORIES
+* DREAMS
+* ART THERAPY
+* HYPNOSIS
+* ALBERT ELLIS
+* COGNITIVE BEHAVIORAL THERAPY
+* HEURISTICS
+* HARRY STACK SULLIVAN
+* THE MAGICAL NUMBER SEVEN
+* PLUS OR MINUS TWO
+* ERICH FROMM
+* THE GOOD SAMARITAN EXPERIMENT
+* PERSONALITY DISORDERS
+* DISSOCIATIVE DISORDERS
+* THE ROSENHAN EXPERIMENT
+* DAVID KOLB’S LEARNING STYLES
+* ANXIETY DISORDERS
+* MARY AINSWORTH AND STRANGE SITUATIONS
+* MOOD DISORDERS
+* LEV VYGOTSKY
+* SOMATOFORM DISORDERS
+* FALSE CONSENSUS AND UNIQUENESS EFFECTS
+* STRESS
+* SELF-DISCREPANCY THEORY
+* IVAN PAVLOV
+* B. F. SKINNER 
+* SIGMUND FREUD 
+* ANNA FREUD 
+* LAWRENCE KOHLBERG 
+* STANLEY MILGRAM 
+* ALFRED ADLER 
+* BASIC THEORIES ON GROUPS 
+* PHILIP ZIMBARDO 
+* SOLOMON ASCH 
+* JOHN B. WATSON 
+* HERMANN RORSCHACH 
+* VISUAL PERCEPTION 
+* GESTALT PSYCHOLOGY 
+* COGNITIVE PSYCHOLOGY 
+* COGNITIVE DISSONANCE THEORY 
+* DRIVE REDUCTION THEORY 
+* HARRY HARLOW
+* JEAN PIAGET
+* ALBERT BANDURA
+* CARL ROGERS
+* ABRAHAM MASLOW
+* THEORIES OF INTELLIGENCE
+* KURT LEWIN
+* CARL JUNG
+* HENRY MURRAY
+* LEFT AND RIGHT BRAIN
+* LOVE
+* KAREN HORNEY
+* JOHN BOWLBY

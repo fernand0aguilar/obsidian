@@ -1,4 +1,28 @@
-#  Protection against drifting
+# p1. Reduce Load
+    * Make less decisions
+    * Do less stuff (scale)
+    * make 1 decision that persist future
+    * have a simple life
+    * low maintanence setup
+    * limit surface area
+
+# p2. think critically
+    * do your own thinking
+    * stand away from crowds
+    * core fundamental principles
+    * 10 moves ahead
+
+# p3. Apply mental models
+    * define goal
+    * think long term
+    * project vector / 
+    * half life decisions
+    * input output symetry
+    * second order consequences
+    * exponential improvements over time
+
+
+#  Protection
 
 Be definite in everything you do and never leave unfinished thoughts in the mind. 
 
@@ -17,15 +41,3 @@ Form the habit of reaching definite decisions on all subjects.
  9. recognize that life is a cruel taskmaster and either you master it or it masters you. There is no halfway or compromising point. Never accept from life anything which you do not want. If that which you do not want is forced upon you, you can refuse in your own mind to accept it and it will make way for the thing you do want.
  10. Remember that your dominating thoughts attract through a definite law of nature, by the shortest and most convenient route, their physical counterpart. Be careful what thoughts you dwell upon.
 
-
-# [[God]] -> 
-Positive thinking and Constructive deeds.
-
-God is good.
-
-Trust and use your own power of thought. This is the direct road to the direct store house of infinite intelligence. Embrace the power to use your mind constructively. 
-
-The churches are being used to plant the seed of fear, uncertainty and indefiniteness in the minds of people. These negative states of mind cause the habit of drifting. 
-
-
-# [[Outwitting The Devil]]
