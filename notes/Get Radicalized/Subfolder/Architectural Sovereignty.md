@@ -8,7 +8,7 @@ And what role does iconic architecture play in the emergence of the new global a
 
 It reflects the uniqueness and historical achievements of nations and also its own design assumptions and aesthetics which, for any culture, have been accumulated over a period of time, and represent the pride of nations
 
-The demand for iconic architecture today proves that modernity in general and the Indus- trial and French revolution, as the important hinges of modernity , did not alter the general trend of architecture in its history , which is the search for iconic buildings that prove the cultural and techno-logical accomplishments of the nation.
+The demand for iconic architecture today proves that modernity in general and the Indus- trial and French revolution, as the important hinges of modernity , did not alter the general trend of architecture in its history , which is the search for iconic buildings that prove the cultural and technological accomplishments of the nation.
 
 iconic architecture reflects the uniqueness and historical achievements of nations and their design assumptions and aesthetics
 
@@ -18,7 +18,7 @@ In the pre-modern era people in power were well aware of the importance of such 
 
 what role does iconic architecture play in the emergence of the new global architecture and in what way
 
-not all creative works of architecture get the chance to become iconic. On the other hand, there are buildings that were celebrated in many reviews but they haven’ t proved to be iconic and have been surpassed by other examples.
+not all creative works of architecture get the chance to become iconic. On the other hand, there are buildings that were celebrated in many reviews but they haven’t proved to be iconic and have been surpassed by other examples.
 
 Architecture is about revitalizing what otherwise would be filled with sameness with no differentiated identity .
 

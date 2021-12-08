@@ -3,6 +3,7 @@
 * [[Classes]]
 * [[Responsibilities]]
 * [[Collaborations]]
+* [[Producer-Consumer with a published interface.]]
 
 
 Go back to every instance, go through every single entity and ask what does it produce, where does it comes from and what are the information we need

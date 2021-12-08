@@ -12,6 +12,7 @@ Then compliment with other skills:
 	- [[Reasoning ]]
 	- [[Good listening ]]
 	- [[Writing ]]
+	- [[Communication]]
 - [[Business management ]]
 	- [[Investing]] 
 	- [[Economics ]]

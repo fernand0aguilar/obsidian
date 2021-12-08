@@ -18,6 +18,7 @@
 • [[Data Agencies]]
 • [[Persuasion]]
 • [[DAO]]
+• [[Blockchains]]
 # Science & Technology
 • [[Open-source Intelligence (OSINT)]]
 • [[Lucrative Vocations]]

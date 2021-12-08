@@ -3,20 +3,6 @@
 
 Wealth is assets that earn while you sleep
 
-_This is my first interview on How to Get Rich, based on my [tweetstorm](https://twitter.com/naval/status/1002103360646823936) on the same topic. The podcast is available on [Apple](https://itunes.apple.com/us/podcast/naval/id1454097755?mt=2), [Breaker](https://www.breaker.audio/naval), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9uYXZhbC5saWJzeW4uY29tL3Jzcw), [Overcast](https://overcast.fm/itunes1454097755/naval), [Spotify](https://open.spotify.com/show/7qZAVw03FuurfYnWIWwkHY?si=3B5E_4acTsK-Lud-Ssv_pQ), [YouTube](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg) and other podcast apps. These transcripts have been edited for clarity._
-
-**Naval is a prolific tech investor and founder of AngelList**
-
-**Nivi:** You probably know Naval from his [Twitter](https://twitter.com/naval) account.
-
-We’re going to be talking about his tweetstorm on “[How to get rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936).” We’re going to go through most of the tweets in detail, give Naval a chance to expand on them and generally riff on the topic. He’ll probably throw in some ideas that he hasn’t even published before.
-
-Naval’s the co-founder of [AngelList](http://angel.co/) and Epinions. He’s also a prolific tech investor in companies like Twitter, Uber, and many more.
-
-I’m [Nivi](http://twitter.com/nivi), the co-founder of AngelList with Naval. And I co-authored the [Venture Hacks](http://venturehacks.com/) blog with him back in the day.
-
-**Naval:** The How To Get Rich tweetstorm definitely hit a nerve and went viral. A lot of people say it was helpful and reached across aisles.
-
 People outside of the tech industry, people in all walks of life, people want to know how to solve their money problems. Everyone vaguely knows that they want to be wealthy, but they don’t have a good set of principles to do it by.
 
 **Wealth is assets that earn while you sleep**
@@ -33,7 +19,7 @@ So, my definition of wealth is much more businesses and assets that can earn whi
 
 The reason you want wealth is because it buys you your freedom. So, you don’t have to wear a tie like a collar around your neck. So, you don’t have to wake up at 7:00 AM, and rush to work, and sit in commute traffic. So, you don’t have to waste away your entire life grinding all your productive hours away into a soulless job that doesn’t fulfill you.
 
-So, the purpose of wealth is freedom. It’s nothing more than that. It’s not to buy fur coats, or drive Ferraris, or sail yachts, or jet around the world in your Gulfstream. That stuff gets really boring and really stupid, really fast. It’s really so that you are your own sovereign individual.
+So, **the purpose of wealth is freedom.** It’s nothing more than that. It’s not to buy fur coats, or drive Ferraris, or sail yachts, or jet around the world in your Gulfstream. That stuff gets really boring and really stupid, really fast. It’s really so that you are your own sovereign individual.
 
 You’re not going to get that unless you really want it. The entire world wants it and the entire world is working hard at it.
 

@@ -1,4 +1,5 @@
 
+
 In 1988, military strategist, John A. Warden III introduced the Five Ring System model in his book, The Air Campaign, contending that any complex system could be broken down into five concentric rings.
 
 Each ring—Leadership, Processes, Infrastructure, Population and Action Units—could be used to isolate key elements of any system that needed change. The model was used effectively by Air Force planners in the First Gulf War. 

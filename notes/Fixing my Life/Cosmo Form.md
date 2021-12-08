@@ -1,11 +1,18 @@
 ```1```
 # The Cosmic Order Form
 
+What do you have? 
+[[What do you want]]? 
+What will you give up?”
+
+
+## 5 steps
+
 **Step 1: Get Clear on What You Want (and Why You Want To
 Manifest Money Into Your Life).**
 
 
-## What You Want
+### [[What do you want]]
 
 * 1)
 * 2)

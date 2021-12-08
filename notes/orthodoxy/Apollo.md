@@ -5,7 +5,7 @@
 
 THere is an ideal, an utopic to follow. This ideal is Apollo, the greek god. This brings about Nietsche and Apollonian instinc
 
-Apollo is a representation of discipline, strenght, assertivity, vigor and power.
+Apollo is a representation of [[Discipline]], strenght, assertivity, vigor and power.
 
 There is a common representation of physical vigor and strenght. Because strength is required for man. In the ancient Greece, you're either going to work, become a warrior, plant or become an Aristocrath. Or music. All activities are related to the physical effort and, how much you can endure in the world defines what is your worth to the world. It is not a matter or social construct, it is better to be strong than weak. Strenght has always been a virtue, meanwhile weakness is a vice.
 

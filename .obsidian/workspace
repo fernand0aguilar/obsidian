@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7996e89d63dc950b",
+        "id": "db4a4e794b6542c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
+            "file": "notes/Fixing my Life/99.md",
             "mode": "source"
           }
         }
@@ -39,13 +39,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "growth hac",
+                "query": "sovereign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "4701c8fcfae9f251",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
+                "file": "notes/Fixing my Life/99.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +91,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7996e89d63dc950b",
+  "active": "db4a4e794b6542c6",
   "lastOpenFiles": [
-    "notes/Get Radicalized/Subfolder/Market Evolution & Key Prospects.md",
+    "notes/Fixing my Life/99.md",
+    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Seek Wealth, Not Money or Status.md",
+    "notes/Get Radicalized/Subfolder/Architectural Sovereignty.md",
     "notes/Get Radicalized/Subfolder/Affirmations.md",
-    "notes/Get Radicalized/Subfolder/DAO.md",
-    "notes/orthodoxy/Apollo.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md",
-    "notes/Get Radicalized/Start Here.md",
-    "notes/Get Radicalized/DAO.md",
-    "notes/Carreer/Product Management/Product Managment Nanodegree.md",
-    "notes/Carreer/Product Management/Role of a PM.md",
-    "notes/orthodoxy/God.md"
+    "notes/Get Radicalized/Subfolder/Aesthetic Theory.md",
+    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
+    "notes/Get Radicalized/Subfolder/deliberate practice.md",
+    "notes/Fixing my Life/What do you want.md",
+    "notes/Fixing my Life/What kind of habits do I want to engage in?.md",
+    "notes/Fixing my Life/What kind of people do I admire?.md"
   ]
 }

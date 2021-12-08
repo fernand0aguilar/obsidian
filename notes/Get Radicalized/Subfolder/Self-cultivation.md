@@ -1,1 +1,5 @@
-[[deliberate practice]]
+# [[deliberate practice]]
+
+# [[Discipline]]
+
+# [[Communication]]
