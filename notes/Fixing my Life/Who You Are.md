@@ -15,4 +15,8 @@
 * [[What is my current understanding of the world?]]
 
 # Carrer
-* [[cover letter]]
+* [[cover letter]].
+
+
+
+![[B746736E-66CB-4408-A368-30BA1688DF07.jpeg]]
