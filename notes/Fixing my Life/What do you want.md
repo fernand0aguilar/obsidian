@@ -1,7 +1,7 @@
 # What kind of life do I want
 
 * [[Cosmo Form]]
-* [[What do you want]]
+* [[What do you want]] i
 * [[What kind of relationships do I want with friends, family, colleagues, and romantic partners?]]
 * [[What kind of work or carreer do I want?]]
 * [[What kind of restaurants, travel, home, etc would I enjoy?]]
@@ -10,4 +10,5 @@
 * [[What would my preferred financial situation look like?]]
 * [[What kind of habits do I want to engage in?]]
 * [[What do I want to use my time on?]]
-* [[Which People would fit]]
+* [[Which People would fit]],
+* [[the meaning of life]]

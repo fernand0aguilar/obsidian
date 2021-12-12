@@ -4,6 +4,7 @@ Dynamical systems become interesting when the transformation suffices to produce
 The orbit of a single point may be a geometrically complex set. 
 
 As we discover, dynamical systems are sources of deterministic fractals. The reasons for this are deeply interwined with ifs theory. 
+[[dociuverse]]
 
 # Shift dynamical system
 
@@ -19,3 +20,17 @@ points belonging to an orbit of a mobius transformations on a sphere
 
 ## We get order by subtracting
 subtraction being a more fundamental operation than addition
+
+
+
+
+
+The interdependence between complex sistemas and how the different slides of the backend of the machine integrates with each by making a clear close look at the aspects of the grid and recognizing how do they interact. And choosing where to focus. So in the different aspects being stuff 
+client leadgen 
+Closing
+Social media marketing
+Advertisement
+A
+
+
+![[BC9B2167-B405-4798-A1AE-1F7444F75BB7.jpeg]]

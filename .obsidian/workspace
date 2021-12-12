@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Fixing my Life/99.md",
+            "file": "notes/Carreer/Marketing/Untitled.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fixing my Life/99.md",
+                "file": "notes/Carreer/Marketing/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "db4a4e794b6542c6",
   "lastOpenFiles": [
+    "notes/Carreer/Marketing/Untitled.md",
     "notes/Fixing my Life/99.md",
     "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Seek Wealth, Not Money or Status.md",
     "notes/Get Radicalized/Subfolder/Architectural Sovereignty.md",
@@ -103,7 +104,6 @@
     "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
     "notes/Get Radicalized/Subfolder/deliberate practice.md",
     "notes/Fixing my Life/What do you want.md",
-    "notes/Fixing my Life/What kind of habits do I want to engage in?.md",
-    "notes/Fixing my Life/What kind of people do I admire?.md"
+    "notes/Fixing my Life/What kind of habits do I want to engage in?.md"
   ]
 }
