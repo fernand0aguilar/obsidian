@@ -4,7 +4,7 @@ You are not mentally developed by what you read but by what you think about what
 Thinking is the hardest and most exhaustive of all labor. 
 
 Face thought. Dare to think great thoughts.
-
+C
 We never move forward until we begin to think about it.
 
 Read about great things and think about great questions
@@ -54,4 +54,34 @@ Divine thoughts will externalize themselves.
 Thoughts of power will lead to a life of power.
 Great thoughts will manifest in a great personality.
 
-Think well of all this and you are ready to act.
+Think well of all this and you are ready to act. Growth and greatness
+
+Great
+Power ''
+something worthwhile great things in a great way
+
+Principle
+Genius waiting to be wise and having invite /
+The principle self activity mastery of the principle o speaking from within
+
+Constant action
+
+. Jeff self active as a living being the power of becoming what you want to be
+
+
+Doing small things or great things in a great way originating action 
+
+
+Constant action life in itself creatures that master their environment becoming
+Alive
+You can become what you want to be
+
+
+
+Great harmonious and well rounded growth to throw all the predisposition to grow according to some certain lines
+Rarity and perfection. The attempt to undertake great things in a great way gives
+One all the power necessary for the undertake to be realized and this is the process of
+Self actualization
+
+
+
