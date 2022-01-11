@@ -27,6 +27,3 @@ Then compliment with other skills:
 	- [[Copy]]
 - [[Reading]]
 	- [[History]]
-
-
-[[]]
