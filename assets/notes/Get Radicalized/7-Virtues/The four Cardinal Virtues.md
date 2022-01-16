@@ -1,0 +1,5 @@
+
+[[Prudence]]
+[[Temperance]]
+[[Courage]]
+[[Justice]]

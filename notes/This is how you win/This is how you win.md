@@ -13,6 +13,7 @@ Then compliment with other skills:
 	- [[Good listening ]]
 	- [[Writing ]]
 	- [[Communication]]
+	- [[Kaizen]]
 - [[Business management ]]
 	- [[Investing]] 
 	- [[Economics ]]

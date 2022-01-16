@@ -50,7 +50,7 @@ The design/project phase includes:
 
 * **The design of the user interface:** It involves the elaboration of how the user can interact to perform his tasks, the choice of interface objects, the layout of windows and screens, etc. The interface should ensure good usability of the software.
 
-* **The software architecture design:** You must work out a macroscopic view of the software in terms of components that interact with each other.
+* **The [[software architecture]] design:** You must work out a macroscopic view of the software in terms of components that interact with each other.
 
 * **Design of algorithms and data structures:** It aims to determine, independently of the adopted programming language, the algorithmic solutions, and the associated data structures.
 

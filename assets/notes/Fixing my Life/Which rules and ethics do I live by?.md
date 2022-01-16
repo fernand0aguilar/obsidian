@@ -1,0 +1,5 @@
+# Moral code
+
+I am 
+
+

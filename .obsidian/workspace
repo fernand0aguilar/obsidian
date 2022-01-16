@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d4990c389358c1",
+        "id": "071bb8f4ab102786",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md",
-            "mode": "preview"
+            "file": "notes/Carreer/Business/R&D/Software Architecture.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strategy",
+                "query": "becoming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md",
+                "file": "notes/Carreer/Business/R&D/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +91,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d8d4990c389358c1",
+  "active": "071bb8f4ab102786",
   "lastOpenFiles": [
-    "notes/books/Winning without pitching/{The First Proclamation}/1. {The First Proclamation} - We Will Specialize.md",
-    "Social skills.md",
-    "notes/This is how you win/This is how you win.md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/We Should Eventually Be Working for Ourselves.md",
-    "notes/books/Winning without pitching/{The Second Proclamation}/1. {The Second Proclamation} - We Will Replace Presentations With Conversations.md",
-    "notes/books/Winning without pitching/{The First Proclamation}/strategy.md",
-    "notes/Get Radicalized/Subfolder/Accurate Thinking.md",
-    "notes/Carreer/Marketing/Untitled.md",
-    "notes/Fixing my Life/99.md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Seek Wealth, Not Money or Status.md"
+    "notes/Carreer/Business/R&D/Software Architecture.md",
+    "notes/Carreer/Business/R&D/Scaling a tech-startup.md",
+    "notes/Carreer/Business/R&D/Marketing.md",
+    "notes/Carreer/Business/R&D/Growth Hacking.md",
+    "notes/Carreer/Business/MARS COLLEGE.md",
+    "notes/Carreer/Business/Becoming an entrepreuner Curriculum.md",
+    "notes/Carreer/Business/R&D/The innovation challenge.md",
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
+    "notes/Carreer/Business/Social & Spiritual Entrepreunership.md",
+    "notes/Carreer/Business/NFT Hackaton.md"
   ]
 }
