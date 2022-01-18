@@ -2,11 +2,11 @@
 10 Workshop Ideas for 10 weeks of Mars
 
 ---
-## 1. Squads
+## [[1. Squads]]
 Facilitate an accountability group meeting
 
 ---
-## 2. Learning How To Learn
+## [[2. Learning How To Learn]]
 Tutorial: Creating a second brain
 
 ---
