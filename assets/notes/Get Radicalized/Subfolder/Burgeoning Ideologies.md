@@ -29,3 +29,6 @@ Wake up and give some form of service useful to as many people as possible.
 
 The non-drifter is supposed to give if he expects to get. And he must give before he gets.
 
+
+https://aesthetics.fandom.com/wiki/Cyberpunk#Nowpunk
+

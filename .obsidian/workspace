@@ -4,52 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "071bb8f4ab102786",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Fixing my Life/MARS College/Untitled/2. Learning How To Learn.md",
-            "mode": "source"
-          }
-        },
-        "group": "910aab26e1deb920"
-      },
-      {
         "id": "da38ac8dce99d450",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "notes/Fixing my Life/MARS College/Untitled/2. Learning How To Learn.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "910aab26e1deb920"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "becoming",
+                "query": "software architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fixing my Life/MARS College/Untitled/2. Learning How To Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "071bb8f4ab102786",
+  "active": "da38ac8dce99d450",
   "lastOpenFiles": [
-    "notes/Fixing my Life/MARS College/Untitled/2. Learning How To Learn.md",
-    "notes/Fixing my Life/What do you want.md",
-    "notes/Fixing my Life/MARS College/Mars Idea week presentation.md",
-    "notes/Fixing my Life/MARS College/Untitled/1. Squads.md",
-    "notes/Fixing my Life/MARS College/MARS COLLEGE.md",
-    "notes/Carreer/Business/documents/Screen Shot 2022-01-11 at 3.30.55 PM.png",
-    "notes/Fixing my Life/MARS College/NFT Hackaton.md",
-    "notes/Carreer/Business/R&D/Becoming an entrepreuner Curriculum.md",
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
+    "reports/Daily Notes/01-02-2022.md",
     "notes/Carreer/Business/R&D/Software Architecture.md",
-    "notes/Carreer/Business/R&D/Scaling a tech-startup.md"
+    "reports/Daily Notes/30-01-2022.md",
+    "notes/Fixing my Life/MARS College/2. Learning How To Learn.md",
+    "notes/Fixing my Life/What you need to become.md",
+    "notes/This is how you win/Power dynamics.md",
+    "assets/notes/Carreer/Becoming an Entrepreuner/This is how you win.md",
+    "Social skills.md",
+    "notes/Mathematics/Persuasion.md"
   ]
 }

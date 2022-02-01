@@ -19,4 +19,4 @@ which are specific opposites to the Seven Deadly Sins:
 greed, lust, avarice, envy, hatred
 
 # Positive
-liberality, chastity, abstinence, patience, 
+liberality, chastity, abstinence, [[patience]], 

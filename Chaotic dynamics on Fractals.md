@@ -4,6 +4,14 @@
 	1. https://frag997.github.io/p5-plus-plus/1.Projects/01.fractal_tree/
 	2. https://frag997.github.io/ChaosGame-CPBR12/code/05.ChaosGame_v01/
 	3. https://frag997.github.io/ChaosGame-CPBR12/code/07.ChaosGame_v02/
+
+// Part 1: https://youtu.be/7gNzMtYo9n4
+
+// https://thecodingtrain.com/CodingChallenges/123.1-chaos-game
+
+// Part 2: https://youtu.be/A0NHGTggoOQ
+
+// https://thecodingtrain.com/CodingChallenges/123.2-chaos-game
 3. [[Dynamical systems]]
 4. How to compute orbits by looking at pictures
 5. Equivalent Dynamical Systems

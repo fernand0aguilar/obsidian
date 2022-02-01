@@ -10,7 +10,7 @@ Facilitate an accountability group meeting
 Tutorial: Creating a second brain
 
 ---
-## 3. Introduction to Cybersecurity
+## 3. [[Introduction to Cybersecurity]]
 Bring your best black hoodie
 
 ---

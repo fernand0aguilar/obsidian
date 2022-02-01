@@ -29,7 +29,7 @@ Traditionally, critical thinking has been variously defined as follows:
 
 -   "The process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion"
 -   "Disciplined thinking that is clear, rational, open-minded, and informed by evidence"
--   "Purposeful, [self-regulatory](https://en.wikipedia.org/wiki/Self-control "Self-control") judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based"
+-   "Purposeful, [self-regulatory](https://en.wikipedia.org/wiki/Self-control "Self-control") [[Temperance]] judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based"
 -   "Includes a commitment to using reason in the formulation of our beliefs"
 -   The skill and propensity to engage in an activity with reflective skepticism (McPeck, 1981)
 -   Thinking about one's thinking in a manner designed to organize and clarify, raise the efficiency of, and recognize errors and biases in one's own thinking. Critical thinking is not 'hard' thinking nor is it directed at solving problems (other than 'improving' one's own thinking). Critical thinking is inward-directed with the intent of maximizing the rationality of the thinker. One does not use critical thinking to solve problems—one uses critical thinking to improve one's process of thinking.

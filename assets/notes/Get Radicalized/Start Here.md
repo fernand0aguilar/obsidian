@@ -16,6 +16,7 @@
 • [[Hierarchical & Social Dynamics]]
 • [[Architectural Sovereignty]] ✅🔙
 • [[Data Agencies]]
+* [[]]
 
 # Science & Technology
 • [[Open-source Intelligence (OSINT)]]

@@ -5,7 +5,7 @@ Our Bachelor in Entrepreneurship & Innovation is structured in 5 week modules th
 https://www.startupschool.org/curriculum
 
 
-## Year 1
+## [[Year 1]]
 * [[Agile Working]]
 * [[Social & Spiritual Entrepreunership]]
 * [[Effectuation]]
