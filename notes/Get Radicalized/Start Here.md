@@ -53,6 +53,7 @@
 • [[Spiral Dynamics]]
 • [[Psychology]]
 
+
 # TODO -> 
 
 Assunto 2 - Ética e Moral 

@@ -9,7 +9,8 @@ When you see a journalist writing articles to impress other journalists or a res
 
 The journalist or restaurant owner may receive accolades within certain elite circles, but that doesn’t reflect reality.
 
-A scientist or an experimentalist gets feedback from Mother Nature, and an entrepreneur gets feedback from a free market in which people vote with their money and time. Those are much better predictors.
+A scientist or an experimentalist gets feedback from Mother Nat
+ure, and an entrepreneur gets feedback from a free market in which people vote with their money and time. Those are much better predictors.
 
 People who get paid to operate in the real world tend to be optimistic. People who operate in ivory towers are incentivized to be pessimists.
 

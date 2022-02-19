@@ -11,7 +11,7 @@ People don't want to use your software. They want to lose weight, laugh, be ente
 
 The life cycle has two different macro phases
 
-    Development
+    [[Development]]
     Maintenance
 
 It has also 5 micro phases
@@ -21,6 +21,30 @@ It has also 5 micro phases
     Implementation
     Verification and Validation
     Maintenance
+
+***
+Written Process:
+
+Start with project managment:
+	gather user requirements
+	analyze what they think they want
+	study what they are doing
+	decide to commit to do what they are asking, 
+	decide if I can go with existing solutions 
+	If not design a solution
+
+design means: 
+	either thinking about the new solution and delivering results or make a new proof of concept
+	and from there iterate
+	
+its better to double check and follow an agile procedure
+	Think about the other end,
+	what they think the problem is
+	and what do they really need
+
+
+My background is a javascript specialization,
+this involves a lot of frontend development along with some backend integrations or development. I've been using next js, react, and some component library or custom made css.
 
 ***
 

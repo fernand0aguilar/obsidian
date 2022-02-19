@@ -18,13 +18,13 @@ Bring your best black hoodie
 in 36 Slides
 
 ---
-## 5. Communication workshop
+## 5. [[Communication]] workshop
 How to communicate with teamates
 
 ---
 
 ## 6. Kanban Approach
-How to make schedules
+How to make [[schedules]]
 
 ---
 ## 7. Design + Fiction 

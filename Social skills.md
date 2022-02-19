@@ -2,7 +2,9 @@
 
 # How to Make Women Love You
 
-In general, women are irresistibly attracted to fortune, stature and a strong masculine essence. 
+In general, women are irresistibly attracted to fortune, 
+
+and a strong masculine essence. 
 
 ## First priority: 
 

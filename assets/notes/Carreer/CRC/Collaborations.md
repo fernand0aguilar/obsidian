@@ -1,6 +1,6 @@
 # Collaborations
 
-For collaborations, this means, who does it talk to and how does it talk to them.
+For [[notes/Carreer/Design/Collaborations]], this means, who does it talk to and how does it talk to them.
 
 So in the case of a Login, the collaboration would be with the end user and how is that accomplished?
 
