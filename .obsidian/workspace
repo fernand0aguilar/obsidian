@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6524f0fe75c5aeff",
+        "id": "70f98f952a138ff8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Social skills.md",
+            "file": "reports/Daily Notes/21-02-2022.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mars",
+                "query": "what do you want",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social skills.md",
+                "file": "reports/Daily Notes/21-02-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6524f0fe75c5aeff",
+  "active": "70f98f952a138ff8",
   "lastOpenFiles": [
-    "Social skills.md",
-    "Seven factors of awakening.md",
-    "sales.md",
-    "Religious Syncretism.md",
-    "Principles.md",
-    "Prudence.md",
-    "Purpose.md",
-    "reading.md",
-    "non violent.md",
-    "Introduction to Cybersecurity.md"
+    "reports/Daily Notes/21-02-2022.md",
+    "notes/Fixing my Life/MARS College/schedules.md",
+    "notes/Fixing my Life/MARS College/Mars Idea week presentation.md",
+    "notes/Fixing my Life/MARS College/planning.md",
+    "notes/Fixing my Life/MARS College/2. Learning How To Learn.md",
+    "reports/Daily Notes/19-02-2022.md",
+    "notes/Get Radicalized/7-Virtues/The seven Principles to unlock the doors of life.md",
+    "assets/notes/Get Radicalized/7-Virtues/The seven Principles to unlock the doors of life.md",
+    "notes/Get Radicalized/Subfolder/Commitment & Consistency.md",
+    "assets/notes/Get Radicalized/Subfolder/Critical Thinking.md"
   ]
 }

@@ -66,7 +66,7 @@ Understand this two truths and you will understand the main difference between a
 
 The lack of caution is, next to the habit of drifting, the most dangerous human trait.
 
-People drift into all sorts of hazardous circumstances because they do not exercise caution by planning the moves they make.
+People drift into all sorts of hazardous circumstances because they do not exercise caution by [[planning]] the moves they make.
 
 The drifter always moves without exercising caution. He acts first and thinks later if at all.
 
