@@ -1,6 +1,8 @@
 [[Equity]]
 
 
+
+
 60 Best Pieces of Financial Advice That You Should’ve Learned in College
 1. If you rely on earning a wage or salary to put money in your pocket, you will be forever caught up in the vicious cycle of needing money, earning money and spending money.
 2. People who drive Lamborghinis and jetset around the world did not get there because they “Got Rich Slowly” by investing in mutual funds, clipping coupons, and maxing out their 401(k)s. Those techniques are not an effective road to wealth.
