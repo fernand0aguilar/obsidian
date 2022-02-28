@@ -1,6 +1,3 @@
-![[Naval-Ep25.mp3]]
-
-
 From low to high specific knowledge, accountability and leverage
 
 Laborers get paid hourly and have low accountability

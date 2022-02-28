@@ -1,6 +1,4 @@
 
-![[Naval-Ep88 (1).mp3]]
-
 You’re always bound by the laws of physics
 
 **Naval:** There goes my solution for [Zeno’s paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes), which says before you can get all the way somewhere, you have to get halfway there. And before you can get halfway there, you have to get a quarter of the way there, and therefore, you’ll never get there.

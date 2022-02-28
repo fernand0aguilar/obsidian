@@ -1,5 +1,5 @@
 
-![[Naval-Ep84 (1).mp3]]
+
 
 
 **Naval:** There are two other scientific thinkers who I like who come to similar conclusions as Deutsch. 

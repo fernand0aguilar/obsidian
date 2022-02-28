@@ -1,5 +1,5 @@
 
-![[Naval-Ep32.mp3]]
+
 
 Competition will blind you to greater games
 

@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep78 (1).mp3]]
+
 
 
 **Brett:** Knowledge is what transforms the world. We can take some raw material that has no particular use and within that raw material, we can find uranium nuclei, which then can be used to create bombs or energy in a nuclear reactor. We can find within something that for almost the entire geological existence of the earth sat there inert and would have done nothing, absent people. People are the entities within the universe that create explanations. They’re able to explain what raw materials might be transformed into.

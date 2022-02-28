@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep14.mp3]]
+
 
 
 Specific knowledge is on the bleeding edge of technology, art and communication

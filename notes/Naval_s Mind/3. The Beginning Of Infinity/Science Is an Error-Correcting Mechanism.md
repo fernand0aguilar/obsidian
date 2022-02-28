@@ -1,5 +1,5 @@
 
-![[Naval-Ep95 (1).mp3]]
+
 
 **Naval:** Where do good explanations come from?
 

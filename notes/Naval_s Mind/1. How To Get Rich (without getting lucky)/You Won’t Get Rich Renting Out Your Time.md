@@ -1,6 +1,4 @@
 
-![[Naval-Ep6.mp3]]
-
 You can’t earn non-linearly when you’re renting out your time
 
 You won’t get rich renting out your time

@@ -1,5 +1,5 @@
 
-![[Naval-Ep101.mp3]]
+
 
 
 **Naval:** A lot of the theories as to why we’re imminently going to create an [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) are based in a naïve extrapolation of computational power.

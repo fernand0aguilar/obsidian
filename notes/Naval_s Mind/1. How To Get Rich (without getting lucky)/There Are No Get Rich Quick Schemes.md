@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep36.mp3]]
+
 
 Get rich quick schemes are just someone else getting rich off you
 

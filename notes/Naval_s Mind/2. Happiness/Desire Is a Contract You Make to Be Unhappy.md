@@ -1,6 +1,4 @@
 
-![[Naval-Ep58.mp3]]
-
 Happiness is returning to a state where nothing is missing
 
 **Naval:** Desire’s a contract you make to be unhappy until you get what you want. You become disturbed because you want something. Then you work really hard to get it and are miserable in the meantime. Finally, when you get it, you revert to the state you were in before you had it. It’s not like you achieve some peak level of bliss that you stay on forever.

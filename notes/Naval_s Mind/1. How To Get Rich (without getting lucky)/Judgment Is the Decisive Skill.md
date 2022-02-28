@@ -1,7 +1,3 @@
-
-![[Naval-Ep26.mp3]]
-
-
 In an age of nearly infinite leverage, judgment is the most important skill
 
 **Nivi:**  We spoke about specific knowledge, we talked about accountability, we talked about leverage. The last skill that Naval talks about in his tweetstorm is judgment, where he says, that “Leverage is a force multiplier for your judgment.”

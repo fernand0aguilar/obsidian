@@ -1,5 +1,5 @@
 
-![[Naval-Ep24.mp3]]
+
 
 An ideal business model has network effects, low marginal costs and scale economies
 

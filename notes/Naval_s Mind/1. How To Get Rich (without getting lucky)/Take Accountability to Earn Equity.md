@@ -1,5 +1,5 @@
 
-![[Naval-Ep20.mp3]]
+
 
 If you have high accountability, you’re less replaceable
 

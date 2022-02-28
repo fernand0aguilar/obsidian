@@ -1,5 +1,5 @@
 
-![[Naval-Ep16.mp3]]
+
 
 You should be able to pick up any book in the library and read it
 

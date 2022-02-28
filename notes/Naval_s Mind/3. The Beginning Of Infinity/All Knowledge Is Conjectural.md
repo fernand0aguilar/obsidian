@@ -1,6 +1,5 @@
 
 
-![[Naval-Ep86 (1).mp3]]
 
 
 Be skeptical of absolute certainty

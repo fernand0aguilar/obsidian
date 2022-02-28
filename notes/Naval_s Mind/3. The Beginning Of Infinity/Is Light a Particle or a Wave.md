@@ -1,5 +1,5 @@
 
-![[Naval-Ep91 (1).mp3]]
+
 
 
 **Naval:** There’s a YouTube [video](https://www.youtube.com/watch?v=SDZ454K_lBY) in which Deutsch explains the famous quantum [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment), which is about particle-wave duality. Is light a particle or a wave? You pass it through a slit and, depending on whether there’s an observer and interference or not, it ends up in a wave pattern or as individual photons.

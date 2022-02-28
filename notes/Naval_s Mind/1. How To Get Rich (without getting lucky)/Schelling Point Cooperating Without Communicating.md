@@ -1,5 +1,5 @@
 
-![[Naval-Ep45 (1).mp3]]
+
 
 **Nivi:** Let’s talk about Schelling points.
 

@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep67.mp3]]
+
 
 
 **Naval:** What’s considered to be true is fought over. [Individuals search for truth but groups search for consensus](https://twitter.com/naval/status/1141844787705741312?s=21)—and society is the largest group. So the biggest problem we run into is this: What society wants for you is not always what’s good for you.

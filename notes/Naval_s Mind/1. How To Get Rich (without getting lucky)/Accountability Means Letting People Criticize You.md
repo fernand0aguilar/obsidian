@@ -1,6 +1,5 @@
 
 
-![[Naval-Ep39.mp3]]
 
 
 You have to stick your neck out and be willing to fail publicly

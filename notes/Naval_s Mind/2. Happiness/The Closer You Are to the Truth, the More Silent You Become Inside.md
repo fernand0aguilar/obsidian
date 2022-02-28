@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep66.mp3]]
+
 
 
 Wise people are quiet

@@ -1,5 +1,4 @@
 
-![[Naval-Ep60.mp3]]
 
 A peaceful mind makes better decisions
 

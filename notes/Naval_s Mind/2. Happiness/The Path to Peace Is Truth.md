@@ -1,5 +1,5 @@
 
-![[Naval-Ep68.mp3]]
+
 
 
 When self-improvement fails, work on discovering the truth

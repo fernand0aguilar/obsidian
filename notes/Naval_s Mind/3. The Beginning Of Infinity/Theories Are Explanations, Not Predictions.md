@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep96 (1).mp3]]
+
 
 **Brett:** There’s another example like this. You can do this with a saucepan at home. Put a beaker of water on a heat source, then put a thermometer into that water and turn on your heat source. As time passes, record the temperature of the water. 
 

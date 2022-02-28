@@ -1,8 +1,3 @@
-
-
-![[Naval-Ep8.mp3]]
-
-
 Society will pay you for creating what it wants and delivering it at scale
 
 Give society what it wants, but doesn’t know how to get—at scale

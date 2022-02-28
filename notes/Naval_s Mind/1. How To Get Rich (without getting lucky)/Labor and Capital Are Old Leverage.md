@@ -1,6 +1,3 @@
-
-![[Naval-Ep21.mp3]]
-
 Everyone is fighting over labor and capital
 
 Our brains aren’t evolved to comprehend new forms of leverage

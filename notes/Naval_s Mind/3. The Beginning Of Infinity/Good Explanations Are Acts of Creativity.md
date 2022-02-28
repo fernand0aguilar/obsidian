@@ -1,4 +1,4 @@
-![[Naval-Ep81 (1).mp3]]
+
 
 They’re not derived from looking at the past
 

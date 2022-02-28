@@ -1,4 +1,3 @@
-[test](https://twitter.com/bossyourday/status/1368535397911904256?s=20)
 
 # 37 ways to Boss Your Day.
 

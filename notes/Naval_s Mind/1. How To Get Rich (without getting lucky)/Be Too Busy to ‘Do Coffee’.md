@@ -1,5 +1,4 @@
 
-![[Naval-Ep29.mp3]]
 
 Ruthlessly decline meetings
 

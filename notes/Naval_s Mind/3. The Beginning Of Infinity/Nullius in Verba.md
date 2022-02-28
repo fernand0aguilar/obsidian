@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep74 (1).mp3]]
+
 
 
 **Naval:** _[The Beginning of Infinity](https://www.google.com/search?client=safari&rls=en&q=the+beginning+of+infinity&ie=UTF-8&oe=UTF-8)_ is not an easy book to read. Deutsch wrote it for other physicists and philosophers. He has a certain peer group that he respects, and that respects him, and he has to meet them at their level.

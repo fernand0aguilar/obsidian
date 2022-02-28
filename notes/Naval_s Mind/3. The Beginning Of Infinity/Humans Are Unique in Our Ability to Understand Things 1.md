@@ -1,5 +1,5 @@
 
-![[Naval-Ep80 (1).mp3]]
+
 
 **Naval:** The value is in the knowledge, and the knowledge is inside the observer and the creator, in other words, a human. It’s not inside the thing itself. For example, oil is useless unless you know how to refine it, burn it, and use it for combustion. Information is useless unless there’s a brain there to receive it. 
 

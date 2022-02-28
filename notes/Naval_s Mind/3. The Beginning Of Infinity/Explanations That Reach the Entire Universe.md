@@ -1,5 +1,5 @@
 
-![[Naval-Ep75 (1).mp3]]
+
 
 
 We can understand anything that can be understood

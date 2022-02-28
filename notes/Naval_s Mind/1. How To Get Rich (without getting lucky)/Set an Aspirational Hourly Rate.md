@@ -1,5 +1,5 @@
 
-![[Naval-Ep27.mp3]]
+
 
 Outsource tasks that cost less than your hourly rate
 

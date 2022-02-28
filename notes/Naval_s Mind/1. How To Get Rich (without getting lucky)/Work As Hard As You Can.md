@@ -1,5 +1,5 @@
 
-![[Naval-Ep28.mp3]]
+
 
 Even though what you work on and who you work with are more important
 

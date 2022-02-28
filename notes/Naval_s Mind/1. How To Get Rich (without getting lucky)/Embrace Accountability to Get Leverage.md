@@ -1,4 +1,3 @@
-![[Naval-Ep19.mp3]]
 
 
 Take risks under your own name and society will reward you with leverage

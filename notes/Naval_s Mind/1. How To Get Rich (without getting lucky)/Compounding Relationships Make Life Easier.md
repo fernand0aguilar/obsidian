@@ -1,5 +1,4 @@
 
-![[Naval-Ep47.2.mp3]]
 
 
 Life gets a lot easier when you know someone’s got your back

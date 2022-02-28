@@ -1,7 +1,7 @@
 
 
 
-![[Naval-Ep64.mp3]]
+
 
 
 The mind should be a servant, not a master

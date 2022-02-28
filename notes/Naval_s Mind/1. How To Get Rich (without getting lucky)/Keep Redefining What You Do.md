@@ -1,6 +1,3 @@
-
-![[Naval-Ep30.mp3]]
-
 Become the best in the world at what you do
 
 Keep redefining what you do until you’re the best at what you do

@@ -1,7 +1,7 @@
 David Deutsch’s book expanded my repertoire of reasoning
 
 
-![[Naval-Ep73 (1).mp3]]
+
 
 **Naval:** I was pleasantly surprised a couple of years back when I opened an old book that I’d read a decade ago called [_The Beginning of Infinity_](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) by [David Deutsch](https://twitter.com/DavidDeutschOxf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). 
 

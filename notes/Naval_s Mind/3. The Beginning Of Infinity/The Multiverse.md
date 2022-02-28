@@ -1,4 +1,4 @@
-![[Naval-Ep92 (1).mp3]]
+
 
 
 **Brett:** We have to come to a deeper understanding of what is going on in this [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment). If we fire either a photon or an electron at that double-slit apparatus and put a detector at either of those slits, then we will detect a particle.

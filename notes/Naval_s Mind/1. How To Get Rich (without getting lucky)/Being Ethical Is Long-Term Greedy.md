@@ -1,6 +1,5 @@
 
 
-![[Naval-Ep41.mp3]]
 
 If you cut fair deals, you will get paid in the long run
 
@@ -59,7 +58,6 @@ A lot of wisdom involves realizing long-term consequences of your actions. The l
 
 Envy can give you a powerful boost, or it can eat you alive
 
-![[Naval-Ep42.mp3]]
 
 
 **Nivi:** Do you want to tell us about jobs you had growing up and the one that kicked off your fanatical obsession with creating wealth?
@@ -172,7 +170,6 @@ If you are an agent, the best way to operate is to ask, “What would the founde
 
 Kelly Criterion: Avoid Ruin
 
-![[Naval-Ep44 1.mp3]]
 
 Don’t ruin your reputation or get wiped to zero
 
@@ -196,7 +193,6 @@ The Kelly criterion helps you avoid ruin. The number one way people get ruined i
 
 Schelling Point: Cooperating Without Communicating
 
-![[Naval-Ep45.mp3]]
 
 People who can’t communicate can cooperate by anticipating the other person’s actions
 

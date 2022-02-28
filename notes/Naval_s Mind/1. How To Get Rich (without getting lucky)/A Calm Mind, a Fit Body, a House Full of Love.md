@@ -1,6 +1,5 @@
 
 
-![[Naval-Ep35.mp3]]
 
 When you’re finally wealthy, you’ll realize it wasn’t what you were seeking in the first place
 

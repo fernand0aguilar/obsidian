@@ -1,5 +1,5 @@
 
-![[Naval-Ep37.mp3]]
+
 
 
 Figure out what you’re uniquely good at, and apply as much leverage as possible

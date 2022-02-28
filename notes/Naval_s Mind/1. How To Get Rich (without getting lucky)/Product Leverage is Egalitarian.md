@@ -1,5 +1,5 @@
 
-![[Naval-Ep23.mp3]]
+
 
 
 The best products tend to be available to everyone

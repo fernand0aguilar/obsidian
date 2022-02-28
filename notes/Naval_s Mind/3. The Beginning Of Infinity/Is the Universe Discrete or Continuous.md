@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep87 (1).mp3]]
+
 
 
 Quantum theory and relativity disagree

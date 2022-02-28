@@ -1,4 +1,4 @@
-![[Naval-Ep100 (1).mp3]]
+
 
 
 The door is always open for new ideas

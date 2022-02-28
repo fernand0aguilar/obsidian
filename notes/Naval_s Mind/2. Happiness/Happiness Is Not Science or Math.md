@@ -1,5 +1,5 @@
 
-![[Naval-Ep56.mp3]]
+
 
 
 Happiness is more like poetry than algorithms

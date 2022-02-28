@@ -1,5 +1,5 @@
 
-![[Naval-Ep103.mp3]]
+
 
 Pessimism is self-fulfilling
 

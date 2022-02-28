@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep11.mp3]]
+
 
 
 You can’t compromise on any of these three

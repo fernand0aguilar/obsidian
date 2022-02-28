@@ -1,8 +1,6 @@
 
 
 
-![[Naval-Ep63.mp3]]
-
 
 Addiction enables artificial relationships and activities
 

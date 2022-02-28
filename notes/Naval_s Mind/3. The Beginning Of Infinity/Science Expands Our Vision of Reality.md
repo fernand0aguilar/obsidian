@@ -1,4 +1,4 @@
-![[Naval-Ep94 (1).mp3]]
+
 
 
 **Brett:** Many scientists and philosophers have talked about the concept of a [multiverse](https://en.wikipedia.org/wiki/Multiverse#:~:text=The%20multiverse%20is%20a%20hypothetical,and%20constants%20that%20describe%20them.). But we’re talking about a very strict, very sober understanding of what a multiverse is. 

@@ -1,5 +1,5 @@
 
-![[Naval-Ep55.mp3]]
+
 
 
 It’s easier to fulfill your material desires than to renounce them

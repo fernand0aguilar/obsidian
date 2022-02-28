@@ -1,4 +1,4 @@
-![[Naval-Ep93 (1).mp3]]
+
 
 **Brett:** At this point people might object, “How dare you invoke in science things that can’t be seen or observed? This is completely antagonistic towards the scientific method, surely.”
 

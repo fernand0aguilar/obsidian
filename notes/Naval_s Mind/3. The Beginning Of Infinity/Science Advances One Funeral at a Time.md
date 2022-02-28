@@ -1,5 +1,5 @@
 
-![[Naval-Ep98 (1).mp3]]
+
 
 **Naval:** There’s some deep symmetry between [multiverse](https://en.wikipedia.org/wiki/Multiverse) theory and [Feynman path integrals](https://en.wikipedia.org/wiki/Path_integral_formulation#Feynman's_interpretation), right?
 

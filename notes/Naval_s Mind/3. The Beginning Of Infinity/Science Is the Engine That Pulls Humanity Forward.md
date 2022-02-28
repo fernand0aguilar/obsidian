@@ -1,7 +1,7 @@
 “Believe in science” is an oxymoron
 
 
-![[Naval-Ep72 (1).mp3]]
+
 
 
 **Naval:** Welcome, [Brett](https://twitter.com/tokteacher), to the eponymous Naval podcast. The topic that we started out on was the timeless principles of [wealth](http://nav.al/rich) creation. And then we touched a little bit on internal [happiness](https://nav.al/happiness) and peace and well-being.

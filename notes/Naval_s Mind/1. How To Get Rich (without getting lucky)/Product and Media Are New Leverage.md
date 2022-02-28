@@ -1,5 +1,5 @@
 
-![[Naval-Ep22.mp3]]
+
 
 Create software and media that work for you while you sleep
 

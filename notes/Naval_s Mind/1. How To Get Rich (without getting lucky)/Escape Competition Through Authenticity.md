@@ -1,5 +1,4 @@
 
-![[Naval-Ep31.mp3]]
 
 Nobody can compete with you on being you
 

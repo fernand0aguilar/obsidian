@@ -1,5 +1,5 @@
 
-![[Naval-Ep48.mp3]]
+
 
 You can charge people for extras based on their propensity to pay
 

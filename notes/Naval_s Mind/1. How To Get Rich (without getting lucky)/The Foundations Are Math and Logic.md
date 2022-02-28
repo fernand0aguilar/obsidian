@@ -1,5 +1,5 @@
 
-![[Naval-Ep17.mp3]]
+
 
 Mathematics and logic are the basis for understanding everything else
 

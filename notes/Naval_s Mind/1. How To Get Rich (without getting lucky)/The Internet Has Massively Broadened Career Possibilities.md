@@ -1,5 +1,5 @@
 
-![[Naval-Ep9.mp3]]
+
 
 
 The Internet allows you to scale any niche obsession

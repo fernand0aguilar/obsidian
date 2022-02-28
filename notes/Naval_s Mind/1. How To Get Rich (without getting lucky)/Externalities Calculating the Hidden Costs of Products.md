@@ -1,6 +1,3 @@
-
-![[Naval-Ep51.mp3]]
-
 Externalities let you account for the true cost of products by including hidden costs
 
 Nivi: What’s a mispriced externality? You mentioned it on a previous episode.

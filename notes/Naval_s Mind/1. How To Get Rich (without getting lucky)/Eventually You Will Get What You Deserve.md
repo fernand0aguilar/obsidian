@@ -1,8 +1,3 @@
-
-
-![[Naval-Ep33.mp3]]
-
-
 On a long enough time scale, you will get paid
 
 **Nivi:** We’re talking about working for the long-term. The next tweet on that topic: “[Apply specific knowledge, with leverage, and eventually you will get what you deserve.](https://twitter.com/naval/status/1002103360646823936)”

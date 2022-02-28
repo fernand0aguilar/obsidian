@@ -1,5 +1,5 @@
 
-![[Naval-Ep12.mp3]]
+
 
 
 Don’t partner with cynics and pessimists; their beliefs are self-fulfilling

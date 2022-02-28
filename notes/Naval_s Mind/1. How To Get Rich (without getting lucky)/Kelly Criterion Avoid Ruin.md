@@ -1,6 +1,3 @@
-
-![[Naval-Ep44 (1).mp3]]
-
 **Nivi:** Let’s chat about the Kelly criterion. 
 
 **Naval:** The Kelly criterion is a popularized mathematical formulation of a simple concept. The simple concept is: Don’t risk everything. Stay out of jail. Don’t bet everything on one big gamble. Be careful how much you bet each time, so you don’t lose the whole kitty. 

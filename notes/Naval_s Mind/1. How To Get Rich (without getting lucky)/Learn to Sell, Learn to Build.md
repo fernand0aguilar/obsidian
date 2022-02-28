@@ -1,7 +1,3 @@
-
-![[Naval-Ep15.mp3]]
-
-
 If you can do both, you will be unstoppable
 
 Learn to sell, learn to build

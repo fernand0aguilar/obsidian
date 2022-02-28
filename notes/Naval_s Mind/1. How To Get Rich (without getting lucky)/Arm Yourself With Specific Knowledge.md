@@ -1,7 +1,5 @@
 
 
-![[Naval-Ep13.mp3]]
-
 Specific knowledge can be found by pursuing your genuine curiosity
 
 Arm yourself with specific knowledge

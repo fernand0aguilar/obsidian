@@ -1,6 +1,6 @@
 
 
-![[Naval-Ep5.mp3]]
+
 
 
 Build your character in a way that luck becomes deterministic

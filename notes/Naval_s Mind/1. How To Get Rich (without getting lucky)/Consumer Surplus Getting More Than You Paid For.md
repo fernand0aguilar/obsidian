@@ -1,6 +1,3 @@
-![[Naval-Ep49 (1).mp3]]
-
-
 
 People are willing to pay more than what companies charge
 

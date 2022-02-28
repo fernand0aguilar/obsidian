@@ -1,4 +1,4 @@
-![[Naval-Ep77 (1).mp3]]
+
 
 
 **Brett:** The difference with _The Beginning of Infinity_ is you’re getting a worldview. You’re not getting the standard take from physicists about how to understand quantum theory. You’re not getting the standard take of how to understand knowledge from philosophers. And you’re certainly not getting the standard take of how to understand mathematics from mathematicians.

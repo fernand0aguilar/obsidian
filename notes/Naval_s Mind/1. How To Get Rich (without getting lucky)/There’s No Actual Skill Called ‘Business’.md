@@ -1,5 +1,5 @@
 
-![[Naval-Ep18.mp3]]
+
 
 
 Avoid business schools and magazines

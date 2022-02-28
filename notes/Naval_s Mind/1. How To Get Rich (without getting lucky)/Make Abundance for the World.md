@@ -1,5 +1,5 @@
 
-![[Naval-Ep2.mp3]]
+
 
 
 Wealth isn’t about taking something from somebody else

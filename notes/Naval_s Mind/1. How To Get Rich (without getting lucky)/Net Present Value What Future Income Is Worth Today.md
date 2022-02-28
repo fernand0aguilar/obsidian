@@ -1,4 +1,4 @@
-![[Naval-Ep50.mp3]]
+
 
 
 See what future income is worth today by applying a discount to its future value**Nivi:**
