@@ -7,8 +7,10 @@
         "id": "a1b08dcd8913990f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "assets/Screen Shot 2022-01-11 at 3.31.38 PM.png"
+          }
         }
       }
     ],
@@ -53,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Screen Shot 2022-01-11 at 3.31.38 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +95,8 @@
   },
   "active": "a1b08dcd8913990f",
   "lastOpenFiles": [
+    "assets/Screen Shot 2022-01-11 at 3.31.38 PM.png",
+    "assets/Screen Shot 2022-01-11 at 3.30.55 PM 1.png",
     "Naval-Ep89 (1).mp3.md",
     "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/You Won’t Get Rich Renting Out Your Time.md",
     "notes/Naval_s Mind/3. The Beginning Of Infinity/Every Theory Is Held Inside a Physical Substrate.md",
@@ -100,8 +104,6 @@
     "notes/Naval_s Mind/2. Happiness/Breaking Addiction Is Socially Unacceptable.md",
     "notes/Naval_s Mind/2. Happiness/Being Unhappy Is Extremely Inefficient.md",
     "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Arm Yourself With Specific Knowledge.md",
-    "notes/Naval_s Mind/3. The Beginning Of Infinity/All Knowledge Is Conjectural.md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Accountability Means Letting People Criticize You.md",
-    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/A Calm Mind, a Fit Body, a House Full of Love.md"
+    "notes/Naval_s Mind/3. The Beginning Of Infinity/All Knowledge Is Conjectural.md"
   ]
 }

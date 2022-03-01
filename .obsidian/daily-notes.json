@@ -1,1 +1,6 @@
-{"folder":"reports/Daily Notes","template":"templates/Pages/Page — Daily Note — Template","format":"DD-MM-YYYY","autorun":true}
+{
+  "folder": "reports/Daily Notes",
+  "template": "templates/Pages/Page — Daily Note — Template",
+  "format": "DD-MM-YYYY",
+  "autorun": false
+}
