@@ -77,7 +77,7 @@ PM also plays an important role in connecting various functions and teams across
 
 Product Management makes sure that the team is spending their time on meaningful, worthwhile problems -- by solving problems that exist for real users by creating products that people want.
 
-[[how_to_design_interactions]]
+[[How to Design Interactions]]
 
 # Learning Objectives
 

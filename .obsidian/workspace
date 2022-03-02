@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Carreer/Design/UX/Design Thinking.md",
+            "file": "notes/Carreer/Design/UX/UX Process.md",
             "mode": "source",
             "backlinks": true
           }
-        }
+        },
+        "group": "3163f7c8160ee2ca"
+      },
+      {
+        "id": "d983c60578294bc5",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Carreer/Design/UX/UX Process.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.8580407475104639,
+              "close": false
+            }
+          }
+        },
+        "group": "3163f7c8160ee2ca"
       }
     ],
     "direction": "vertical"
@@ -77,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Carreer/Design/UX/Design Thinking.md",
+                "file": "notes/Carreer/Design/UX/UX Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +134,15 @@
   },
   "active": "a1b08dcd8913990f",
   "lastOpenFiles": [
+    "notes/Carreer/Design/UX/UX Process.md",
+    "notes/Carreer/Design/UX/UX Mapping Methods.md",
     "notes/Carreer/Design/UX/Design Thinking.md",
+    "notes/Carreer/Design/UX/Usability test.md",
+    "notes/Carreer/Design/UX/Empathy Map.md",
+    "notes/Carreer/Design/UX/How to Design Interactions.md",
     "notes/Carreer/Business/R&D/Art of leadership.md",
     "notes/Carreer/Business/R&D/Becoming an entrepreuner Curriculum.md",
     "notes/Carreer/Business/R&D/Anthropology for Entrepreuners.md",
-    "notes/Carreer/Design/UX/Empathy Map.md",
-    "notes/Carreer/Design/UX/process.md",
-    "notes/Carreer/Design/UX/how_to_design_interactions.md",
-    "notes/Carreer/Design/UX/UX Mapping Methods.md",
-    "notes/Carreer/Design/Design.md",
-    "notes/Carreer/Software Engineering/how_to_software_engineer.md"
+    "notes/Carreer/Design/Design.md"
   ]
 }

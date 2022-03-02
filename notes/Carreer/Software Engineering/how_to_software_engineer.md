@@ -62,7 +62,7 @@ By thinking on the requirements it is possible to calculate what is the cost and
 
 A way of solving problems.
 
-[[how_to_design_interactions]]
+[[How to Design Interactions]]
 
 It is defined as a process to map the characteristics of the system. Ensuring that it has a good Human computer Interaction.
 

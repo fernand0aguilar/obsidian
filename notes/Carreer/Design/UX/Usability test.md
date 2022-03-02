@@ -1,6 +1,6 @@
 
 ## Usability test
-"Usability testing is a black-box technique. The objective is to observe real users using the product to discover problems and points of improvement. The product, which can be a website, a web application, a physical product, does not have to be completely developed. Prototypes are widely used in usability tests to validate what is being done." - [Caelum]
+"Usability testing is a black-box technique. The objective is to observe real users using the product to discover problems and points of improvement. The product, which can be a website, a web application, a physical product, does not have to be completely developed. Prototypes are widely used in usability tests to validate what is being done." - Caelum
 
 The usability test to be developed will be based on the [article by Jakob Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) who says that the ideal number of people to test a product is 5.
 
@@ -20,57 +20,60 @@ We'll record your interaction with the product so we can identify issues and pot
 Well, let's start with a few questions just to put our product in context.
 
 ### 2. Customer Contextualization
-* Do you have digital bank accounts? If yes, what, in your opinion, is the main advantage?
-* Do you use the credit function of your accounts?
-* Do you think your limit is enough for your expenses?
-* Do you know the overdraft? Have you used it? What do you think about this service?
+* Do you have a salesfroce plus account? If yes, what, in your opinion, is the main advantage?
+* How often do you use your account?
+* Do you like the content? does it help you?
+* Do you know the dreamforce? Have you seen it? What do you think about this service?
 * What is your main motivation for using this service or not?
 
 
 ### 3. Product presentation
 
-I'll explain the situation to you: "You need to make a purchase whose value is much greater than the available balance in your account"
+I'll explain the situation to you: 
 
-The product allows simulating the use of overdraft linked to a 100% digital payment account. In it, when you start a simulation, you receive a user and an account, through which you can:
+"You want to signup to salesforce plus and be able to watch series and content"
+
+The product allows you to choose between a wide range of original content. In it, before you signup you get to watch trailers and go to the series pivot, through which you can:
 ```
- * Carry out inbound and outbound transactions
- * Enable or disable overdraft
- * Monitor the debts generated
- * Follow the overdraft limit
+ * Add series to the list
+ * See all episodes
+ * choose an episode
+ * copy video URL
+ 
 ```
 
 ### 4. Tasks
 * Analyze and annotate user reactions while performing the following flows:
-* Activate overdraft
-* See how much of the limit was used
-* Adjust limit
-* Use overdraft
+	* signup to watch
+	* choose an original series
+	* watch an episode
+	* Use the whole system
+
 ``` 
-To test the use of overdraft, consider the following scenarios:
+To test the use of salesforce plus, consider the following scenarios:
 
- > Scenario 1
+> Scenario 1
 
-      User uses the overdraft and after the period of 26 days he inserts the amount necessary to be paid, so that no debt is created
+    The user signs up
 
 > Scenario 2
-
-      Customer goes into overdraft, makes more withdrawals, increasing the amount due and after 26 days deposits to cover the debt
-
+	
+	The user browse through list of available series
+     
 > Scenario 3
+	The user chooses a serie and watches a trailer
 
-      User enters overdraft, enters the amount owed, makes more withdrawals entering overdraft again and the 26-day term changes, on the 26th day he covers the debt and there is no fee charged
-
-  > Scenario 4
-
-      Customer goes into overdraft and does not pay off the balance before 26 days. Customer tracks the debt created and pays the installment.
+> Scenario 4
+	The user saves the serie to my list, and clicks on more up next episodes
+      
 ```
-* View debts
+
 
 ### 5. debriefing
 
-* Would you use the Over26 overdraft service? Why?
-* What did you like least about the use of Over26 overdraft?
-* What was your impression of the process of activating the overdraft?
-* What was your impression of the process of visualizing your debt?
-* What was your main difficulty in monitoring the use of the overdraft limit? And to adjust your limit?
+* Would you use the salesforce plus service? Why?
+* What did you like least about the use of salesforce plus?
+* What was your impression of the process of activating the account?
+* What was your impression of the process of visualizing your available series?
+* What was your main difficulty in the use of the salesforce account?
 * What did you like most about the APP? And what would you change?
