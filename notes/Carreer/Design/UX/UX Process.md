@@ -34,3 +34,38 @@ Although usability testing is not exactly a technique for eliciting new requirem
 * [[how_to_software_engineer]]
 
 ---
+
+
+requirements gathering
+there is a thinking stuff from which all things are made
+most important priorities
+priorities within the client and the features expected from the instrument size. 
+user flows
+
+
+path to dreamforce
+
+design for dreamforce
+
+six months out
+
+event phases
+
+pre state -> live -> post
+
+
++-
+
+scalability for events, small events, medium size events, large scale events
+
+requirements
+```
+about section with a few marketing componennts that can be flexible
+join in person
+register cta
+ability to add sessions and event to my calendar
+flexible footer image per event
+update signup flow
+```
+
+

@@ -34,13 +34,6 @@ I'll explain the situation to you:
 "You want to signup to salesforce plus and be able to watch series and content"
 
 The product allows you to choose between a wide range of original content. In it, before you signup you get to watch trailers and go to the series pivot, through which you can:
-```
- * Add series to the list
- * See all episodes
- * choose an episode
- * copy video URL
- 
-```
 
 ### 4. Tasks
 * Analyze and annotate user reactions while performing the following flows:
@@ -48,25 +41,6 @@ The product allows you to choose between a wide range of original content. In it
 	* choose an original series
 	* watch an episode
 	* Use the whole system
-
-``` 
-To test the use of salesforce plus, consider the following scenarios:
-
-> Scenario 1
-
-    The user signs up
-
-> Scenario 2
-	
-	The user browse through list of available series
-     
-> Scenario 3
-	The user chooses a serie and watches a trailer
-
-> Scenario 4
-	The user saves the serie to my list, and clicks on more up next episodes
-      
-```
 
 
 ### 5. debriefing

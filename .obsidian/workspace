@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b08dcd8913990f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Carreer/Design/UX/UX Process.md",
-            "mode": "source",
-            "backlinks": true
-          }
-        },
-        "group": "3163f7c8160ee2ca"
-      },
-      {
         "id": "d983c60578294bc5",
         "type": "leaf",
+        "dimension": 33.4556126192223,
         "state": {
           "type": "localgraph",
           "state": {
@@ -45,12 +33,37 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.8580407475104639,
+              "scale": 0.830205545557113,
               "close": false
             }
           }
-        },
-        "group": "3163f7c8160ee2ca"
+        }
+      },
+      {
+        "id": "c266b11a30b01ec8",
+        "type": "leaf",
+        "dimension": 21.20322817314747,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Carreer/Design/UX/UX Process.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      },
+      {
+        "id": "f23584a361ddef7d",
+        "type": "leaf",
+        "dimension": 45.34115920763023,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Carreer/Design/UX/UX Process.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 987.0121917724609
+    "width": 302.01219177246094
   },
   "right": {
     "id": "ae22c9ab4b53d57c",
@@ -132,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1b08dcd8913990f",
+  "active": "f23584a361ddef7d",
   "lastOpenFiles": [
     "notes/Carreer/Design/UX/UX Process.md",
+    "notes/Carreer/Software Engineering/Requirements Engineering.md",
     "notes/Carreer/Design/UX/UX Mapping Methods.md",
-    "notes/Carreer/Design/UX/Design Thinking.md",
     "notes/Carreer/Design/UX/Usability test.md",
     "notes/Carreer/Design/UX/Empathy Map.md",
     "notes/Carreer/Design/UX/How to Design Interactions.md",
-    "notes/Carreer/Business/R&D/Art of leadership.md",
-    "notes/Carreer/Business/R&D/Becoming an entrepreuner Curriculum.md",
-    "notes/Carreer/Business/R&D/Anthropology for Entrepreuners.md",
-    "notes/Carreer/Design/Design.md"
+    "notes/Carreer/Design/UX/Design Thinking.md",
+    "notes/Fixing my Life/MARS College/Mars Idea week presentation.md",
+    "notes/Fixing my Life/MARS College/MARS COLLEGE.md",
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md"
   ]
 }
