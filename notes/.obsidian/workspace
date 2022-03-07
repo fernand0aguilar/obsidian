@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "07d1a6b08f9c0f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "44871204ed5f1bdb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Fixing my Life/7-Virtues/ethics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "998106908b4368e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f4ac709bc30f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be7ff5c57089f849",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63058cea1eed003e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e98a1b29f017154",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86ec0f673dfe4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e5e9e04c37d430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Fixing my Life/7-Virtues/ethics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44871204ed5f1bdb",
+  "lastOpenFiles": [
+    "notes/Fixing my Life/7-Virtues/ethics.md",
+    "notes/Fixing my Life/7-Virtues/benevolence.md",
+    "notes/Fixing my Life/7-Virtues/The six virtues in positive psychology.md",
+    "notes/Carreer/Business/Vision and strategy.md",
+    "README.md",
+    "notes/Get Radicalized/Macroeconomics & Microeconomics.md",
+    "notes/Fixing my Life/7-Virtues/non-attachment.md",
+    "notes/Fixing my Life/7-Virtues/Faith.md",
+    "notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/HOW TO GET RICH WITHOUT GETTING LUCKY.md",
+    "notes/Fixing my Life/7-Virtues/wisdom.md"
+  ]
+}

@@ -1,0 +1,18 @@
+ # Complex systems
+ 
+-   [[Biology]]
+-   [[Zoology]]
+-   [[notes/Carreer 1/Psychology/Psychology]]
+-   [[Physics]]
+-   [[Metaphysics]]
+-   [[Logic]]
+-   [[ethics]]
+-   [[Rhetoric]]
+-   [[Aesthetics]]
+-   [[Music]]
+-   [[Poetry]]
+-   [[Economics]]
+-   [[Politics]]
+-   [[Government]]
+-   [[Meteorology]]
+-   [[Geology]]

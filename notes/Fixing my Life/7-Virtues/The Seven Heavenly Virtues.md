@@ -1,7 +1,0 @@
-[[Faith]]
-[[Hope]]
-[[Charity]]
-[[Fortitude]]
-[[Justice]]
-[[Temperance]]
-[[Prudence]]

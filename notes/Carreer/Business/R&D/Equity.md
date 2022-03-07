@@ -1,3 +1,0 @@
-[[Marketcap]]
-
-[[Becoming an entrepreuner]]
