@@ -1,14 +1,14 @@
 which are specific opposites to the Seven Deadly Sins: 
 
-[[Humility]] against pride, 
+[[notes/Fixing my Life/7-Virtues/Humility]] against pride, 
 
 [[Kindness]] against envy, 
 
 [[Abstinence]] against gluttony,
 
-[[Chastity]] against lust, 
+[[notes/Fixing my Life/7-Virtues/Chastity]] against lust, 
 
-[[Patience]] against anger, 
+[[notes/Fixing my Life/7-Virtues/patience]] against anger, 
 
 [[Liberality]] against greed, 
 
@@ -19,4 +19,4 @@ which are specific opposites to the Seven Deadly Sins:
 greed, lust, avarice, envy, hatred
 
 # Positive
-liberality, chastity, abstinence, [[patience]], 
+liberality, chastity, abstinence, [[notes/Fixing my Life/7-Virtues/patience]], 

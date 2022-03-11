@@ -21,11 +21,9 @@ points belonging to an orbit of a mobius transformations on a sphere
 ## We get order by subtracting
 subtraction being a more fundamental operation than addition
 
+The interdependence between complex sistemas and how the different slides of the backend of the machine integrates with each by making a clear close look at the aspects of the grid and recognizing how do they interact. 
 
-
-
-
-The interdependence between complex sistemas and how the different slides of the backend of the machine integrates with each by making a clear close look at the aspects of the grid and recognizing how do they interact. And choosing where to focus. So in the different aspects being stuff 
+And choosing where to focus. So in the different aspects being stuff 
 client leadgen 
 Closing
 Social media marketing

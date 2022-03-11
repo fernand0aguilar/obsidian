@@ -13,7 +13,7 @@
 Think about the product while thinking about the system and the context that it is being applied to.
 
 [[Chaotic dynamics on Fractals]]
-[[Dynamic Range of happiness]]
+[[notes/Naval_s Mind 1/2. Happiness/dynamic range of happiness]]
 [[Spiral Dynamics]]
 [[Hierarchical & Social Dynamics]]
 [[dynamics of real estate]]

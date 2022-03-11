@@ -2,11 +2,11 @@
  
 -   [[Biology]]
 -   [[Zoology]]
--   [[Psychology]]
+-   [[notes/Carreer 1/Psychology/Psychology]]
 -   [[Physics]]
 -   [[Metaphysics]]
 -   [[Logic]]
--   [[Ethics]]
+-   [[ethics]]
 -   [[Rhetoric]]
 -   [[Aesthetics]]
 -   [[Music]]

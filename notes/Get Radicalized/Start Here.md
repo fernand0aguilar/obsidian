@@ -5,7 +5,7 @@
 • [[Market Evolution & Key Prospects]]
 • [[Descentralized Finance]]
 • [[Asset Classes]]
-• [[Macroeconomics & Microeconomics]]
+• [[notes/Get Radicalized/Macroeconomics & Microeconomics]]
 • [[Actuarial Science & Quantitative Analysis]]
 
 # Sociology & Politics
@@ -51,7 +51,7 @@
 • [[Cognition & Didactics]]
 • [[Complex systems]]
 • [[Spiral Dynamics]]
-• [[Psychology]]
+• [[notes/Carreer 1/Psychology/Psychology]]
 
 
 # TODO -> 
@@ -62,7 +62,6 @@ Tema - Descriminação Social
 
 Tese - A descriminação social é o julgamento baseado nos esteriótipos e em padrões, abrindo mão da ética e da moral pessoal.
 
-- [How to conduct meetings](https://twitter.com/GRITCULT/status/1362737861578129409?s=20)
 -   [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment "Age of Enlightenment")
 -   [Argument](https://en.wikipedia.org/wiki/Argument "Argument")
 -   [Argumentation theory](https://en.wikipedia.org/wiki/Argumentation_theory "Argumentation theory")

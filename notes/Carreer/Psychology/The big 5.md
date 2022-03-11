@@ -4,13 +4,13 @@
 
 [[Neuroticism]
 
-[[Extraversion]]
+[[notes/Carreer/Psychology/Extraversion]]
 
-[[Openness]]
+[[notes/Carreer/Psychology/Openness]]
 
-[[Agreeableness]]
+[[notes/Carreer/Psychology/Agreeableness]]
 
-[[Conscientiousness]]
+[[notes/Carreer/Psychology/Conscientiousness]]
 
 Addendum: Please note that 'Ruthlessness' is the inverse of 'Agreeableness', and 'Stress Tolerance' is the inverse of 'Neuroticism'.
 To be high on 'Ruthlessness' and 'Stress Tolerance' is to be low on 'Agreeableness' and 'Neuroticism'.

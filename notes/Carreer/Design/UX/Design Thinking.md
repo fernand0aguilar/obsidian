@@ -11,4 +11,4 @@ At a high level, the steps involved in the design thinking process are simple:
 * and finally, implement through the customary deployment mechanisms.
 
 
-[[UX Process]]
+[[notes/Carreer/Design/UX/UX Process]]

@@ -1,4 +1,4 @@
-# How to [[Design]] Interactions
+# How to [[notes/Carreer 1/Design/Design]] Interactions
 
 ## Life Cycles
 

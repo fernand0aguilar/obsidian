@@ -4,62 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d983c60578294bc5",
+        "id": "7291a51f4376d60a",
         "type": "leaf",
-        "dimension": 33.4556126192223,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "notes/Carreer/Design/UX/UX Process.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.830205545557113,
-              "close": false
-            }
-          }
-        }
-      },
-      {
-        "id": "c266b11a30b01ec8",
-        "type": "leaf",
-        "dimension": 21.20322817314747,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Carreer/Design/UX/UX Process.md",
-            "mode": "source",
-            "backlinks": true
-          }
-        }
-      },
-      {
-        "id": "f23584a361ddef7d",
-        "type": "leaf",
-        "dimension": 45.34115920763023,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Carreer/Design/UX/UX Process.md",
+            "file": "notes/Carreer/Product Management/OODA.md",
             "mode": "source",
             "backlinks": true
           }
@@ -90,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".mp3",
+                "query": "meetings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Carreer/Design/UX/UX Process.md",
+                "file": "notes/Carreer/Product Management/OODA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f23584a361ddef7d",
+  "active": "7291a51f4376d60a",
   "lastOpenFiles": [
-    "notes/Carreer/Design/UX/UX Process.md",
-    "notes/Carreer/Software Engineering/Requirements Engineering.md",
-    "notes/Carreer/Design/UX/UX Mapping Methods.md",
-    "notes/Carreer/Design/UX/Usability test.md",
-    "notes/Carreer/Design/UX/Empathy Map.md",
-    "notes/Carreer/Design/UX/How to Design Interactions.md",
-    "notes/Carreer/Design/UX/Design Thinking.md",
-    "notes/Fixing my Life/MARS College/Mars Idea week presentation.md",
-    "notes/Fixing my Life/MARS College/MARS COLLEGE.md",
-    "notes/Carreer/Software Engineering/how_to_software_engineer.md"
+    "notes/Carreer/Product Management/OODA.md",
+    "notes/Get Radicalized/Subfolder/Religious Syncretism.md",
+    "notes/Carreer/Product Management/how to observe.md",
+    "1.md",
+    "notes/Carreer/Product Management/Situational Awareness.md",
+    "notes/Carreer/Product Management/How To Conduct Meetings.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/books/Winning without pitching/{The Second Proclamation}/1. {The Second Proclamation} - We Will Replace Presentations With Conversations.md",
+    "notes/Carreer/Business/R&D/Anthropology for Entrepreuners.md",
+    "notes/Carreer/Business/R&D/Becoming an entrepreuner Curriculum.md"
   ]
 }

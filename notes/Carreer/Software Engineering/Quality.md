@@ -116,5 +116,5 @@ The work is to identify a problem that can be clarified through the use of metri
 1. Using the abstraction sheet to identify issues and metrics
 1. Issues associated with the measurement objective
 1. Metrics (according to their classifications: internal, external - direct, indirect - objective, subjective). Thus, name, form of calculation, scale used, who collects it, where it keeps it, how it collects data, must be defined for each selected metric.
-1. A procedure for applying the metrics in line with a product development cycle. eg: [[how_to_software_engineer]]
+1. A procedure for applying the metrics in line with a product development cycle. eg: [[notes/Carreer/Software Engineering/how_to_software_engineer]]
 1. Some practical application inside the product management process.

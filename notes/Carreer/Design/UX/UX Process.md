@@ -4,7 +4,7 @@ The first step is the process of knowing the universe of information in which th
 
 This is probably the main obstacle for the team, since most members do not have direct contact with the problem. 
 
-One of the techniques to be used to clarify aspects of the domain is the [[Empathy Map]], which maps the needs and pains of the customers to be satisfied with the application that will be developed.
+One of the techniques to be used to clarify aspects of the domain is the [[notes/Carreer/Design/UX/Empathy Map]], which maps the needs and pains of the customers to be satisfied with the application that will be developed.
 
 In order to elicit the functional requirements, the main technique to be used by the team is Brainstorming. 
 
@@ -27,11 +27,11 @@ Although usability testing is not exactly a technique for eliciting new requirem
 ---
 
 ## 1. Techniques To be Used
-* [[UX Mapping Methods]]
-* [[Requirements Engineering]]
+* [[notes/Carreer/Design/UX/UX Mapping Methods]]
+* [[notes/Carreer 1/Software Engineering/Requirements Engineering]]
 * [[Introspection]]
-* [[Usability test]]
-* [[how_to_software_engineer]]
+* [[notes/Carreer/Design/UX/Usability test]]
+* [[notes/Carreer 1/Software Engineering/how_to_software_engineer]]
 
 ---
 

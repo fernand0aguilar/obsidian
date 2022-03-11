@@ -1,1 +1,1 @@
-[[2. Learning How To Learn]]
+[[notes/Fixing my Life 1/MARS College/2. Learning How To Learn]]

@@ -1,4 +1,4 @@
-[[how_to_software_engineer]]
+[[notes/Carreer 1/Software Engineering/how_to_software_engineer]]
 
 
       

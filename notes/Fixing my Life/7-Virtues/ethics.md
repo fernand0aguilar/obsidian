@@ -1,0 +1,4 @@
+## Meta-ethics
+
+
+Meta-ethics is the branch of philosophical ethics that asks how we understand, know about, and what we mean when we talk about what is right and what is wrong. An ethical question pertaining to a particular practical situation—such as, "Should I eat this particular piece of chocolate cake?"—cannot be a meta-ethical question (rather, this is an applied ethical question). A meta-ethical question is abstract and relates to a wide range of more specific practical questions. For example, "Is it ever possible to have a secure knowledge of what is right and wrong?" is a meta-ethical question.

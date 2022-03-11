@@ -2,6 +2,6 @@
 
 [[101 Ways to Grow your Startup - The Book.pdf]]
 
-[[Growth Hacking]]
+[[notes/Carreer/Business/R&D/Growth Hacking]]
 
-[[Software Architecture]]
+![[Building a growth model for Rec.pptx]]

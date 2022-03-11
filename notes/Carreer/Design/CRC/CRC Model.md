@@ -1,9 +1,9 @@
 # CRC Model
 
-* [[Classes]]
-* [[Responsibilities]]
-* [[Collaborations]]
-* [[Producer-Consumer with a published interface.]]
+* [[notes/Carreer/Design/CRC/Classes]]
+* [[notes/Carreer/Design/CRC/Responsibilities]]
+* [[notes/Carreer/Design/CRC/Collaborations]]
+* [[notes/Carreer/Design/CRC/Producer-Consumer with a published interface.]]
 
 
 Go back to every instance, go through every single entity and ask what does it produce, where does it comes from and what are the information we need
@@ -55,7 +55,7 @@ Just make sure you are in the right movie theater, don't want to think you are o
 
 There seems to be some questions about CRC so I will give an explanation I hope everyone can understand and how that applies.
 
-Designing and building a system is similar to [[planning]] a trip to a destination.  
+Designing and building a system is similar to [[notes/Fixing my Life 1/MARS College/planning]] a trip to a destination.  
 
 We first decide we want to go there, what we are going to do there and what are we going to bring back or deliver there.  
 

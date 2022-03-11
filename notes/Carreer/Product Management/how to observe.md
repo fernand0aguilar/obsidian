@@ -1,0 +1,109 @@
+
+[[ Situational awareness]]1
+
+**Stop to observe everything around you.** Take a few moments every day, and just pause. Sweep your gaze over your field of vision.
+
+Try to notice as many details as possible. This will train you to pay more attention to your surroundings.
+-   Pay attention to the people, objects, animals, plants, and buildings around you.
+-   Try doing this in a different place every day. Start at home, then try it at an office, park, mall, grocery store, or a local landmark.
+
+**Pay attention to small details.** 
+
+Often, people only notice the large objects that surround them.
+
+As you go throughout your day, try to look for the smaller details that might surround buildings, landmarks, and large spaces.
+-   For example, you might be at a store. What does the sign say? Is there anything on the windows? How many carts are lined up outside?
+-   If you're walking through a neighborhood, you might study the different mailboxes, lawn ornaments, plants, or toys out in the yard.
+
+3 **Stay in the present moment.** 
+
+It is easy to become distracted by electronics, intrusive thoughts, or noisy environments, but these can make you less observant.
+
+Rather than tune out your surroundings, try to focus on where you are in the moment.
+
+-   Instead of listening to music on your commute, describe your surroundings. On the bus, you might notice that there are five people on it, that the bus is making a rumbling noise, and that there is a musty smell.
+-   When you take a walk, listen to the sounds of nature, such as birds singing or the wind rustling through the trees. Think about how the sun feels on your skin or how brightly colored the flowers are.
+
+**Write down everything that you notice on a daily basis.**
+Do this throughout your day as you notice things. This will keep you observant in the moment. Write your observations in a journal or word document. Try to be as specific as possible.
+-   What did you see? Was it a certain color, size, or shape?
+-   Where was the object? How it was placed in relation to other objects?
+-   What kinds of sounds were going on around you?
+-   What types of sensations did you feel?
+-   Who was there? What were they wearing? What were they doing?
+
+**Quantify everything you notice.** 
+When you're trying to observe something, try to identify how many of them there are. These numbers will force to you to pay more attention to the size or quantity of objects. 
+As time goes on, you may be able to count objects more quickly
+-   For example, instead of “I saw some kids playing outside,” you might write, “I saw four kids playing outside with one ball.”
+-   Instead of saying "I had to sign a bunch of documents," keep track of what you did. You might observe that you signed your name four different times on two different documents.
+
+[GAME](https://rachacuca.com.br/passatempos/jogo-da-memoria/)
+
+-   Once you have mastered memorizing objects, try becoming more specific. List as many details about the objects as you can. 
+-   How big are they? In what order are they arranged? How many are there?
+
+3
+
+**Recall details after looking at a piece of art.** 
+
+Go to an art museum or find an online collection. Pick one piece of art that catches your eye. Study it for 60 seconds, then look away. From memory, try to recall as many details as possible about the picture.
+
+-   Try to describe the small, background details as well as the subject of the piece. For example, if it is a portrait, try to recall what the person is wearing, the room they are in, and any other objects around them.
+-   If the piece is a large landscape, you should try to remember where geographical features are. Are there trees in the picture? If so, which side of the painting were they on? Are they above or below something else?
+-   The Metropolitan Museum has a great collection of art online that you can use for this exercise: [http://www.metmuseum.org/art/collection](http://www.metmuseum.org/art/collection).
+
+4
+
+**Play a card matching game.** Spread out a deck of cards face down in front of you. 
+
+Flip two cards at a time to match numbers. If the cards don't match, flip them back over. If they do match, remove them from the game.
+
+This game requires you to observe and memorize where certain cards are so you can make matches quickly.
+-   Time yourself as you play this game. Each time you play, try to beat your record.
+-   You can buy a set of cards designed for this game from a toy store or online. You can also use a regular deck of cards, although each number will have more than one match.
+
+**Practice mindfulness meditation daily.** 
+
+Sit in a quiet, comfortable space. Close your eyes. Focus your attention on your breath. Don't daydream or think about your life. 
+
+Instead, hone in on the sensations around you. What do you hear, feel, and smell? 
+
+Start with five minutes, and work your way up to twenty minutes of meditation a day.
+
+-   If you start losing your train of thought, it's OK. Just steer your concentration back to your breath.
+-   You may only be able to meditate for a few minutes at first, but you will get better over time.
+
+**Identify any strange sounds or smells.** 
+
+Instead of ignoring new sounds and smells, try to guess what it is. If possible, investigate the source to see if you were right or not.
+
+-   For example, if you smell something cooking, guess what food it is. Does it smell like meat, spices, or baked goods? Is it close to you or faint and faraway?
+-   If you hear a knocking noise, evaluate your surroundings. Is it coming from a certain wall? Is it a consistent patter or an erratic beat? What might someone be doing to make that noise?
+
+**Slow down as you eat your food to savor it.**
+
+As you eat, try to identify all of the different sensations in your mouth. 
+
+To do this, chew and taste your food for a few seconds before swallowing. Pause for two or three seconds between each bite. Ask yourself:
+
+-   What different flavors do I notice?
+-   Do the flavors change as I chew?
+-   What is the texture like?
+-   Does this food leave a particular aftertaste?
+
+
+**Feel objects with your eyes closed to improve your sense of touch.** 
+
+Ask a friend or family member to stick a few objects into a pillow case.
+
+Close your eyes, and pick one object at random.
+
+Using only your hands, try to guess what the object is. Ask yourself:
+-   What is the texture of the object? Is it smooth, bumpy, ridged, or soft?
+-   Does it feel hot, cold, or neither?
+-   What shape is it?
+-   Does it open? Is there a button or other moveable part on it?
+-   When you shake it, do you feel something rattling inside?
+-   Does it make a noise?
+

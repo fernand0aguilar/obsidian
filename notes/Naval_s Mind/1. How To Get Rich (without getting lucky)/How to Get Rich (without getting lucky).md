@@ -1,4 +1,4 @@
-[[HOW TO GET RICH WITHOUT GETTING LUCKY]]
+[[notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/HOW TO GET RICH WITHOUT GETTING LUCKY]]
 Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
 
 Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you.

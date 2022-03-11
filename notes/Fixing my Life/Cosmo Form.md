@@ -2,7 +2,7 @@
 # The Cosmic Order Form
 
 What do you have? 
-[[What do you want]]? 
+[[notes/Fixing my Life/self-authoring-program/What do you want]]? 
 What will you give up?”
 
 
@@ -12,7 +12,7 @@ What will you give up?”
 Manifest Money Into Your Life).**
 
 
-### [[What do you want]]
+### [[notes/Fixing my Life/self-authoring-program/What do you want]]
 
 * 1)
 * 2)

@@ -48,7 +48,7 @@ this involves a lot of frontend development along with some backend integrations
 
 ***
 
-# [[Requirements Engineering]]
+# [[notes/Carreer/Software Engineering/Requirements Engineering]]
 
 Software requirements express the needs and constraints placed on a software product that contribute to the solution of some real-world problem. 
 
@@ -58,11 +58,11 @@ By thinking on the requirements it is possible to calculate what is the cost and
 
 *** 
 
-# [[Design]] & Project
+# [[notes/Carreer 1/Design/Design]] & Project
 
 A way of solving problems.
 
-[[How to Design Interactions]]
+[[notes/Carreer 1/Design/UX/How to Design Interactions]]
 
 It is defined as a process to map the characteristics of the system. Ensuring that it has a good Human computer Interaction.
 
@@ -74,11 +74,11 @@ The design/project phase includes:
 
 * **The design of the user interface:** It involves the elaboration of how the user can interact to perform his tasks, the choice of interface objects, the layout of windows and screens, etc. The interface should ensure good usability of the software.
 
-* **The [[software architecture]] design:** You must work out a macroscopic view of the software in terms of components that interact with each other.
+* **The [[notes/Carreer 1/Business/R&D/Software Architecture]] design:** You must work out a macroscopic view of the software in terms of components that interact with each other.
 
 * **Design of algorithms and data structures:** It aims to determine, independently of the adopted programming language, the algorithmic solutions, and the associated data structures.
 
-The Design or Design phase is the final phase of the [[planning]] process and results in the architecture document.
+The Design or Design phase is the final phase of the [[notes/Fixing my Life 1/MARS College/planning]] process and results in the architecture document.
 
 ***
 

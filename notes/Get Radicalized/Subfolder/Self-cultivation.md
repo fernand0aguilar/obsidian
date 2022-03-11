@@ -2,7 +2,7 @@
 
 # [[Discipline]]
 
-# [[Communication]]
+# [[notes/Carreer 1/Product Management/Communication]]
 
 [[RADICAL ACCEPTANCE + RADICAL RESPONSIBILITY]]
 

@@ -54,6 +54,6 @@ It means having a phrase with a beginning, a middle and an end. And then speakin
 And using the linear strategy makes this process more fluid and give you time to think.
 
 
-[[non violent]]
+[[notes/Carreer 1/Psychology/non violent]]
 
 

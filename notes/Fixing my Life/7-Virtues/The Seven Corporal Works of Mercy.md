@@ -1,4 +1,4 @@
-[[feed the hungry]]
+[[notes/Fixing my Life/7-Virtues/feed the hungry]]
 [[give drink to the thirsty]]
 [[give shelter to strangers]]
 [[clothe the naked, visit the sick]]

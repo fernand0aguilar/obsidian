@@ -7,4 +7,4 @@ Cautiousness
 
 
 
-- [[What is the true nature of consciousness?]]
+- [[notes/Fixing my Life 1/self-authoring-program/What is the true nature of consciousness?]]

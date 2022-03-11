@@ -1,7 +1,7 @@
-[[1. Squads]]
+[[notes/Fixing my Life 1/MARS College/1. Squads]]
 
 
-[[Kanban]]
+[[notes/Carreer/Product Management/Kanban]]
 
 
 

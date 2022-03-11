@@ -21,5 +21,5 @@ If you’re so smart, why aren’t you happy? I absolutely believe that is true.
 
 If you’re smart, you can figure out how to be happy within your biological constraints. But your biological constraints are a lot larger than you might think.
 
-**The [[dynamic range of happiness]] is quite large**
+**The [[notes/Naval_s Mind/2. Happiness/dynamic range of happiness]] is quite large**
 

@@ -1,6 +1,6 @@
  
  [[Valor]]
- [[Benevolence]]
+ [[benevolence]]
  [[Respect]]
  [[Honesty]]
  [[Honor]]

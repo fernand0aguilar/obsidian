@@ -2,15 +2,15 @@
 10 Workshop Ideas for 10 weeks of Mars
 
 ---
-## [[1. Squads]]
+## [[notes/Fixing my Life/MARS College/1. Squads]]
 Facilitate an accountability group meeting
 
 ---
-## [[2. Learning How To Learn]]
+## [[notes/Fixing my Life/MARS College/2. Learning How To Learn]]
 Tutorial: Creating a second brain
 
 ---
-## 3. [[Introduction to Cybersecurity]]
+## 3. [[notes/Carreer 1/Software Engineering/Introduction to Cybersecurity]]
 Bring your best black hoodie
 
 ---
@@ -18,13 +18,13 @@ Bring your best black hoodie
 in 36 Slides
 
 ---
-## 5. [[Communication]] workshop
+## 5. [[notes/Carreer 1/Product Management/Communication]] workshop
 How to communicate with teamates
 
 ---
 
 ## 6. Kanban Approach
-How to make [[schedules]]
+How to make [[notes/Fixing my Life/MARS College/schedules]]
 
 ---
 ## 7. Design + Fiction 
