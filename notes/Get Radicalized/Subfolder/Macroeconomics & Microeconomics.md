@@ -1,4 +1,4 @@
-[[notes/Carreer 1/Business/R&D/Equity]]
+[[Equity]]
 
 
 

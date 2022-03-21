@@ -2,4 +2,4 @@
 
 CLOSE - [[https://wzrd.ai/]]
 
-[[notes/Carreer/Business/R&D/Growth Hacking]]
+[[Growth Hacking]]

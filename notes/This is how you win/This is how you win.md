@@ -4,7 +4,7 @@ Get REALLY good at ONE thing:
 
 Then compliment with other skills: 
 
-- [[notes/Carreer 1/Business/R&D/Social skills]] 
+- [[Social skills]] 
 	- [[fitness,]]
 	- [[nutrition]]
 	- [[Fighting]]
@@ -12,9 +12,9 @@ Then compliment with other skills:
 	- [[Reasoning ]]
 	- [[Good listening ]]
 	- [[Writing ]]
-	- [[notes/Carreer 1/Product Management/Communication]]
+	- [[Communication 1]]
 	- [[Kaizen]]
-- [[notes/Carreer 1/Business/R&D/Business management ]]
+- [[Business management ]]
 	- [[Investing]] 
 	- [[Economics ]]
 	- [[Networking ]]
@@ -22,8 +22,8 @@ Then compliment with other skills:
 	- [[Power dynamics]]
 	- [[Basic accounting ]]
 - [[How to sell ]]
-	- [[notes/Carreer 1/Business/R&D/sales]] 
-	- [[notes/Carreer 1/Business/R&D/Marketing]]
+	- [[sales]] 
+	- [Marketing]]
 	- [[Web design]]
 	- [[Copy]]
 - [[Reading]]

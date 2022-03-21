@@ -156,7 +156,7 @@ If you wish to always stay anonymous, create an entire person you can enbody so 
 
 ---
 
-Become that alias. It is essential for good opsec. Proper [[notes/Fixing my Life 1/MARS College/planning]] and practice prevents piss poor performance.
+Become that alias. It is essential for good opsec. Proper [[planning]] and practice prevents piss poor performance.
 
 One mistake in timing implementation configuration can be enough.
 

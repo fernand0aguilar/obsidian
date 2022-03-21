@@ -1,9 +1,9 @@
 # What you need to become
-[[notes/Fixing my Life/self-authoring-program/Who You Are]]
+[[Who You Are]]
 
 *This is the Gap*
 
-[[notes/Fixing my Life/self-authoring-program/What do you want]]
+[[What do you want]]
 [[Power dynamics]]
 
 ---

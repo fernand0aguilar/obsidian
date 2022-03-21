@@ -1,49 +1,34 @@
 
 [[ Situational awareness]]1
 
-**Stop to observe everything around you.** Take a few moments every day, and just pause. Sweep your gaze over your field of vision.
+**Stop to observe everything around you.**
+
+Take a few moments every day, and just pause. Sweep your gaze over your field of vision.
 
 Try to notice as many details as possible. This will train you to pay more attention to your surroundings.
--   Pay attention to the people, objects, animals, plants, and buildings around you.
--   Try doing this in a different place every day. Start at home, then try it at an office, park, mall, grocery store, or a local landmark.
 
 **Pay attention to small details.** 
 
 Often, people only notice the large objects that surround them.
 
-As you go throughout your day, try to look for the smaller details that might surround buildings, landmarks, and large spaces.
--   For example, you might be at a store. What does the sign say? Is there anything on the windows? How many carts are lined up outside?
--   If you're walking through a neighborhood, you might study the different mailboxes, lawn ornaments, plants, or toys out in the yard.
 
-3 **Stay in the present moment.** 
+**Stay in the present moment.** 
 
 It is easy to become distracted by electronics, intrusive thoughts, or noisy environments, but these can make you less observant.
 
 Rather than tune out your surroundings, try to focus on where you are in the moment.
 
--   Instead of listening to music on your commute, describe your surroundings. On the bus, you might notice that there are five people on it, that the bus is making a rumbling noise, and that there is a musty smell.
--   When you take a walk, listen to the sounds of nature, such as birds singing or the wind rustling through the trees. Think about how the sun feels on your skin or how brightly colored the flowers are.
 
 **Write down everything that you notice on a daily basis.**
+
 Do this throughout your day as you notice things. This will keep you observant in the moment. Write your observations in a journal or word document. Try to be as specific as possible.
--   What did you see? Was it a certain color, size, or shape?
--   Where was the object? How it was placed in relation to other objects?
--   What kinds of sounds were going on around you?
--   What types of sensations did you feel?
--   Who was there? What were they wearing? What were they doing?
 
 **Quantify everything you notice.** 
+
 When you're trying to observe something, try to identify how many of them there are. These numbers will force to you to pay more attention to the size or quantity of objects. 
 As time goes on, you may be able to count objects more quickly
--   For example, instead of “I saw some kids playing outside,” you might write, “I saw four kids playing outside with one ball.”
--   Instead of saying "I had to sign a bunch of documents," keep track of what you did. You might observe that you signed your name four different times on two different documents.
 
 [GAME](https://rachacuca.com.br/passatempos/jogo-da-memoria/)
-
--   Once you have mastered memorizing objects, try becoming more specific. List as many details about the objects as you can. 
--   How big are they? In what order are they arranged? How many are there?
-
-3
 
 **Recall details after looking at a piece of art.** 
 
@@ -52,16 +37,6 @@ Go to an art museum or find an online collection. Pick one piece of art that cat
 -   Try to describe the small, background details as well as the subject of the piece. For example, if it is a portrait, try to recall what the person is wearing, the room they are in, and any other objects around them.
 -   If the piece is a large landscape, you should try to remember where geographical features are. Are there trees in the picture? If so, which side of the painting were they on? Are they above or below something else?
 -   The Metropolitan Museum has a great collection of art online that you can use for this exercise: [http://www.metmuseum.org/art/collection](http://www.metmuseum.org/art/collection).
-
-4
-
-**Play a card matching game.** Spread out a deck of cards face down in front of you. 
-
-Flip two cards at a time to match numbers. If the cards don't match, flip them back over. If they do match, remove them from the game.
-
-This game requires you to observe and memorize where certain cards are so you can make matches quickly.
--   Time yourself as you play this game. Each time you play, try to beat your record.
--   You can buy a set of cards designed for this game from a toy store or online. You can also use a regular deck of cards, although each number will have more than one match.
 
 **Practice mindfulness meditation daily.** 
 

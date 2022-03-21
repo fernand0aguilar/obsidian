@@ -1,8 +1,7 @@
-[[how to observe]]
+[[How to observe]]
 # How To Conduct Meetings
 
-
-small groups, with a structure, and some facilitation to ensure that everyone has a voice and gets value out of it.
+Small groups, with a structure, and some facilitation to ensure that everyone has a voice and gets value out of it.
 
 
 EACH MEETING NEEDS A PURPOSE
@@ -105,3 +104,28 @@ There is a rhythm and flow of meetings. Learn how to understand the dynamics of 
 If you are doing interview calls, having a script would help. Start and end on a high note.
 
 
+
+---
+
+* Starts on time
+* Starts with good news 
+* Reporting mode
+	* Everything important is on track
+	* Numbers, scorecards
+	* priorities, big rocks
+	* happy people, stakeholders
+* Any issue that needs to be discussed gets dropped down
+* No discussion, no solving, just reporting
+* Building the issues list
+* Accountability with a todo list
+* IDS, Focus on the most important issue, 
+	* identify
+	* discuss
+	* solve
+
+1- Good News
+2- Reporting 
+3- Building Issues List (Identify) 
+4- Discuss 
+5- Solve (To do list) 
+6- Conclude the meeting with recap the do list 7- How was the meeting? Do you have any question

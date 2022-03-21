@@ -2,7 +2,7 @@
  
 -   [[Biology]]
 -   [[Zoology]]
--   [[notes/Carreer 1/Psychology/Psychology]]
+-   [[Psychology]]
 -   [[Physics]]
 -   [[Metaphysics]]
 -   [[Logic]]

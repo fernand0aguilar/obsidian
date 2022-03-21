@@ -1,5 +1,5 @@
 # Kanban
-This gives teams more flexible [[notes/Fixing my Life/MARS College/planning]] options, faster output, clearer focus, and transparency throughout the development cycle.
+This gives teams more flexible [[planning]] options, faster output, clearer focus, and transparency throughout the development cycle.
 
 	> “Stop Starting! And Start Finishing!”,
 
@@ -8,7 +8,7 @@ The purpose of Kanban is to continually improve one’s own work process.
 ## What is kanban?
 A basic kanban board has a three-step workflow: To Do, In Progress, and Done.
 
-### [[notes/Fixing my Life/MARS College/planning]] flexibility
+### [[planning]] flexibility
 
 A kanban team is only focused on the work that's actively in progress. Once the team completes a work item, they pluck the next work item off the top of the backlog.
 
@@ -18,7 +18,7 @@ As long as the product owner keeps the most important work items on top of the b
 
 So there's no need for the fixed-length iterations you find in scrum
 
-![[notes/Fixing my Life/MARS College/Pasted image 20220219152608.png]]
+![[Pasted image 20220219152608.png]]
 
 
 

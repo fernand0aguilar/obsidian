@@ -1,18 +1,9 @@
-[[notes/Carreer 1/Software Engineering/how_to_software_engineer]]
+[[how_to_software_engineer]]
 
-
-      
-
-  
-
-  
 
 # FullStack WebApp
 
 process stripe transactions
-
-
-
 
 mimic all the endpoints from the rec api and do them in node
 

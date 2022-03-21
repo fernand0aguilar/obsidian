@@ -1,5 +1,5 @@
 
-# 1. Squads
+# Squads
 accountability groups
 
 

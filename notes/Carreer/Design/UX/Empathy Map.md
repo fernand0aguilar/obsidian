@@ -89,7 +89,7 @@ Gather the research you will be using to fuel your empathy map. Empathy mapping 
 
 [qualitative surveys](https://www.nngroup.com/articles/qualitative-surveys/), 
 
-[[notes/Carreer/Design/UX/Usability test]].
+[[Usability test]].
 
 ---
 

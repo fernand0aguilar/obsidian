@@ -73,11 +73,11 @@ Two of the most common types of value exchange are users paying directly for you
 
 People will build things that they themselves want. Often the  problems that is built doesn't solve the problem for enough people to create a viable business. 
 
-PM also plays an important role in connecting various functions and teams across the company. PMs understand the business, advocate for the user,  power design, create stability for the engineering team ([[notes/Carreer 1/Software Engineering/how_to_software_engineer]]), and get everyone excited, and at the same time, keep everyone focused and moving in the same direction together to build a product.
+PM also plays an important role in connecting various functions and teams across the company. PMs understand the business, advocate for the user,  power design, create stability for the engineering team ([[how_to_software_engineer]]), and get everyone excited, and at the same time, keep everyone focused and moving in the same direction together to build a product.
 
 Product Management makes sure that the team is spending their time on meaningful, worthwhile problems -- by solving problems that exist for real users by creating products that people want.
 
-[[notes/Carreer 1/Design/UX/How to Design Interactions]]
+[[How to Design Interactions]]
 
 # Learning Objectives
 
@@ -90,9 +90,9 @@ Product Management makes sure that the team is spending their time on meaningful
 * Put together and present a compelling product pitch to gain internal stakeholder buy-in
 
 
-# Lesson 2 - [[notes/Carreer/Product Management/Role of a PM]]
+# Lesson 2 - [[Role of a PM]]
 
-# Lesson 3 - [[notes/Carreer 1/Business/R&D/Finding the right problem]]
+# Lesson 3 - [[Finding the right problem]]
 
 # Lesson 4 - [[Vision and strategy]] 
 

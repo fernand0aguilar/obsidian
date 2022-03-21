@@ -4,9 +4,9 @@
 4.  You will _enjoy_ a deep sense of significance and satisfaction only when you have exercised your responsibility for self-determination and actively pursue a worthy life-goal.
 
 
-[[notes/Fixing my Life/self-authoring-program/Mission ]]
-[[notes/Fixing my Life/self-authoring-program/Vision ]]
-[[notes/Fixing my Life/self-authoring-program/Purpose ]]
-[[notes/Fixing my Life/self-authoring-program/Values ]]
-[[notes/Fixing my Life/self-authoring-program/Virtues ]]
-[[notes/Fixing my Life/self-authoring-program/Principles ]]
+[[Mission ]]
+[[Vision ]]
+[[Purpose ]]
+[[Values ]]
+[[Virtues ]]
+[[Principles ]]

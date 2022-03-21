@@ -5,9 +5,9 @@
 • [[Market Evolution & Key Prospects]]
 • [[Descentralized Finance]]
 • [[Asset Classes]]
-• [[notes/Get Radicalized/Macroeconomics & Microeconomics]]
+• [[Macroeconomics & Microeconomics 1]]
 • [[Actuarial Science & Quantitative Analysis]]
-
+• [[Venture studio]]
 # Sociology & Politics
 • [[Improving Nations]]
 • [[Ethnolinguistics & Diplomacy]]
@@ -19,6 +19,9 @@
 • [[Persuasion]]
 • [[DAO]]
 • [[Blockchains]]
+• [[Holocracy]]
+
+
 # Science & Technology
 • [[Open-source Intelligence (OSINT)]]
 • [[Lucrative Vocations]]
@@ -29,7 +32,8 @@
 • [[Biohacking & Eugenics]]
 • [[Arithmetic Perusal]]
 • [[Hyper-reality]]
-.[[dociuverse]]
+• [[dociuverse]]
+• [[Marketing]]
 
 
 
@@ -37,6 +41,9 @@
 • [[Religious Syncretism]]
 • [[State Religion]]
 • [[Burgeoning Ideologies ]] ✅🔙
+• [[Affirmations]]
+• [[Right decisions]]
+• [[TR]]
 
 
 # Philosophy
@@ -51,8 +58,9 @@
 • [[Cognition & Didactics]]
 • [[Complex systems]]
 • [[Spiral Dynamics]]
-• [[notes/Carreer 1/Psychology/Psychology]]
-
+• [[Psychology]]
+• [[OBSERVATIONS]]
+• [[Commitment & consistency]]
 
 # TODO -> 
 
