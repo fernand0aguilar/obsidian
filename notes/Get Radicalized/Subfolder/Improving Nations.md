@@ -2,17 +2,6 @@ Free market capitalism
 
 
 
-the      
-
-And then what.
-
-Are you going to be able to provide for her
-
-Are you going to hold masculine frame
-
-To allow her to show that feminine essence
-
-  
 
   
 
@@ -77,33 +66,5 @@ and everything that came to become an giant investment at the time turned out to
 
 
 the benefits of free market capitialism is that it becomes an exercise of value and power above anything else, yyoure just expected to do what you are thinking about doing, the only thing preventing you from can do anything about it, sometimes you've got to be an autisitic mf until you realize that what youre doing is exactly right and thats the necessary evil, is being able to tap into the conscious collective and see what is popping up in the archetypes and vicissitudes. theeres a word that is similar to it and it means literally the inefalible idea of life as an efemeral gesture of using big words to describe words that gets trhouwn on your way. this was always the objective in the first place, to market to other business and make sure that you're actually selling in thelanguage that people undertand, which is something that makes sense to me sure, that other ideas about those concepts are better than other ones by the whole perpspecitve of when it started happening, we dont really, know, b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 achieving what you want is youreself and no one about 

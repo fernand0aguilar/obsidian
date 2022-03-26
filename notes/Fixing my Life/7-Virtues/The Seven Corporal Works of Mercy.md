@@ -4,4 +4,3 @@
 [[clothe the naked, visit the sick]]
 [[minister to prisoners]]
 [[bury the dead]]
-

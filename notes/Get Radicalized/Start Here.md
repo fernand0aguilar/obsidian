@@ -44,7 +44,8 @@
 • [[Affirmations]]
 • [[Right decisions]]
 • [[TR]]
-
+[[Transcendental meditation]]
+[[Mind]]
 
 # Philosophy
 • [[Accurate Thinking]]
