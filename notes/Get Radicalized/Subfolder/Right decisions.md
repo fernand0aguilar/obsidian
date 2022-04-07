@@ -33,7 +33,7 @@ Form the habit of reaching definite decisions on all subjects.
  1. Do your own thinking on all occasions. (The fact that human beings are given complete control over nothing to save the power to think their own thoughts is laden with significance)
  2. Decide definitely what you want from life then create a plan for attaining it and be willing to sacrifice everything else if necessary, rather than accept permanent defeat.
  3. Analyze temporary defeat no matter of what nature or cause and extract from it the seed of an equivalent advantage
- 4. Be willing to render useful service equivalent to the value of all material things you demand of life and render the service first
+ 4. Be willing to render useful service equivalent to the value of all material things you demand of life and render the servicegi first
  5. recognize that your brain is a receiving set that can be attuned to receive communications from the universal storehouse of infinite intelligence to help you transmute your desires into their physical equivalent.
  6. recognize that your greatest asset is time. The only thing except the power of thought which you own outright and the one thing which can be shaped into whatever material things you want. Budget your time so none of it is wasted.
  7. Recognize the truth that fear is generally a filler with which the devil occupies the unused portion of your mind that it is only a state of mind which you can control by filling the space it occupies with faith in your ability to make life provide you with whatever you demand of it.

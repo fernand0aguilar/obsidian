@@ -8,13 +8,17 @@
 • [[Macroeconomics & Microeconomics 1]]
 • [[Actuarial Science & Quantitative Analysis]]
 • [[Venture studio]]
+• [[microeconomics]], 
+• [[game theory]], 
+, persuasion, ethics, mathematics, and computers.
+
 # Sociology & Politics
 • [[Improving Nations]]
 • [[Ethnolinguistics & Diplomacy]]
 • [[Political Cyclicity]]
 • [[Geopolitical Leverage]]
 • [[Hierarchical & Social Dynamics]]
-• [[Architectural Sovereignty]] ✅🔙
+• [[Architectural Sovereignty]]
 • [[Data Agencies]]
 • [[Persuasion]]
 • [[DAO]]
@@ -44,8 +48,8 @@
 • [[Affirmations]]
 • [[Right decisions]]
 • [[TR]]
-[[Transcendental meditation]]
-[[Mind]]
+• [[Transcendental meditation]]
+• [[Mind]]
 
 # Philosophy
 • [[Accurate Thinking]]
@@ -60,6 +64,8 @@
 • [[Complex systems]]
 • [[Spiral Dynamics]]
 • [[Psychology]]
+•[[persuasion]]
+•[[ethics]]
 • [[OBSERVATIONS]]
 • [[Commitment & consistency]]
 

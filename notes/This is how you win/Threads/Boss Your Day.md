@@ -67,7 +67,7 @@ Living in a grateful state of mind allows you to appreciate your life for what i
 
 [[25) Make a bucket list.]] Life was meant to be enjoyed. Your dreams, your passions... Write them down and start working toward them! You only get one life, make it count!
 
-[[26) Learn how to make money 24/7.]] If you can’t make money 24/7, then you can’t fully maximize your time alive. Create a brand. Create products. Create an ebook. Sell a skill. Consult. Learn how to make passive income, so you can live life while your money works for you.
+[[26) Learn how to make money 247.]] If you can’t make money 24/7, then you can’t fully maximize your time alive. Create a brand. Create products. Create an ebook. Sell a skill. Consult. Learn how to make passive income, so you can live life while your money works for you.
 
 [[27) Travel far away.]] To live, but never truly explore all this world has to offer is one of life’s great tragedies. This world has so much to offer, it is your duty to go out into the world and find out!
 

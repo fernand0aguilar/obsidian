@@ -21,3 +21,20 @@ plation, convinced of a principle that underlies all phenomena, and
 putting oneself in harmony with the Absolute. Whoever attains to the per-
 ception of the Absolute raises himself above mundane things and awakes,
 “to a new Heaven and a new Earth.”
+
+
+![[CAE83DA7-D256-43B4-B155-AF7F81375F42.jpeg]]
+
+1. Think with honesty
+2. Forge yourself in the way
+3. Touch upon all of the arts
+4. Know the ways of all occupations
+5. Know the advantages and disadvantages of everything
+6. Develop a discerning eye in all matters
+7. Understand what cannot be seen by the eye
+8. Pay attention to even small things
+9. Do not involve yourself with the impractical
+
+[[OBSERVATIONS]]
+[[Perception ]]
+
