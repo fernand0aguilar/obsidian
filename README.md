@@ -1,1 +1,2 @@
 # obsidian
+[[Start Here]]

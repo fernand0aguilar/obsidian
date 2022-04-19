@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "notes/Carreer/Software Engineering/how_to_software_engineer.md",
             "mode": "source",
             "backlinks": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/Carreer/Software Engineering/how_to_software_engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "4e4f9d4d197e677b",
   "lastOpenFiles": [
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
+    "notes/Carreer/Software Engineering/Introduction to Cybersecurity.md",
+    "notes/Carreer/Software Engineering/Quality.md",
+    "notes/Carreer/Software Engineering/Requirements Engineering.md",
+    "notes/Get Radicalized/Subfolder/DAO.md",
+    "notes/Carreer/Software Engineering/Development.md",
     "README.md",
-    "assets/CAE83DA7-D256-43B4-B155-AF7F81375F42.jpeg",
-    "Communication 1.md",
-    "charm.md",
-    "notes/Fixing my Life/TR.md",
-    "notes/Fixing my Life/Cosmo Form.md",
-    "notes/Fixing my Life/glow.md",
-    "notes/Fixing my Life/99.md",
-    "notes/Fixing my Life/journaling/60 minutes of writing a day for 30 days.md",
-    "notes/Fixing my Life/journaling/Day 03.md"
+    "notes/books/Books.md",
+    "notes/books/Outwitting.md",
+    "notes/books/Read the Best 100 Books Over and Over Again.md"
   ]
 }
