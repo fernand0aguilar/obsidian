@@ -64,7 +64,7 @@
 • [[Complex systems]]
 • [[Spiral Dynamics]]
 • [[Psychology]]
-•[[persuasion]]
+•[[Persuasion]]
 •[[ethics]]
 • [[OBSERVATIONS]]
 • [[Commitment & consistency]]

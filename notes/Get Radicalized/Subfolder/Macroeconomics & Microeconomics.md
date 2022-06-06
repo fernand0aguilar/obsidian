@@ -1,6 +1,23 @@
 [[Equity]]
+“The field of microeconomics focuses its attention on the decision-making of individuals and businesses. Microeconomics is primarily concerned with markets for goods, services, and resources. Markets are central to understanding microeconomics. Whenever and wherever buyers and sellers come together to exchange resources, goods, or services, a market is created and the behavior of these markets is of particular interest to economists. Are they functioning efficiently? Do participants have access to adequate information? Who and how many participate in the market? How do the decisions made in one market impact the decisions in a related market?”
 
+Excerpt From
+Economics 101
+Alfred Mill
+This material may be protected by copyright.
+“MACROECONOMICS
 
+Macroeconomics is the study of how entire nations deal with scarcity. Macroeconomists analyze the systems nations create or allow for the allocation of goods and services. The questions they ask are varied and of great interest to individuals and policymakers alike:
+How do you measure the economy?
+Why does unemployment exist?
+How do changes in the amount of money affect the entire economy?
+What impact does government spending or tax policy have on the economy?
+How can you make the economy grow?”
+
+Excerpt From
+Economics 101
+Alfred Mill
+This material may be protected by copyright.
 
 
 60 Best Pieces of Financial Advice That You Should’ve Learned in College

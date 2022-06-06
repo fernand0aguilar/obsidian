@@ -4,16 +4,21 @@ Get REALLY good at ONE thing:
 
 Then compliment with other skills: 
 
-- [[Social skills]] 
-	- [[fitness,]]
-	- [[nutrition]]
-	- [[Fighting]]
-	- [[Public speaking ]]
-	- [[Reasoning ]]
-	- [[Good listening ]]
-	- [[Writing ]]
-	- [[Communication 1]]
-	- [[Kaizen]]
+[[99]]
+
+## Social
+- [[fitness,]]
+- [[nutrition]]
+- [[Fighting]]
+- [[Public speaking ]]
+- [[Reasoning ]]
+- [[Good listening ]]
+- [[Writing ]]
+- [[Communication]]
+- [[Kaizen]]
+- [[How To Make Women Love You]] 
+
+# Money
 - [[Business management ]]
 	- [[Investing]] 
 	- [[Economics ]]
@@ -23,8 +28,10 @@ Then compliment with other skills:
 	- [[Basic accounting ]]
 - [[How to sell ]]
 	- [[sales]] 
-	- [Marketing]]
+	- [[Marketing]]
 	- [[Web design]]
 	- [[Copy]]
+
+# Wisdom
 - [[Reading]]
 	- [[History]]

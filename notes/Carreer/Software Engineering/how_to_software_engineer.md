@@ -11,9 +11,9 @@ People don't want to use your software. They want to lose weight, laugh, be ente
 
 The life cycle has two different macro phases
 
-    [[Development]]
-    Maintenance
-
+[[Development]]
+[[Maintenance]]
+	
 It has also 5 micro phases
 
     Requirements Gathering
@@ -25,6 +25,7 @@ It has also 5 micro phases
 ***
 Written Process:
 
+# [[Planning]]
 Start with project managment:
 	gather user requirements
 	analyze what they think they want
@@ -33,7 +34,7 @@ Start with project managment:
 	decide if I can go with existing solutions 
 	If not design a solution
 
-design means: 
+[[Design]] means: 
 	either thinking about the new solution and delivering results or make a new proof of concept
 	and from there iterate
 	
@@ -48,7 +49,7 @@ this involves a lot of frontend development along with some backend integrations
 
 ***
 
-# [[notes/Carreer/Software Engineering/Requirements Engineering]]
+# [[Requirements Engineering]]
 
 Software requirements express the needs and constraints placed on a software product that contribute to the solution of some real-world problem. 
 
@@ -61,8 +62,6 @@ By thinking on the requirements it is possible to calculate what is the cost and
 # [[Design]] & Project
 
 A way of solving problems.
-
-[[How to Design Interactions]]
 
 It is defined as a process to map the characteristics of the system. Ensuring that it has a good Human computer Interaction.
 
@@ -78,7 +77,7 @@ The design/project phase includes:
 
 * **Design of algorithms and data structures:** It aims to determine, independently of the adopted programming language, the algorithmic solutions, and the associated data structures.
 
-The Design or Design phase is the final phase of the [[planning]] process and results in the architecture document.
+The Design or Design phase is the final phase of the [[Planning]] process and results in the architecture document.
 
 ***
 
@@ -123,6 +122,8 @@ Can be:
 * of support
 
 ***
+https://github.com/frag997/p5-plus-plus/tree/master/3.Projects/06.RainbowFlowField
+
 
 # Final Considerations: 
 

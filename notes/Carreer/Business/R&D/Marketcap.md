@@ -1,1 +1,0 @@
--   [Market capitalization](https://en.m.wikipedia.org/wiki/Market_capitalization "Market capitalization")
