@@ -1,5 +1,13 @@
 # Requirements Engineering
 
+# Phases
+- Elicitation
+- Modeling
+- Prioritization
+- Verification
+- Validation
+
+---
 
 ### Module 00 - Brainstorming
 * Start with why?
@@ -30,8 +38,6 @@
   - Reach a larger audience.
   - More quantitative data.
   - Know anonymity better.
-* MoSCoW
-  - Prioritization of post-elicitation requirements.
 
 ### Module 04 - Modeling
 * Scenarios and lexicons
@@ -47,6 +53,18 @@
 * Traceability Matrix
   - Forward-from
   - Backward-from 
+
+### Prioritization
+* MoSCoW
+  - Prioritization of post-elicitation requirements.
+
+### Analysis
+
+##### Verification
+
+##### Validation
+
+
 
 #### Features
 example: 

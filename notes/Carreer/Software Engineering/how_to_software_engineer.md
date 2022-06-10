@@ -49,7 +49,7 @@ this involves a lot of frontend development along with some backend integrations
 
 ***
 
-# [[Requirements Engineering]]
+# [[notes/Carreer/Software Engineering/Planning/Requirements Engineering]]
 
 Software requirements express the needs and constraints placed on a software product that contribute to the solution of some real-world problem. 
 

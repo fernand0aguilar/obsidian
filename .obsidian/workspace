@@ -4,12 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8850788a162f4356",
+        "id": "8b16d3bcb32d1d6e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "notes/Carreer/Software Engineering/Planning/Requirements Engineering.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        },
+        "group": "c2680e7e62b4e321"
+      },
+      {
+        "id": "b3a6c42bd8b96995",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "notes/Carreer/Software Engineering/Planning/Requirements Engineering.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "c2680e7e62b4e321"
       }
     ],
     "direction": "vertical"
@@ -53,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Carreer/Software Engineering/Planning/Requirements Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8850788a162f4356",
+  "active": "8b16d3bcb32d1d6e",
   "lastOpenFiles": [
-    "notes/Get Radicalized/random/main.md",
-    "notes/Get Radicalized/Subfolder/Untitled.md",
-    "notes/This is how you win/Threads/glow.md",
-    "notes/This is how you win/This is how you win.md",
-    "notes/This is how you win/Threads/99.md",
-    "notes/Get Radicalized/Subfolder/Aesthetic Theory.md",
-    "notes/This is how you win/Threads/Cosmo Form.md",
-    "notes/Education/Education.md",
-    "notes/Get Radicalized/random/TR.md",
-    "notes/Fixing my Life/Self Authoring Program/The Meaning of Life/Vision.md"
+    "notes/Carreer/Software Engineering/Planning/Requirements Engineering.md",
+    "notes/Get Radicalized/Start Here.md",
+    "notes/Get Radicalized/Subfolder/Free market capitalism.md",
+    "Requirements Envisioning.md",
+    "Requirements Engineering.md",
+    "notes/Carreer/Software Engineering/how_to_software_engineer.md",
+    "notes/Carreer/Software Engineering/Design/UX/UX Mapping Methods.md",
+    "notes/Carreer/Software Engineering/Design/UX/How to Design Interactions.md",
+    "notes/Carreer/Software Engineering/Development/Development.md",
+    "notes/Carreer/Software Engineering/Design/UX/Design Thinking.md"
   ]
 }
