@@ -50,6 +50,10 @@
 • [[TR]]
 • [[Transcendental meditation]]
 • [[Mind]]
+• [[Boss Your Day]]
+• [[This is how you win]]
+• [[99]]
+
 
 # Philosophy
 • [[Accurate Thinking]]

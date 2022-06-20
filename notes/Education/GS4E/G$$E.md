@@ -1,11 +1,4 @@
-Our Bachelor in Entrepreneurship & Innovation is structured in 5 week modules that follow the stages of starting and growing a business.
-
-
-
-https://www.startupschool.org/curriculum
-
-
-## YEAR 1
+## [[YEAR 1]]
 * [[* Agile Working]]
 * [[Social & Spiritual Entrepreunership]]
 * [[Effectuation]]
@@ -15,7 +8,7 @@ https://www.startupschool.org/curriculum
 * [[Brilliance of failure]]
 * [[The innovation challenge]]
 
-## Year 2
+## [[Year 2]]
 * [[Trendwatching]]
 * [[Value Creation]]
 * [[Lean Startup]]
@@ -25,7 +18,7 @@ https://www.startupschool.org/curriculum
 * [[Art of leadership]]
 * [[Business modeling]]
 
-## Year 3
+## [[Year 3]]
 * [[Future tech]]
 * [[Lean Pricing]]
 * [[Alternative Financing]]
@@ -35,7 +28,7 @@ https://www.startupschool.org/curriculum
 * [[Data crunching]]
 * [[Profiling Module]]
 
-## Year 4
+## [[Year 4]]
 
 * [[Profiling Module]]
 * [[Machine Learning]]

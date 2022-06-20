@@ -106,32 +106,26 @@ You may find out that you've already got an identity strategy but never really t
 ---
 
 ### Open
-![[Screen Shot 2022-02-01 at 12.20.03 PM.png]]
 
 ---
 
 ### Avoidance
-![[Screen Shot 2022-02-01 at 12.20.57 PM.png]]
 
 ---
 
 ### Audience
-![[Screen Shot 2022-02-01 at 12.23.23 PM.png]]
 
 ---
 
 ### Content
-![[Screen Shot 2022-02-01 at 12.23.50 PM.png]]
 
 ---
 
 ### Compartmentalization
-![[Screen Shot 2022-02-01 at 12.24.25 PM.png]]
 
 ---
 
 ### Custom
-![[Screen Shot 2022-02-01 at 12.25.46 PM.png]]
 
 ---
 
@@ -156,7 +150,7 @@ If you wish to always stay anonymous, create an entire person you can enbody so 
 
 ---
 
-Become that alias. It is essential for good opsec. Proper [[Planning]] and practice prevents piss poor performance.
+Become that alias. It is essential for good opsec. Proper Planning and practice prevents piss poor performance.
 
 One mistake in timing implementation configuration can be enough.
 

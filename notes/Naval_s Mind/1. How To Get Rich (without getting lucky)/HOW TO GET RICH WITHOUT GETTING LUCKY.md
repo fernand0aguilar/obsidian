@@ -50,4 +50,5 @@
 49 [[notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Net Present Value What Future Income Is Worth Today]]
 50 [[notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Externalities Calculating the Hidden Costs of Products]]
 51 [[notes/Naval_s Mind/1. How To Get Rich (without getting lucky)/Finding Time to Invest in Yourself]]
+52 [[We Should Eventually Be Working for Ourselves]]
 

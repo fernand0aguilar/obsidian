@@ -28,3 +28,21 @@ function getCount(str) {
 	  }, 0);;
 }
 ```
+
+
+## Fib o(n) with memoization
+
+Here is a way to generically memoize any function, written in Python:
+```
+def memoize(f): 
+	storedValues={} 
+	def doit(arg): 
+	if not storedValues.has_key(arg):
+		storedValues[arg] = f(arg) 
+		return storedValues[arg] 
+return doit
+
+```
+
+fib = memoize(fib) 
+>>> fib(10)
