@@ -43,6 +43,7 @@ def memoize(f):
 return doit
 
 ```
+[](https://en.wikipedia.org/wiki/Merkle_tree)
 
 fib = memoize(fib) 
 >>> fib(10)

@@ -1,3 +1,5 @@
+[[[[Being Ethical Is Long-Term Greedy]]]]
+[[Merckel Tree]]
 # Blockchains
 ---
 

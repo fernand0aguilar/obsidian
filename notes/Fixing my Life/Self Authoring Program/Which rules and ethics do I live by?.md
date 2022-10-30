@@ -1,5 +1,7 @@
 # Moral code
 
+
+[[ethics]]
 I am 1. Need to learn how life and yourself work
 2. Master understanding and learning
     1. Cornerstone to advancing

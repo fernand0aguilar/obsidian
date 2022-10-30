@@ -16,3 +16,4 @@ validate with small amounts
 scale
 
 
+[[algo trade]]

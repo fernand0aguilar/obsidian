@@ -40,4 +40,6 @@ outcomes
 organizational assets
 Project Management Institute. All rights reserved.
 
+[[Work breakdown structure]]
 
+[[Value Streams]]

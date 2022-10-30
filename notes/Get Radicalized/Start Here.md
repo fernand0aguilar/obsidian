@@ -10,7 +10,10 @@
 • [[Venture studio]]
 • [[microeconomics]], 
 • [[game theory]], 
-, persuasion, ethics, mathematics, and computers.
+, [[persuasion]], 
+[[ethics]], 
+mathematics, 
+and computers.
 
 # Sociology & Politics
 • [[Improving Nations]]

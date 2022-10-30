@@ -27,6 +27,7 @@ Although usability testing is not exactly a technique for eliciting new requirem
 ---
 
 ## 1. Techniques To be Used
+* [[Design Sprint]]
 * [[UX Mapping Methods]]
 * [[Requirements Engineering]]
 * [[Introspection]]
