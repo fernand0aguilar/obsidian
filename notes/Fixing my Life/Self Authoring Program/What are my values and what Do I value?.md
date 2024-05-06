@@ -1,3 +1,0 @@
-Kaizen Process
-
-

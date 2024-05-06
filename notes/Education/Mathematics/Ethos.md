@@ -1,1 +1,0 @@
-Credibility and ethics

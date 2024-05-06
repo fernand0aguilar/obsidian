@@ -1,5 +1,0 @@
-[[Communication]]
-[[OBSERVATIONS]]
-[[FEELINGS]]
-[[NEEDS]]
-[[REQUESTS]]

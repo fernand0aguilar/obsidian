@@ -1,1 +1,0 @@
-https://en.m.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two

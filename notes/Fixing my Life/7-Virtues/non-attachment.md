@@ -1,1 +1,0 @@
-(https://en.m.wikipedia.org/wiki/Non-attachment "Non-attachment")

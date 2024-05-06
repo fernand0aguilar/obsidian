@@ -1,1 +1,0 @@
-calmness, compassion, adventure, courage, confidence, greatness of spirit, magnificence, friendliness, benevolence, industriousness,

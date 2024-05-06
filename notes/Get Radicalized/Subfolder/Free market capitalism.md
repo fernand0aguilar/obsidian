@@ -1,1 +1,0 @@
-[[Processamento de Sinais Financeiros]]
