@@ -1,0 +1,1 @@
+harmony, definiteness of purpose, caution

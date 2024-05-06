@@ -1,0 +1,4 @@
+Many physiologists and psychologists have claimed, and many scientific studies have suggested, that Transcendental Meditation relaxes and vitalizes both the body and the mind, including by reducing [stress](https://www.britannica.com/science/stress-psychology-and-biology) and [anxiety](https://www.britannica.com/science/anxiety), lowering [blood pressure](https://www.britannica.com/science/blood-pressure) ([hypertension](https://www.britannica.com/science/hypertension)), [enhancing](https://www.merriam-webster.com/dictionary/enhancing)[creativity](https://www.britannica.com/topic/creativity) and other [intellectual](https://www.merriam-webster.com/dictionary/intellectual) abilities, and relieving [depression](https://www.britannica.com/science/depression-psychology). However, other researchers have questioned the validity of such studies, asserting that they were poorly designed.
+
+
+

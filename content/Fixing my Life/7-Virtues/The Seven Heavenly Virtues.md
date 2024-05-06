@@ -1,0 +1,7 @@
+[[Faith]]
+[[notes/Fixing my Life/7-Virtues/Hope]]
+[[Charity]]
+[[Fortitude]]
+[[Justice]]
+[[notes/Fixing my Life/7-Virtues/Temperance]]
+[[notes/Fixing my Life/7-Virtues/Prudence]]
