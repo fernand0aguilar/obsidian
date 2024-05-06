@@ -1,0 +1,1 @@
+Faith to me is one of those concepts where you don't have any impirical data to back test your data with but you still have the ability to see with vision, to be a visionairy and to make it in the mind first and in the reality secondly.
