@@ -1,12 +1,9 @@
-
-If I know what I want from life, demand it, and back my demand by willingness to pay life's price for what I want and refuse to accept any substitutes, the law of hypnotic rhytm helps by natural and logical means to transmute it into its physical counterpart. 
-
+# Realm of ideas.
+• **Ideal Beauty**: Plato posited that beauty in the material world is a reflection of a higher, ideal form of beauty that exists in the realm of ideas.
 
 # On Success
 
-
 Use failure as an stepping stone to achievement while others use it as an alibi for not producing results.
-
 
 One of the most effective devices to drift in life is failure.
 
@@ -15,7 +12,6 @@ The majority of people begins to drift once they meet opposition. And not one ou
 Failure breaks down ones morale, destroy self-confidence, subdues  enthusiasm, dulls imagination and drives away definiteness of purpose. 
 
 Without these qualities no one can succeed in any undertaking.
-
 
 This same quality is the chief asset of every man who attains outstanding success in any calling.
 
