@@ -28,4 +28,3 @@ based on the strength of the relationship of each node in the graph, we can agre
 
 
 [[LENS PROTOCOL]]
-[[]]
