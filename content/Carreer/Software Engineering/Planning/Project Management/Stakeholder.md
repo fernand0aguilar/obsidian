@@ -1,0 +1,1 @@
+In a corporation, a stakeholder is a member of "groups without whose support the organization would cease to exist"

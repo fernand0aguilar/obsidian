@@ -25,7 +25,7 @@ It has also 5 micro phases
 ***
 Written Process:
 
-# [[Planning]]
+# [[Education/MARS College/Planning]]
 Start with project managment:
 	gather user requirements
 	analyze what they think they want
@@ -77,7 +77,7 @@ The design/project phase includes:
 
 * **Design of algorithms and data structures:** It aims to determine, independently of the adopted programming language, the algorithmic solutions, and the associated data structures.
 
-The Design or Design phase is the final phase of the [[Planning]] process and results in the architecture document.
+The Design or Design phase is the final phase of the [[Education/MARS College/Planning]] process and results in the architecture document.
 
 ***
 
