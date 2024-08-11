@@ -1,5 +1,5 @@
 # Kanban
-This gives teams more flexible [[Education/MARS College/Planning]] options, faster output, clearer focus, and transparency throughout the development cycle.
+This gives teams more flexible [[Planning 1]] options, faster output, clearer focus, and transparency throughout the development cycle.
 
 	> “Stop Starting! And Start Finishing!”,
 
@@ -8,7 +8,7 @@ The purpose of Kanban is to continually improve one’s own work process.
 ## What is kanban?
 A basic kanban board has a three-step workflow: To Do, In Progress, and Done.
 
-### [[Education/MARS College/Planning]] flexibility
+### [[Planning 1]] flexibility
 
 A kanban team is only focused on the work that's actively in progress. Once the team completes a work item, they pluck the next work item off the top of the backlog.
 

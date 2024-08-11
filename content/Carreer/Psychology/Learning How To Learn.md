@@ -1,7 +1,7 @@
 # Learning How To Learn
 	> "It's better to create than to learn"
 	
-https://www.coursera.org/learn/learning-how-to-learn
+[[Pasted image 20220126132416.png]]
 
 ---
 
@@ -17,7 +17,7 @@ The aim here to give you tools and tactics that help you do something new in les
 1. Paying Attention
 2. Taking Notes
 3. Getting more out of books and resources
-4. [[Education/MARS College/Planning]] Efficiently
+4. [[Planning 1]] Efficiently
 5. Optimal Study Environment
 6. Staying Organized
 7. Defeating Procrastination

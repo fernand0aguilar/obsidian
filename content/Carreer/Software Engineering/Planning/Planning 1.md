@@ -15,4 +15,6 @@ If you’ve got a strong enough reason and a strong enough purpose, you will fig
 The sequence is critical, in that order, your actions will be sustainable through life’s challenges, and you’ll have possibility of experiencing what it is you truly desire.
 
 
-[[Product Managment Nanodegree]]
+
+[[Product Management]]
+[[Project Managment]]

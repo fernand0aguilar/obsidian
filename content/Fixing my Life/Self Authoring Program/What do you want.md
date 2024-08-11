@@ -12,4 +12,4 @@
 * [[What do I want to use my time on?]]
 * [[Which People would fit]],
 * [[the meaning of life]]
-[[2. Learning How To Learn]]
+[[Learning How To Learn]]

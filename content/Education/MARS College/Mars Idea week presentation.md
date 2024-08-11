@@ -6,7 +6,7 @@
 Facilitate an accountability group meeting
 
 ---
-## [[2. Learning How To Learn]]
+## [[Learning How To Learn]]
 Tutorial: Creating a second brain
 
 ---

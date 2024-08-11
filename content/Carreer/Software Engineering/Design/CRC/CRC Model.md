@@ -55,7 +55,7 @@ Just make sure you are in the right movie theater, don't want to think you are o
 
 There seems to be some questions about CRC so I will give an explanation I hope everyone can understand and how that applies.
 
-Designing and building a system is similar to [[Education/MARS College/Planning]] a trip to a destination.  
+Designing and building a system is similar to [[Planning 1]] a trip to a destination.  
 We first decide we want to go there, what we are going to do there and what are we going to bring back or deliver there.  
 
 Depending on those answers, we might choose to:

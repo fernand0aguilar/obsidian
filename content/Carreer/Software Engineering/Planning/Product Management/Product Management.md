@@ -1,3 +1,4 @@
+[[Product Managment Nanodegree]]
 ## Principles
 We believe in these principles:
 • Delight customers
