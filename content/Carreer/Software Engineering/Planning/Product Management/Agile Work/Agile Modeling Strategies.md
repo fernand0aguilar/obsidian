@@ -9,4 +9,4 @@
 **[[Agile Specification Strategies]]**
 **[[Related Techniques in Agile]]**
 **[[Squads]]**
-**[[Kanban]]**
+**[[Carreer/Software Engineering/Planning/Soft Skills/Kanban]]**

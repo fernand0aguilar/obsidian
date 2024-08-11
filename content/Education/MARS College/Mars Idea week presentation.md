@@ -24,7 +24,7 @@ How to communicate with teamates
 ---
 
 ## 6. Kanban Approach
-How to make [[schedules]]
+How to make [[Carreer/Software Engineering/Planning/Project Management/Kanban]]
 
 ---
 ## 7. Design + Fiction 

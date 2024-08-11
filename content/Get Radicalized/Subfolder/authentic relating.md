@@ -1,4 +1,4 @@
 What is authentic relating
 
 
-[[Authentic Leadership]]
+[[authentic leadership]]
