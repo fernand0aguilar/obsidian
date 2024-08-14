@@ -32,6 +32,21 @@ An example of this can be experienced with the Olympic logo. When you look at th
 
 This Gestalt principle is also sometimes referred to as the law of good figure as the word _prägnanz_ is a German term meaning "good figure."
 
+Closure
+Similarity
+Symetry
+[[Emergence]]
+Common Region
+Continuity
+Proximity
+Multistability
+Figure / Ground
+Common Fate
+Invariance
+Pragnanz
+
+---
+
 ## Law of Proximity
 
 According to the law of proximity, things that are close together seem more related than things that are spaced farther apart.4 Put another way, when objects are close to each other, we also tend to group them together.

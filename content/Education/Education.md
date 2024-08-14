@@ -1,5 +1,5 @@
 [[UnB]]
-[[GS4E]]
+[[G$4E - Global School Of Entrepreneurship]]
 [[MARS COLLEGE]]
 
 
