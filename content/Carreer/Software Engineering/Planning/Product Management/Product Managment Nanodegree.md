@@ -96,8 +96,8 @@ Product Management makes sure that the team is spending their time on meaningful
 
 # Lesson 2 - [[Role of a PM]]
 
-# Lesson 3 - [[Finding the right problem]]
+# Lesson 3 - [[First Principles thinking]]
 
-# Lesson 4 - [[Vision and strategy]] 
+# Lesson 4 - [[Vision]] and [[strategy]]
 
-# Lesson 5 - [[Communication skills]]
+# Lesson 5 - [[Communication]] skills
