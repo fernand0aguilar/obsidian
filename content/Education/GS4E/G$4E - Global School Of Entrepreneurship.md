@@ -1,5 +1,5 @@
 ## [[YEAR 1]]
-* [[* Agile Working]]
+* [[Agile Working]]
 * [[Social & Spiritual Entrepreunership]]
 * [[Effectuation]]
 * [[Design Thinking]]

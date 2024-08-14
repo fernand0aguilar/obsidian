@@ -1,4 +1,4 @@
-[[G$$E]]
+[[G$4E - Global School Of Entrepreneurship]]
 
 
 ## Pricipios Norteadores
