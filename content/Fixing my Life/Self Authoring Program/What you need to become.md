@@ -4,7 +4,6 @@
 *This is the Gap*
 
 [[What do you want]]
-[[Power dynamics]]
 
 ---
 
