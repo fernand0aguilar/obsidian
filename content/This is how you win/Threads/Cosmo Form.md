@@ -1,3 +1,4 @@
+* [[Paradise]]
 # The Cosmic Order Form
 
 What do you have? 
@@ -5,7 +6,6 @@ What do you have?
 What will you give up?”
 
 # 5 steps
-
 ## Step 1: 
 
 **Get Clear on What You Want (and Why You Want To Manifest it Into Your Life).**
@@ -39,9 +39,6 @@ grateful for.
 ```
 I am grateful for...
 ```
-
-
-
 ## Step 4: 
 **Allow**
 
