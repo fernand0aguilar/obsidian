@@ -1,0 +1,9 @@
+**Palmares**, or **Quilombo dos Palmares**, was  a community of escaped slaves and others, in [colonial Brazil](https://en.wikipedia.org/wiki/Colonial_Brazil "Colonial Brazil") that developed from 1605 until its suppression in 1694. 
+
+It was located in the [captaincy](https://en.wikipedia.org/wiki/Captaincy "Captaincy") of [Pernambuco](https://en.wikipedia.org/wiki/Pernambuco "Pernambuco"), in what is today the Brazilian state of [Alagoas](https://en.wikipedia.org/wiki/Alagoas "Alagoas"). 
+
+No contemporary document called Palmares a _quilombo_; instead the term _[mocambo](https://en.wikipedia.org/wiki/Mocambos "Mocambos")_
+
+One estimate places the population of Palmares in the 1690s at around 11,000 inhabitants
+
+By the 1640s, many of the mocambos had consolidated into larger entities ruled by kings. Dutch descriptions by [Caspar Barlaeus](https://en.wikipedia.org/wiki/Caspar_Barlaeus "Caspar Barlaeus") (published 1647) and [Johan Nieuhof](https://en.wikipedia.org/wiki/Johan_Nieuhof "Johan Nieuhof") (published 1682) spoke of two larger consolidated entities, "Great Palmares" and "Little Palmares". In each of these units there was a large central town that was fortified and held 5,000-6,000 people. The surrounding hills and valleys were filled with many more mocambos of 50 to 100 people. A description of the visit of Johan Blaer to one of the larger mocambos in 1645 (which had been abandoned) revealed that there were 220 buildings in the community, a church, four [smithies](https://en.wikipedia.org/wiki/Blacksmith "Blacksmith"), and a council house. Churches were common in Palmares partly because Angolans were frequently [Christianized](https://en.wikipedia.org/wiki/Christianized "Christianized"), either from the Portuguese colony or from the [Kingdom of Kongo](https://en.wikipedia.org/wiki/Kingdom_of_Kongo "Kingdom of Kongo"), which was a Christianized country at that time. Others had been converted to Christianity while enslaved. 

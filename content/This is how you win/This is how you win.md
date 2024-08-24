@@ -35,3 +35,4 @@ Then compliment with other skills:
 # Wisdom
 - [[Reading]]
 	- [[History]]
+	- [[Zen]]
